@@ -1,0 +1,219 @@
+{
+    "antitusiva" : {
+        "descripcion": "Se utiliza para tratar la tos seca e irritativa que no produce flemas."
+    }, 
+
+    "carminativa": {
+        "descripcion": "Previene la formación de gases en el tubo digestivo y facilita su expulsión, aliviando la distensión del abdomen y la flatulencia"
+    },
+    "antidiarreica": {
+        "descripcion": "Se utiliza para tratar la diarrea, reduciendo la frecuencia y el volumen de las deposiciones"
+    },
+    "antigripal": {
+        "descripcion": "Alivia los síntomas de la gripe, como fiebre, dolor de cabeza, dolor muscular y congestión nasal"
+    },
+    "abortiva": {
+        "descripcion": "Induce la interrupción del embarazo en las primeras etapas"
+    },
+    "diurética": {
+        "descripcion": "Aumenta la producción de orina, ayudando a eliminar el exceso de líquidos y toxinas del cuerpo"
+    },
+    "colagoga": {
+        "descripcion": "Estimula la producción y liberación de bilis de la vesícula biliar, facilitando la digestión de las grasas"
+    },
+    "depurativa": {
+        "descripcion": "Ayuda a eliminar toxinas y desechos del cuerpo, purificando la sangre y los órganos"
+    },
+    "espasmogénica": {
+        "descripcion": "Provoca espasmos o contracciones musculares"
+    },
+    "musculotropa": {
+        "descripcion": "Actúa directamente sobre los músculos, afectando su tono o contractilidad"
+    },
+    "estomáquica": {
+        "descripcion": "Fortalece y tonifica el estómago, mejorando su función digestiva y aliviando las molestias estomacales"
+    },
+    "afrodisíaca": {
+        "descripcion": "Aumenta el deseo y la función sexual"
+    },
+    "emoliente": {
+        "descripcion": "Suaviza e hidrata la piel, reduciendo la sequedad, la irritación y la picazón"
+    },
+    "antiinflamatoria": {
+        "descripcion": "Reduce la inflamación y el dolor asociados con diversas afecciones"
+    },
+    "rubefaciente": {
+        "descripcion": "Produce enrojecimiento y aumento del flujo sanguíneo en la piel cuando se aplica tópicamente"
+    },
+    "antianginosa": {
+        "descripcion": "Previene y trata la angina de pecho, aliviando el dolor torácico causado por la reducción del flujo sanguíneo al corazón"
+    },
+    "digestiva": {
+        "descripcion": "Ayuda a mejorar la digestión, aliviando síntomas como indigestión, acidez estomacal, gases y estreñimiento"
+    },
+    "cardio-circulatoria": {
+        "descripcion": "Mejora la función cardiovascular, regulando la presión arterial, el ritmo cardíaco y la circulación sanguínea."
+    },
+    "antihemorroidal": {
+        "descripcion": "Alivia los síntomas de las hemorroides, como dolor, picazón e hinchazón."
+    },
+    "antiespasmódica": {
+        "descripcion": "Alivia los espasmos musculares, como los cólicos abdominales y los calambres musculares."
+    },
+    "antihelmíntica": {
+        "descripcion": "Elimina los gusanos parásitos del tracto intestinal."
+    },
+    "antiamebiana": {
+        "descripcion": "Elimina las amebas, parásitos protozoarios que causan disentería."
+    },
+    "expectorante": {
+        "descripcion": "Ayuda a expulsar la flema y las mucosas de los pulmones."
+    },
+    "antiasmática": {
+        "descripcion": "Alivia los síntomas del asma, como sibilancias, dificultad para respirar y tos."
+    },
+    "antibacteriana": {
+        "descripcion": "Elimina o inhibe el crecimiento de bacterias."
+    },
+    "antifúngica": {
+        "descripcion": "Elimina o inhibe el crecimiento de hongos."
+    },
+    "antitrombótica": {
+        "descripcion": "Previene o reduce la formación de coágulos sanguíneos."
+    },
+    "antihipercolesterolémica": {
+        "descripcion": "Reduce los niveles de colesterol en la sangre."
+    },
+    "tónica": {
+        "descripcion": "Fortalece y revitaliza el cuerpo, mejorando el bienestar general."
+    },
+    "antiparasitaria": {
+        "descripcion": "Elimina parásitos del cuerpo, como piojos, garrapatas y gusanos."
+    },
+    "hipotensor": {
+        "descripcion": "Reduce la presión arterial."
+    },
+    "hipoglicemiante": {
+        "descripcion": "Reduce los niveles de azúcar en la sangre."
+    },
+    "analgésica": {
+        "descripcion": "Alivia el dolor."
+    },
+    "antiartrítica": {
+        "descripcion": "Alivia los síntomas de la artritis, como dolor, hinchazón y rigidez."
+    },
+    "antiséptica": {
+        "descripcion": "Previene o inhibe el crecimiento de microorganismos."
+    },
+    "antihistamínica": {
+        "descripcion": "Bloquea los efectos de la histamina, un químico involucrado en las reacciones alérgicas."
+    },
+    "cardiotónica": {
+        "descripcion": "Fortalece el músculo cardíaco, mejorando su función."
+    },
+    "antiespasmódico": {
+        "descripcion": "Alivia los espasmos musculares, como los cólicos abdominales y los calambres musculares."
+    },
+    "estimulante": {
+        "descripcion": "Aumenta la actividad física o mental."
+    },
+    "galactogoga": {
+        "descripcion": "Aumenta la producción de leche materna."
+    },
+    "antipirética": {
+        "descripcion": "Reduce la fiebre."
+    },
+    "hepatoprotectora": {
+        "descripcion": "Protege el hígado del daño."
+    },
+    "sedante": {
+        "descripcion": "Produce somnolencia o relajación."
+    },
+    "hipotensora": {
+        "descripcion": "Disminuye la presión arterial."
+    },
+    "antipruriginosa": {
+        "descripcion": "Alivia la picazón."
+    },
+    "antineurálgica": {
+        "descripcion": "Alivia el dolor causado por daño a los nervios."
+    },
+    "antirreumática": {
+        "descripcion": "Reduce la inflamación y el dolor en las articulaciones."
+    },
+    "antiherpética": {
+        "descripcion": "Trata las infecciones causadas por el virus del herpes."
+    },
+    "anticancerosa": {
+        "descripcion": "Trata o previene el cáncer."
+    },
+    "dermatológica": {
+        "descripcion": "Trata afecciones de la piel."
+    },
+    "aperitiva": {
+        "descripcion": "Estimula el apetito."
+    },
+    "emenagoga": {
+        "descripcion": "Promueve el flujo menstrual."
+    },
+    "astringente": {
+        "descripcion": "Contrae los tejidos y reduce la secreción."
+    },
+    "febrífuga": {
+        "descripcion": "Reduce la fiebre."
+    },
+    "antiepiléptica": {
+        "descripcion": "Previene o reduce las convulsiones."
+    },
+    "insecticida": {
+        "descripcion": "Mata o repele insectos."
+    },
+    "antiulcerosa": {
+        "descripcion": "Protege o cura las úlceras del tracto digestivo."
+    },
+    "antipalúdica": {
+        "descripcion": "Previene o trata la malaria."
+    },
+    "purgante": {
+        "descripcion": "Estimula la evacuación intestinal."
+    },
+    "antiodontálgica": {
+        "descripcion": "Alivia el dolor de muelas."
+    },
+    "refrescante": {
+        "descripcion" : "Creas sensación de frescura o alivio en la piel, las mucosas o el tracto digestivo"
+    },
+    "hepatotropa": {
+        "descripcion": "Protege el hígado de daños."
+    },
+    "antiemética": {
+        "descripcion": "Previene o reduce las náuseas y los vómitos."
+    },
+    "antivenérea": {
+        "descripcion": "Combate las enfermedades de transmisión sexual."
+    },
+    "hemostática": {
+        "descripcion": "Detiene o reduce el sangrado."
+    },
+    "antiictérica": {
+        "descripcion": "Combate o previene la ictericia (coloración amarillenta de la piel y los ojos)."
+    },
+    "díaforética": {
+        "descripcion": "Promueve la sudoración."
+    },
+    "colerética": {
+        "descripcion": "Estimula la producción de bilis por el hígado"
+    },
+    "citostática": {
+        "descripcion": "Inhibe o detiene el crecimiento y la división celular."
+    },
+    "vulneraria": {
+        "descripcion": "Promueve la cicatrización de heridas."
+    },
+    "antidismenorreica": {
+        "descripcion": "Alivia los cólicos menstruales."
+    },
+    "resolutiva": {
+        "descripcion": "Ayuda a disolver o dispersar acumulaciones anormales."
+    }
+}

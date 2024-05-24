@@ -1,0 +1,327 @@
+{
+    "Aguacate" : {
+        "nombre_cientifico" : "Persea americana",
+        "familia": "Lauraceae",
+        "descripcion": "Árbol de hasta 20 m de altura y con el tronco de unos 60 cm de diámetro. Hojas alternas, elípticas, coriáceas, lampiñas en la cara superior, algo pubescentes y nervadura prominente en la cara inferior. Flores pequeñas, verdosas y tomentosas. Fruto drupáceo, de forma y dimensiones variables según el tipo de cultivo, monospermo y con la pulpa aceitosa",
+        "propiedades" : {
+            "Hojas": ["antitusiva", "carminativa", "antidiarreica", "antigripal", "abortiva", "diurética", "colagoga", "depurativa", "espasmogénica", "musculotropa", "estomáquica"], 
+            "Fruto": ["afrodisíaca", "carminativa", "analgésica", "emoliente"]
+        },
+        "componentes": {
+            "Hojas":  "Aceite esencial con estragol-metilchavicol, alfa-pineno y otros terpenos, flavonoides y taninos",
+            "Fruto": "Contiene vitaminas A y E, lípidos, proteínas, carotenoides, glucósidos y sesquiterpenos",
+            "Semilla": "Contiene ácidos grasos, almidón y otros carbohidratos, glucósidos, esteroides y proantocianinas"
+        },
+        "advertencias": "El extracto acuoso de las hojas y los frutos, por vía oral, en ratón muestra una DL50 > 112,5 g/Kg de masa corporal y la toxicidad aguda intraperitoneal es igual a 8,8 g/Kg. No utilizar en embarazadas. Se reportan casos de alergia por contacto con crías que contienen la pulpa",
+        "posologia": {}
+    },
+
+    "Ají" : {
+        "nombre_cientifico" : "Capsicum annuum",
+        "familia": "Solanaceae",
+        "descripcion": "Hierba de tallos bifurcados y flexuosos, de altura variable en dependencia del cultivar. Hojas mibranosas, alternas, estrechadas tanto hacia la base como hacia el ápice, pecioladas. Flores de corola regular, blancas, con 5 lóbulos, solitarias o en pequeños grupos axilares. Fruto carnoso de superficie lisa y color, forma y tamaño variable según cultivar", 
+        "propiedades": {
+            "Fruto": ["estomáquica", "afrodisíaca", "antiinflamatoria", "rubefaciente", "En aplicaciones externas para la artosis (fricciones, linimento o iplastos)"]
+        },
+        "componentes": {
+            "Fruto": "Hasta 2 % de capsaicina en frutos maduros, glicósidos, hasta 0,2 % de vitamina C y trazas de un aceite volátil de composición desconocida"
+        },
+        "advertencias": "La capsaicina contenida en los frutos maduros puede provocar irritación en la piel. Evitar el uso prolongado de la planta. No recomendada por vía oral",
+        "posologia" : {
+            "Decocción": "Hervir por 5 minutos 5-10 g de frutos frescos y maduros en 0,5 litro de agua. Aplicar localmente sobre la zona afectada 2-3 veces al día", 
+            "Tintura": "Aplicar localmente sobre la zona afectada 2-3 veces al día. Es posible utilizar la tintura asociada a ultrasonido terapéutico"
+        }
+    },
+
+    "Ají Guaguao" : {
+        "nombre_cientifico" : "Capsicum frutescens",
+        "familia": "Solanaceae",
+        "descripcion": "Arbusto lampino de hasta más de 1 m de altura, ramificado y a veces tomentoso. Hojas generalmente aovadas, de ápice agudo o acuminado y estrecha o truncada hacia la base. Flores axilares, solitarias o en pequeños grupos, con los pedícelos en forma de maza; corola blanca de aproximadamente 1 cm de diámetro y con 5 lóbulos. Fruto abayado, globoso o elipsoideo, de 5 a 10 mm de longitud, rojo al madurar y picante",
+        "propiedades": {
+            "Hojas": ["antiinflamatoria", "antigripal", "antiasmática", "Inflamación gangliar y los forúnculos"],
+            "Fruto": ["diurética", "estomáquica", "antihemorroidal", "antianginosa"],
+            "Raíces" : ["digestiva"]
+        },
+        "componentes": {
+            "Fruto": "Contienen pigmentos carotenoides y cantidades importantes de vitamina C. Los principios revulsivos son las amidas, fundamentalmente la capsaicina (alrededor de 1%)",
+            "Hojas": "Contienen cantidades menores de capsaicina. Valor calórico: 318 calorías/100 g"
+        },
+        "advertencias": "La capsaícina de los frutos maduros puede provocar irritación en la piel. Evitar el uso prolongado de la planta. No se recomienda por vía oral", 
+        "posologia" : {
+            "Decocción": "Hervir durante 5 minutos de 5 a 10 g de frutos frescos y maduros en más de un litro de agua. Aplicar de 2 a 3 veces al día sobre la zona afectada"
+        }
+    },
+
+    "Ajo": {
+        "nombre_cientifico" : "Allium sativum",
+        "familia": "Alliaceae",
+        "descripcion": "Hierba anual, geofita, con bulbos compuestos denominados popularmente cabezas. Hojas lineares dispuestas en una roseta que surge de la parte superior del bulbo",
+        "propiedades": {
+            "Fruto": ["Cardio-circulatoria", "antihemorroidal","antiespasmódica", "antihelmíntica", "antiamebiana", "expectorante", "antiasmática", "diurética", "antiinflamatoria", "antibacteriana", "antifúngica", "antitrombótica", "antihipercolesterolémica", "tónica", "antiparasitaria", "hipotensor", "hipoglicemiante", "analgésica", "antiartrítica", "antiséptica", "colagoga", "antihistamínica", "cardiotónica"]
+        },
+        "componentes": {
+            "Fruto": "Los bulbos contienen una esencia sulfurada, inodora llamada aliina que provoca lagrimeo y puede tener acción cáustica. A su vez la aliina se compone de fermentos sulfurados. Contiene además un extracto mucilaginoso, una materia albuminoidea, sales de potasio, óxido de hierro, sílice, etc"
+        },
+        "advertencias": "No administrar a niños, embarazadas o mujeres que amamantan. Puede causar dermatitis por contacto. La ingestión continuada puede acarrear trastornos digestivos y renales", 
+        "posologia": {
+            "Tintura" : "Macerar durante 7 días, al abrigo de la luz y en refrigeración, 25 g de dientes frescos en 60 ml de ron o solución, hidroalcohólica (40 %). Conservar en frío. Para uso interno tomar 20 gotas en un poco de agua, 3 veces al día. Para uso tópico aplicar directamente la tintura en la zona afectada 2 veces al día"
+        }
+    },
+
+    "Albahaca Blanca": {
+        "nombre_cientifico" : "Ocimum basilicum L", 
+        "familia": "Lamiaceae",
+        "descripcion": "Hierba ramosa, de entre 30-60 cm de altura, con todo el follaje muy aromático. Hojas opuestas, de tamaño y forma variable en dependencia del cultivar. Flores en racimos de hasta 20 cm de longitud situados en el extremo de las ramas; corola blanca o violácea, irregular. Fruto semejando una cápsula que se abre cuando madura, dejando libres 4 semillas negras", 
+        "propiedades" : {
+            "Hojas": ["antiespasmódico", "analgésica","estimulante", "carminativa" , "antidismenorreica", "galactogoga"]
+        },
+        "componentes": {
+            "Hojas": "Las partes verdes de la planta contienen un aceite esencial de composición variable en dependencia al cultivar. Generalmente contiene estragol, linalol, lineol y alcanfor. Contiene además taninos, ácidos orgánicos, sales minerales, vitaminas y saponinas"
+        }, 
+        "advertencias": "El aceite esencial contiene safrol, sustancia reportada como cancerígena", 
+        "posologia": {
+            "Infusión": "Verter 15-20 g del follaje fresco sobre un litro de agua hirviendo. Reposar por 10-15 minutos antes de filtrar. Ingerir 300-500 ml al día repartidos en 2-3 tomas"
+        }
+    }, 
+
+    "Albahaca Morada": {
+        "nombre_cientifico" : "Ocimum sanctum",
+        "familia": "Lamiaceae",
+        "descripcion": "Hierba aromática, pubérula de hasta 70 cm de altura. Hojas opuestas, aovadas o elípticas, de 3 a 5 cm de largo, dentadas y violáceas cuando crece a pleno sol. Flores en panojas terminales de hasta 10 cm de largo; corola blanca de unos 3 mm y 4 estambres, didínamos. Ovario 4-carpelar", 
+        "propiedades" : {
+            "Hojas": ["hipoglicemiante", "antiasmática", "antiespasmódica", "hipotensora", "analgésica", "antipirética", "antiinflamatoria", "hepatoprotectora", "sedante"]
+        },
+        "componentes": {
+            "Hojas": "El follaje contiene 1 % de un aceite esencial rico en eugenol (70-80 %). Contiene además flavonoides (glicósidos de apigenina y luteolina), ácidos orgánicos (ascórbico, cítrico, oxálico y otros) y ácido ursólico como ácido triperpénico mayoritario"
+        }, 
+        "advertencias": "Consumir bajo control médico. Puede disminuir la tensión arterial. Se reporta efecto antiespermatogénico del extracto bencénico en ratas",
+        "posologia": {}
+    },
+
+    "Alcanfor": {
+        "nombre_cientifico" : "Cinnamomum camphora",
+        "familia": "Lauraceae",
+        "descripcion": "Árbol siempre verde de hasta 12 metros de altura. Hojas opuestas, aovadas, pecioladas y terminando en punta, muy aromáticas. Flores diminutas, de color verde amarillento, agrupadas en panículas situadas en la axila de las hojas, largamente pedunculadas", 
+        "propiedades" : {
+            "Hojas": ["antipruriginosa", "antineurálgica", "antirreumática", "antiséptica"]
+        },
+        "componentes": {
+            "Hojas": "Contienen aceite esencial, que  puede variar entre 10-75%, cuyos componentes principales son: alcanfor, safrol, eugenol y cineol",
+            "Raíces": "Contienen aceite esencial cuyos componentes principales son: alcanfor, safrol, eugenol y cineol",
+            "Tronco": "Contienen aceite esencial cuyos componentes principales son: alcanfor, safrol, eugenol y cineol"
+        },
+        "advertencias": "No utilizar en niños. Su uso continuado puede provocar vómitos, cefaleas, cólicos, convulsiones y paro respiratorio. El aceite esencial contiene safrol, sustancia reportada como cancerígena",
+        "posologia": {
+            "Decocción": "Hervir por no más de 3 minutos 60-80 g de hojas frescas por litro de agua. Aplicar localmente 2-3 veces al día"
+        }
+    },
+
+    "Anamú": {
+        "nombre_cientifico" : "Petiveria alliacea",
+        "familia": "Phytolaccaceae",
+        "descripcion": "Hierba perenne, de olor fuerte y desagradable, erguida, algo leñosa en la base, de 30 a 100 cm de altura. Hojas alternas, enteras, diminutamente estipuladas, de 6 a 19 cm de largo y de 2,5 a 5 cm de ancho, en general elípticas. Flores en racimos mayormente terminales, laxos, de 10 a 35 cm de largo; perianto blanco y dividido en 4 segmentos. Aquenio alargado y cuneiforme, de unos 8 mm de largo",
+        "propiedades" : {
+            "Hojas": ["antiespasmódica", "abortiva", "antiherpética", "antihelmíntica", "diurética", "antirreumática", "anticancerosa", "antiinflamatoria", "dermatológica"]
+        },
+        "componentes": {
+            "Hojas": "Contienen taninos, alcaloides, glucósidos, saponinas y son ricas en oligoelementos inorgánicos",
+            "Raíces": "Tiene esteroides, terpenoides, polifenoles y cumarina"
+        },
+        "advertencias": "Puede causar trastornos digestivos y atrofia muscular en el ganado",
+        "posologia": {}
+    }, 
+
+    "Anís Estrellado" : {
+        "nombre_cientifico" : "Illicium verum Hook",
+        "familia": "Magnoliaceae",
+        "descripcion": "Árbol de hasta 20 m de altura. Hojas enteras, lanceoladas y agudas. Flores blancas, rosadas o moradas y globosas. Fruto compuesto por 4 folículos de hasta 17 mm de longitud, unido por la base a un eje central e irradiado horizontalmente con la sutura ventral hacia la parte superior y cada uno contiene una semilla de superficie lisa y brillante; pedúnculos de unos 5 cm", 
+        "propiedades" : {
+            "Fruto": ["tónica", "antiespasmódica", "carminativa", "expectorante", "galactogoga", "aperitiva", "Facilita la respiración y activa la circulación tonificando el corazón"]
+        },
+        "componentes": {
+            "Fruto": "Se caracterizan porque contienen un aceite esencial compuesto principalmente por anetol. Contienen, además, taninos, azúcares, ácidos y fenoles en pequeñas cantidades"
+        },
+        "advertencias": "El aceite esencial en altas dosis produce delirio, congestiones cerebrales y convulsiones. No usar en tratamientos prolongados.Las bebidas alcohólicas de partes o componentes de la planta, pueden causar envenenamientos crónicos",
+        "posologia": {
+            "Decocción": "5 g del fruto (3 estrellas) en 200 ml (1 vaso) de agua; tomar de 3 a 4 veces al día",
+            "Repercolación": "Con un disolvente hidroalcohólico (75 %). Tomar de 10 a 15 gotas disueltas en 100 ml de agua, 3 o 4 veces al día."
+        }
+    }, 
+
+    "Apasote": {
+        "nombre_cientifico" : "Chenopodium ambrosioides",
+        "familia" : "Chenopodíaceae", 
+        "descripcion": "Hierba erguida de 40 a 100 cm de altura, lampiña o ligeramente glandular-pubescente y de olor fuerte. Hojas alternas, con pecíolo corto, generalmente oblongas, estrechas hacia la base, sinuado-dentadas, de 3 a 10 cm de largo; las hojas superiores son de menor tamaño. Flores de pequeñas espigas axilares; cáliz dividido en 3 segmentos de apenas 1 mm y envuelve totalmente el fruto",
+        "propiedades" : {
+            "Hojas": ["antiparasitaria", "antiasmática", "carminativa", "febrífuga", "emenagoga", "abortiva", "antihemorroidal"]
+        },
+        "componentes": {
+            "Hojas": "Contiene un aceite esencial (0,35 % en las hojas e inflorescencias; 0,6-3 % en frutos) cuyo componente mayoritario es el ascaridol (peróxido monoterpénico), responsable de la actividad antiparasitaria. Contiene, además, flavonoides y ácidos orgánicos"
+        },
+        "advertencias": "El aceite esencial es altamente tóxico, puede causar cefalea, náuseas, vértigo y hasta la muerte. Carcinogenético en ratas en dosis de 10 mg/Kg. Contraindicado en embarazadas y enfermos del hígado, riñón, cardiocirculatorios y respiratorios. Se desconoce la toxicidad de la decocción, por tanto no se recomienda", 
+        "posologia": {
+            "Decocción": "No más de 5 g al día. Repetir el tratamiento durante 3 días"
+        }
+    }, 
+
+    "Arraigán": {
+        "nombre_cientifico" : "Myrica cerifera",
+        "familia" : "Myricaceae", 
+        "descripcion": "Arbusto de altura variable; hojas alternas, oblongas, con escasos dientes en el margen, de 28 cm de longitud, provistas de glándulas resinosas en la lámina; pecíolos de 310 mm. Flores masculinas y femeninas separadas, ambas agrupadas en amentos (racimo corto y denso), los masculinos cilíndricos, en la axila de hojas, los femeninos subglobosos en pequeñas ramitas",
+        "propiedades" : {
+            "Hojas": ["astringente", "antiséptica", "Curar llagas y úlceras"],
+            "Raíces": ["tónica", "estimulante"]
+        },
+        "componentes": {
+            "Raíces": "Contiene ácido tánico y gálico, así como una resina astringente."
+        },
+        "advertencias": "", 
+        "posologia": {
+            "Decocción": "Hervir por no menos de 5 minutos, 20 g de la corteza de raíz triturada o en virutas, en 1 litro de agua. Aplicar localmente 2-3 veces al día"
+        }
+    }, 
+
+    "Arroz" : {
+        "nombre_cientifico" : "Oryza sativa",
+        "familia" : "Poaceae", 
+        "descripcion": "Hierba erguida de 1 m o más de altura; hojas envainadoras, lineares, escabrosas. Flores en panojas terminales de entre 10-30 cm de longitud.",
+        "propiedades" : {
+           "Fruto": ["antipruriginosa", "antidiarreica", "emoliente"]
+        },
+        "componentes": {
+           "Fruto": "El almidón está compuesto por gránulos de polisacáridos (amilosa y amilopectina)"
+        },
+        "advertencias": "", 
+        "posologia": {
+            "Decocción": " Hervir por 20 minutos, 100 g de granos en 1 litro de agua. Filtrar y dejar refrescar. Aplicar localmente sobre la zona afectada 3 veces al día"
+        }
+    },
+
+    "Añil Cimarrón" : {
+        "nombre_cientifico" : "Indigofera suffruticosa",
+        "familia" : "Poaceae", 
+        "descripcion": "Arbusto de 1 a 1,5 m de altura generalmente muy ramificado; ramas delgadas con pubescencia blanquecina. Hojas compuestas por 9 a 17 foliolos pinnados, de unos 3 cm de longitud, verde claros y pubescentes, al menos en la cara inferior. Flores en racimos estrechos de hasta 5 cm de longitud; cáliz campanulado y corola amarillenta. Legumbre lineal, tabicada entre las semillas, de 8 a 15 mm de largo por 2 mm de ancho; posee de 3 a 8 semillas",
+        "propiedades" : {
+           "Fruto": ["antiepiléptica", "insecticida", "antiulcerosa", "febrífuga", "antipalúdica", "antiherpética", "antiséptica", "purgante", "sedante", "diurética", "antiespasmódica", "antiodontálgica", "antiparasitaria", "Para el tratamiento de la faringitis y curar la sarna"]
+        },
+        "componentes": {
+           "Fruto": "Flavonoides, leucoantocianidinas, fenoles, taninos, aminas, lactonas, triterpenos y esteroides"
+        },
+        "advertencias": "Se cita que el uso continuado por vía oral puede degradar la inteligencia del epiléptico. Se desconoce la toxicidad por vía tópica.", 
+        "posologia": {}
+    },
+
+    "Bija" : {
+        "nombre_cientifico" : "Bixa orellana",
+        "familia" : "Bixaceae", 
+        "descripcion": "Arbusto de hasta 9 m de altura, de corteza parda y ramas jóvenes comúnmente escamosas. Hojas aovadas de 8 a 20 cm de largo y de 4 a 15 cm de ancho, con pecíolo largo. Flores en panículas terminales; corola de 5 pétalos, torcidos en el botón, redondeados y rosados; estambres numerosos. Fruto capsular aovado-globoso, de unos 4 cm de diámetro, densamente cubierto de espinas suaves y delgadas. Semillas numerosas.",
+        "propiedades" : {
+           "Fruto": ["antibacteriana", "emoliente", "refrescante", "antiinflamatoria", "emenagoga", "hepatotropa", "antiemética", "diurética", "antivenérea", "hemostática", "Se usan para la astenia, asma, diarreas, caspa, y su maceración oleosa para las quemaduras"]
+        },
+        "componentes": {
+           "Fruto": "Contienen vitamina C, hierro y proteínas. Los frutos tienen proteínas, beta-caroteno y otros carotenoides (bixina y norbixina, entre otros). Tiene 1000-2000 UI de vitamina A por gramo de extracto oleoso.",
+           "Hojas": "Se evidencian flavonoides y un derivado sesquiterpénico (eshwarano o bixhaghene)"
+        },
+        "advertencias": "La DL50 (ratón por vía intraperitoneal) es de 700 mg/Kg de masa corporal. Produce pancreatotoxicidad, hepatotoxicidad, hiperglicemia y aparente aumento del nivel de insulina en los perros. Popularmente se refiere que afecta el corazón.", 
+        "posologia": {}
+    },
+
+    "Café" : {
+        "nombre_cientifico" : "Coffea arabica",
+        "familia" : "Rubiaceae", 
+        "descripcion": "Arbusto o arbolito de entre 1-7 m de altura. Hojas opuestas, brillantes, mayormente oblongas, con los nervios prominentes en ambas caras. Flores blancas y fragantes, en grupos apretados en la axila de las hojas. Fruto carnoso, globoso u ovalado, rojo o amarillo al madurar y que contiene 2 semillas oliváceas",
+        "propiedades" : {
+           "Fruto": ["depurativa", "antiasmática",  "antihelmíntica", "afrodisíaca", "febrífuga", "antirreumática", "antiictérica", "Facilita el parto"]
+        },
+        "componentes": {
+            "Hojas": "Contienen salicilato de metilo",
+            "Fruto": "se encuentra entre el 13% de la cafeína. Cuando están inmaduras, estas contienen ácido clorogénico, glucósidos y trigonelina. Latorrefacción modifica en parte la composición química."
+        },
+        "advertencias": "No consumir si: embarazo, hepatitis, cardiopatías, trastornos circulatorios, úlcera o gastritis. Altas dosis pueden causar cefalea, náuseas e insomnio. Los niños son mucho más sensibles. En general no deben consumirse más de 5 tazas al día.", 
+        "posologia": {
+            "Infusión": "Se elabora de forma similar a como es tradicional en el país."
+        }
+    },
+    
+    "Caisimón de anís" : {
+        "nombre_cientifico" : "Piper auritum",
+        "familia" : "Piperaceae", 
+        "descripcion": "Arbusto de hojas alternas, enteras, aovado-elípticas, con la base muy inequilatera, profundamente acorazonada, de hasta 32 cm de largo y 16 cm de ancho. Flores diminutas, bracteadas, sin perianto, agrupadas en espigas amentiformes de hasta 16 cm de largo, axilares y opuestas a las hojas. Fruto abayado y muy pequeño.",
+        "propiedades" : {
+           "Fruto": ["emoliente", "antirreumática", "díaforética", "diurética", "estimulante", "Tratamiento de las cefaleas"]
+        },
+        "componentes": {
+            "Hojas": "aceites-grasas, alcaloides, aminas, azúcares, fenoles-taninos, flavonoides, saponinas y triterpenos-esteroides",
+            "Fruto": "alcaloides, aminas, azúcares reductores, taninos y triterpenos-esteroides"
+        },
+        "advertencias": "La toxicidad aguda en DL50 es igual a 1 947,09 mg/Kg de masa corporal (ratas por vía intraperitoneal-extracto acuoso)", 
+        "posologia": {}
+    }, 
+
+    "Calabaza" : {
+        "nombre_cientifico" : "Cucurbita moschata Duchesne",
+        "familia" : "Cucurbitaceae", 
+        "descripcion": "Liana de tallos pelosos, mayormente rastreros y provistos de pequeñas espinas y zarcillos bífidos. Hojas alternas, largamente pecioladas y con el limbo amplio a lobulado. Flores masculinas solitarias o en pequeños grupos, largamente pedunculadas. Flores femeninas solitarias con pedúnculos cortos y gruesos. Fruto carnoso de gran tamaño.",
+        "propiedades" : {
+           "Semillas": ["antihelmíntica", "diurética"],
+           "Fruto": ["antiinflamatoria"]
+        },
+        "componentes": {
+            "Semillas": "Tienen hasta un 50 % de un aceite graso que contiene ácido oleico y linolina; presenta además un glucósido: cucurbitina, albúminas, lecitina, resinas y titosterina."
+        },
+        "advertencias": "", 
+        "posologia": {
+            "Mezcla": "Mezclar 100-200 g de semillas mondadas (sin testa) con miel o almíbar (hasta 100 ml). Tomar este producto poco a poco en el transcurso de 1 hora, y 3 horas después tomar un purgante."
+        }
+    },
+    
+    "Caléndula" : {
+        "nombre_cientifico" : "Calendula officinalis",
+        "familia" : "Asteraceae", 
+        "descripcion": "Hierba anual, más o menos pelosa. Hojas inicialmente en una roseta basal, sentadas, simples, mayormente oblongas, para la floración emite tallos erectos, algo ramificados en la parte superior, de 30 a 60 cm de altura. Cabezuelas florales terminales, solitarias, vistosas, de 3,5 a 5 cm de diámetro; los radios planos, extendidos, desde amarillo pálido a naranja brillante.",
+        "propiedades" : {
+           "Flores": ["antiinflamatoria", "antibacteriana", "colerética", "antiulcerosa", "inmunoestimulante", "citostatica", "antiespasmódica", "antiséptica", "vulneraria", "emenagoga", "purgante", "antidismenorreica", "sedante", "analgésica", "resolutiva", "hemostática", "Tratamiento de trichomoniasis, amigdalitis, quemaduras, afecciones de la cavidad bucal, psoriasis y otras afecciones de la piel."]
+        },
+        "componentes": {
+            "Flores": "Contienen ácidos fenólicos, carbohidratos, cumarinas, taniños, carotenos, saponinas, tocofenoles, flavonoides y aceite esencial."
+        },
+        "advertencias": "Existe un reporte de shock anafiláctico después de hacer gárgaras con la infusión de la planta", 
+        "posologia": {
+            "Tintura": "Para uso tópico mezclar 5 ml en 200 ml de agua, aplicar 2 a 5 veces al día; por vía oral de 10 a 20 gotas mezcladas en 100 mL de agua 2 o 3 veces al día.",
+            "Extracto fluido": "Para uso tópico mezclar 10 gotas en 200 mL de agua, aplicar 3 a 5 veces al día, vía oral 1 a 2 gotas en 100 mL de agua y 2 a 3 veces al día"
+        }
+    },
+
+    "Cayeput" : {
+        "nombre_cientifico" : "Melaleuca leucadendron",
+        "familia" : "Myrtaceae", 
+        "descripcion": "Arbol de hasta 20 m de altura, con la corteza gruesa, esponjosa, blanca en la parte exterior y oscura en la interior; ramas puberulas. Hojas elípticas u oblongas de 5 a 10 cm de largo, estrechas hacia ambos extremos, nervadura longitudinal y paralela. Flores blanco-cremosas agrupadas en espigas terminales de 5 a 15 cm de largo. Fruto capsular, casi esférico, de 3 mm de diametro",
+        "propiedades" : {
+           "Hojas": ["antiséptica", "insecticida", "analgésica", "antirreumatica", "estimulante", "carminativa", "antimicrobiana"]
+        },
+        "componentes": {
+            "Hojas": "Aceite esencial con 50 a 60 % de cineol. Betulinas, taninos, aminoácidos y saponinas."
+        },
+        "advertencias": "No se recomienda el uso interno de preparados que contengan el aceite esencial", 
+        "posologia": {
+            "Infusión": "Verter agua hirviente sobre 4 o 5 hojas."
+        }
+    },
+
+    "" : {
+        "nombre_cientifico" : "",
+        "familia" : "", 
+        "descripcion": "",
+        "propiedades" : {
+           "Fruto": []
+        },
+        "componentes": {
+        },
+        "advertencias": "", 
+        "posologia": {}
+    }
+
+
+
+
+}
