@@ -75,9 +75,6 @@
     "antibacteriana": {
         "descripcion": "Elimina o inhibe el crecimiento de bacterias."
     },
-    "antifúngica": {
-        "descripcion": "Elimina o inhibe el crecimiento de hongos."
-    },
     "antitrombótica": {
         "descripcion": "Previene o reduce la formación de coágulos sanguíneos."
     },
@@ -110,9 +107,6 @@
     },
     "cardiotónica": {
         "descripcion": "Fortalece el músculo cardíaco, mejorando su función."
-    },
-    "antiespasmódico": {
-        "descripcion": "Alivia los espasmos musculares, como los cólicos abdominales y los calambres musculares."
     },
     "estimulante": {
         "descripcion": "Aumenta la actividad física o mental."
@@ -215,5 +209,95 @@
     },
     "resolutiva": {
         "descripcion": "Ayuda a disolver o dispersar acumulaciones anormales."
+    },
+    "antihipertensiva": {
+        "descripcion": "Disminuye la presión arterial."
+    },
+    "antifúngica": {
+        "descripcion": "Combate las infecciones causadas por hongos."
+    },
+    "anticatarral": {
+        "descripcion": "Alivia los síntomas del catarro."
+    },
+    "diaforética": {
+        "descripcion": "Promueve la sudoración."
+    },
+    "ansiolítica": {
+        "descripcion": "Alivia la ansiedad."
+    },
+    "laxante": {
+        "descripcion": "Facilita la evacuación intestinal."
+    },
+    "pectoral": {
+        "descripcion": "Alivia las afecciones del pecho y los pulmones."
+    },
+    "hematopoyética": {
+        "descripcion": "Estimula la producción de células sanguíneas."
+    },
+    "antiescorbútica": {
+        "descripcion": "Previene o trata el escorbuto, una enfermedad causada por la deficiencia de vitamina C."
+    },
+    "larvicida": {
+        "descripcion": "Mata o impide el desarrollo de larvas de insectos."
+    },
+    "vermicida": {
+        "descripcion": "Mata o expulsa gusanos parásitos del cuerpo."
+    },
+    "odontálgica": {
+        "descripcion": "Alivia el dolor de muelas u otros dolores dentales."
+    },
+    "vasoconstrictora": {
+        "descripcion": "Estrecha los vasos sanguíneos, reduciendo el flujo sanguíneo."
+    },
+    "broncodilatadora": {
+        "descripcion": "Dilata los bronquios, facilitando la respiración."
+    },
+    "antihepatotóxica": {
+        "descripcion": "Protege el hígado del daño."
+    },
+    "antimicrobiana": {
+        "descripcion": "Mata o inhibe el crecimiento de microorganismos como bacterias, virus y hongos."
+    },
+    "bactericida": {
+        "descripcion": "Mata bacterias."
+    },
+    "anticonvulsivante": {
+        "descripcion": "Previene o trata las convulsiones (ataques epilépticos)."
+    },
+    "corroborante": {
+        "descripcion": "Fortalece o tonifica el cuerpo o una parte específica del cuerpo."
+    },
+    "vermífuga": {
+        "descripcion": "Expulsa gusanos parásitos del cuerpo."
+    },
+    "hipostenizante gástrico": {
+        "descripcion": "Reduce la acidez del estómago."
+    },
+    "antitusígena": {
+        "descripcion": "Suprime o alivia la tos."
+    },
+    "cáustica": {
+        "descripcion": "Causa quemaduras o irritación en la piel u otros tejidos al contacto."
+    },
+    "antiforunculosa": {
+        "descripcion": "Trata o previene los forúnculos (infecciones de los folículos pilosos)."
+    },
+    "antidiabética": {
+        "descripcion": "Trata o previene la diabetes (una enfermedad que afecta la forma en que el cuerpo utiliza el azúcar)."
+    },
+    "antiviral": {
+        "descripcion": "Trata o previene infecciones causadas por virus."
+    },
+    "cicatrizante": {
+        "descripcion": "Ayuda a curar heridas y lesiones."
+    },
+    "calmante": {
+        "descripcion": "Alivia el dolor y la inflamación."
+    },
+    "narcótica": {
+        "descripcion": "Alivia el dolor intenso y puede causar somnolencia o adicción."
+    },
+    "pediculicida": {
+        "descripcion": "Mata los piojos y sus huevos."
     }
 }
