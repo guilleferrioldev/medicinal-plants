@@ -2,7 +2,6 @@
     "antitusiva" : {
         "descripcion": "Se utiliza para tratar la tos seca e irritativa que no produce flemas."
     }, 
-
     "carminativa": {
         "descripcion": "Previene la formación de gases en el tubo digestivo y facilita su expulsión, aliviando la distensión del abdomen y la flatulencia"
     },
@@ -299,5 +298,23 @@
     },
     "pediculicida": {
         "descripcion": "Mata los piojos y sus huevos."
+    },
+    "tenuífuga" : {
+        "descripcion": "Disminuyen la densidad de las secreciones mucosas, haciéndolas más fluidas y fáciles de expulsar. Se utilizan para tratar afecciones respiratorias como la bronquitis y la neumonía."
+    }, 
+    "sudorífica": {
+        "descripcion": "Aumentan la sudoración. Se utilizan para tratar afecciones como los resfriados y la gripe, ya que la sudoración ayuda a eliminar las toxinas del cuerpo."
+    },
+    "emética": {
+        "descripcion": "Provocan el vómito. Se utilizan para tratar intoxicaciones y sobredosis."
+    },
+    "antidisentérica": {
+        "descripcion": "Combaten la disentería, una infección intestinal caracterizada por diarrea sanguinolenta."
+    },
+    "eupéptica": {
+        "descripcion": "Favorecen la digestión y alivian los síntomas dispépticos."
+    },
+    "vasculovenosa": {
+        "descripcion": "Actúan sobre el sistema vascular y venoso."
     }
 }
