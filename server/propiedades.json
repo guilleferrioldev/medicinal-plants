@@ -308,13 +308,115 @@
     "emética": {
         "descripcion": "Provocan el vómito. Se utilizan para tratar intoxicaciones y sobredosis."
     },
-    "antidisentérica": {
-        "descripcion": "Combaten la disentería, una infección intestinal caracterizada por diarrea sanguinolenta."
-    },
     "eupéptica": {
         "descripcion": "Favorecen la digestión y alivian los síntomas dispépticos."
     },
     "vasculovenosa": {
         "descripcion": "Actúan sobre el sistema vascular y venoso."
+    },
+    "antiflogística": {
+        "descripcion": "Reducen la inflamación inhibiendo la producción de sustancias inflamatorias o bloqueando su acción."
+    },
+    "antiblenorrágica": {
+        "descripcion": "Combaten la blenorragia, una infección de transmisión sexual causada por la bacteria Neisseria gonorrhoeae."
+    },
+    "reconstituyente": {
+        "descripcion": "Mejoran el estado general de salud y la resistencia del organismo, aportando nutrientes y sustancias esenciales."
+    },
+    "antihistérica": {
+        "descripcion": "Calman los síntomas de la histeria, un trastorno nervioso caracterizado por ataques emocionales y físicos."
+    },
+    "antituberculosa": {
+        "descripcion": "Combaten la tuberculosis, una infección bacteriana causada por Mycobacterium tuberculosis."
+    },
+    "antiasténica": {
+        "descripcion": "Combaten la astenia, un estado de debilidad y fatiga generalizada."
+    },
+    "anticonceptiva": {
+        "descripcion": "Previenen el embarazo bloqueando la ovulación o impidiendo la fecundación del óvulo."
+    },
+    "antitumoral": {
+        "descripcion": "Inhiben el crecimiento y la proliferación de células tumorales."
+    },
+    "sialagoga": {
+        "descripcion": "Aumentan la producción de saliva."
+    },
+    "descongestionante hepático": {
+        "descripcion": "Favorecen la eliminación de toxinas del hígado y mejoran su función."
+    },
+    "otálgica": {
+        "descripcion": "Alivian el dolor de oído."
+    },
+    "antialopética": {
+        "descripcion": "Combaten la alopecia, la pérdida anormal del cabello."
+    },
+    "antiveneno": {
+        "descripcion": "Neutralizan los efectos tóxicos de las mordeduras y picaduras de animales venenosos."
+    },
+    "antiinfecciosa": {
+        "descripcion": "Combaten las infecciones causadas por microorganismos como bacterias, virus, hongos y parásitos."
+    },
+    "antiebriética": {
+        "descripcion": "Reducen la fiebre."
+    },
+    "antialopécica": {
+        "descripcion": "Previenen o tratan la caída del cabello."
+    },
+    "antialmorránica": {
+        "descripcion": "Alivian los síntomas de las hemorroides, como el dolor, la picazón y el sangrado."
+    },
+    "espasmolítica": {
+        "descripcion": "Relajan los músculos lisos, aliviando los espasmos y el dolor asociados."
+    },
+    "antilitiásica": {
+        "descripcion": "Previenen o disuelven los cálculos renales y biliares."
+    },
+    "hipotérmica": {
+        "descripcion": "Disminuyen la temperatura corporal."
+    },
+    "analéptica": {
+        "descripcion": "Estimulan el sistema nervioso central, produciendo efectos excitantes o tónicos."
+    },
+    "drástica": {
+        "descripcion": "Purgantes que producen evacuaciones intestinales abundantes y acuosas."
+    },
+    "absorbente": {
+        "descripcion": "Absorben sustancias, como toxinas o gases, del tracto gastrointestinal."
+    },
+    "antidisentérica": {
+        "descripcion": "Combaten la disentería, una infección intestinal que causa diarrea con sangre y moco."
+    },
+    "hipostenizante": {
+        "descripcion": "Debilitan o reducen la fuerza del organismo."
+    },
+    "entérica": {
+        "descripcion": "Actúan sobre el intestino."
+    },
+    "detersiva": {
+        "descripcion": "Limpian o purifican."
+    },
+    "madurativa": {
+        "descripcion": "Aceleran la maduración de abscesos u otras lesiones."
+    },
+    "antiesclerótica": {
+        "descripcion": "Previenen o reducen el endurecimiento de las arterias (esclerosis)."
+    },
+    "anticancerígena": {
+        "descripcion": "Inhiben o destruyen las células cancerosas."
+    },
+    "antioxidante": {
+        "descripcion": "Protegen las células del daño causado por los radicales libres."
+    },
+    "remineralizante": {
+        "descripcion": "Aportan minerales esenciales para el cuerpo, como calcio, magnesio o potasio."
+    },
+    "energética": {
+        "descripcion": "Aportan energía rápida y sostenida."
+    },
+    "saciante": {
+        "descripcion": "Proporcionan una sensación de saciedad duradera, ayudando a controlar el apetito."
+    },
+    "prebiótica": {
+        "descripcion": "Promueven el crecimiento de bacterias beneficiosas en el intestino."
     }
 }

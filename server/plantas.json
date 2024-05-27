@@ -362,7 +362,7 @@
         "familia" : "Alliaceae", 
         "descripcion": "Geofita con bulbos esféricos o circulares, de tamaño y coloración variable en dependencia del cultivar. Hojas lanceoladas de sección circular, a modo de varillas. Flores blancas, agrupadas en umbelas situadas en el extremo de largos escapos que sobresalen a la roseta de hojas",
         "propiedades" : {
-           "Bulbo": ["cardio-circulatoria", "hematopoyética", "antitrombótica", "antihipercolesterolémica", "diurética", "digestiva", "carminativo", "antiséptico"]
+           "Bulbo": ["cardio-circulatoria", "hematopoyética", "antitrombótica", "antihipercolesterolémica", "diurética", "digestiva", "carminativa", "antiséptica"]
         },
         "componentes": {
             "Bulbo" : "Contiene un aceite esencial pungente rico en compuestos sulfurados, como el disulfuro de alilpropilo y otros, vitaminas B1 y C, carotenos, derivados flavónicos, pectinas, sales minerales, varios azúcares, albúmina y almidón"
@@ -470,12 +470,26 @@
         "familia" : "Apiaceae", 
         "descripcion": "Hierba lampiña muy aromática. Hojas dispuestas en una roseta basal, obovadas u oblongas, de 5 a 18 cm de largo y de 1,5 a 5 cm de ancho, envainadoras en la base y aserradas. Flores blancas, pequeñas, agrupadas en cabezuelas bracteadas, sostenidas por ramas divididas dicotómicamente. Fruto tuberculado, algo aplanado lateralmente y de unos 2 mm",
         "propiedades" : {
-            "Hojas": ["antihipertensiva", "febrífuga", "aperitiva", "afrodisíaca", "abortiva", "emenagoga", "laxante", "antiescorbútica", "antirreumático", "bactericida", "antiséptica", "anticonvulsivante", "antiemética", "antidiarreica", "carminativa"]
+            "Hojas": ["antihipertensiva", "febrífuga", "aperitiva", "afrodisíaca", "abortiva", "emenagoga", "laxante", "antiescorbútica", "antirreumática", "bactericida", "antiséptica", "anticonvulsivante", "antiemética", "antidiarreica", "carminativa"]
         },
         "componentes": {
             "Hojas": "Contiene flavonoides, saponósidos, esteroles, triterpenos y un aceite esencial con alfa pineno, paracimeno, alcohol fenquílico, furfural y dodeceno-2-al-1. Contiene, además, hierro, calcio, riboflavina y carotenos"
         },
         "advertencias": "Se refiere que es un abortivo fuerte", 
+        "posologia": {}
+    },
+
+    "Cúrcuma" : {
+        "nombre_cientifico" : "Curcuma longa",
+        "familia" : "Zingiberaceae", 
+        "descripcion": "Hierba perenne, acaule, con rizomas aromáticos de color amarillo brillante en su interior. Hojas con peciolos largos; limbo oblongo o elíptico, de 30 a 50 cm de largo y de 8 a 18 cm de ancho, estrecho hacia la base y acuminado en el ápice. Flores amarillas agrupadas en llamativas espigas basales, acompañadas de brácteas violáceas. Fruto capsular, globoso, 3-valvo; semillas ovoides, comúnmente ariladas",
+        "propiedades" : {
+            "Rizomas": ["hepatoprotectora", "antitrombótica", "antiinflamatoria", "hipoglicemiante", "antiesclerótica", "antihepatotóxica", "diurética", "carminativa"]
+        },
+        "componentes": {
+            "Rizomas": "Contiene un aceite esencial rico en monoterpenos (borneol, alcanfor, terpineno y otros) y sesquiterpenos (tumerona, atlantona y curcumenol)."
+        },
+        "advertencias": "El polvo de los rizomas puede producir alergia por contacto en piel. La evaluación toxicológica es incompleta", 
         "posologia": {}
     },
 
@@ -731,7 +745,7 @@
     "Incienso" : {
         "nombre_cientifico" : "Artemisia absinthium",
         "familia" : "Asteraceae", 
-        "descripcion": "Subarbusto de hasta 1 m de altura, muy ramificado. Hojas alternas, bi o tripinnado-partidas, las superiores solo pinnado-partidas, con los segmentos lineales y grisáceo por el abundante vello que las cubre por ambas caras.",
+        "descripcion": "Subarbusto de hasta 1 m de altura, muy ramificado. Hojas alternas, bi o tripinnado-partidas, las superiores solo pinnado-partidas, con los segmentos lineales y grisáceo por el abundante vello que las cubre por ambas caras",
         "propiedades" : {
             "Hojas" : ["antiparasitaria", "aperitiva", "tónica", "vermífuga", "estomáquica", "abortiva", "febrífuga", "tenuífuga", "sudorífica", "emenagoga", "analgésica", "antidiarreica", "tratamiento de afecciones articulares e intestinales"]
         },
@@ -756,7 +770,7 @@
         },
         "advertencias": "Localmente puede irritar la piel y mucosas. El polvo de la raíz puede provocar fuerte inflamación en los ojos, hasta perforación de la córnea. Su inhalación produce estornudos, tos e irritación. Puede provocar albuminuria", 
         "posologia": {
-            "Jarabe" : "70 g de raíz en polvo, 100 ml de glicerina y jarabe csp 1 000 ml. El extracto fluido se prepara con una concentración de 1:1 de la droga en relación con el disolvente hidroalcohólico (80%), por percolación. Como expectorante: 1 o 2 gotas en una cucharada de agua. Como emético: 20 gotas (adultos), 15 gotas (niños) y 5 gotas (menores de 5 años) en 1/2 vaso de agua. El jarabe, como emético: 15 ml (adultos), 10 ml (niños) y 5 ml (menores de 5 años)."
+            "Jarabe" : "70 g de raíz en polvo, 100 ml de glicerina y jarabe csp 1 000 ml. El extracto fluido se prepara con una concentración de 1:1 de la droga en relación con el disolvente hidroalcohólico (80%), por percolación. Como expectorante: 1 o 2 gotas en una cucharada de agua. Como emético: 20 gotas (adultos), 15 gotas (niños) y 5 gotas (menores de 5 años) en 1/2 vaso de agua. El jarabe, como emético: 15 ml (adultos), 10 ml (niños) y 5 ml (menores de 5 años)"
         }
     },
 
@@ -802,7 +816,7 @@
             "Semillas": ["laxante"]
         },
         "componentes": {
-            "Hojas": "Contienen agua (81,4 %), grasas (0,3 %), proteínas (2,5 %), carbohidratos (14,6 %), Ca, P, Fe, K, Na carotenos, riboflavina, niacina y ac. ascórbico. Sorbitol, manitol, catalpol, aucubina, goma, resina, tanino, mucílago, emulsina, invertina y ácidos cítrico y málico."
+            "Hojas": "Contienen agua (81,4 %), grasas (0,3 %), proteínas (2,5 %), carbohidratos (14,6 %), Ca, P, Fe, K, Na carotenos, riboflavina, niacina y ac. ascórbico. Sorbitol, manitol, catalpol, aucubina, goma, resina, tanino, mucílago, emulsina, invertina y ácidos cítrico y málico"
         },
         "advertencias": "Se reportan casos de obstrucción intestinal por el uso de las semillas de esta planta como laxante. Por esta causa no es recomendable su uso con este fin", 
         "posologia": {
@@ -831,12 +845,12 @@
         "familia" : "Malvaceae", 
         "descripcion": "Árbol de hasta 15 m de altura con el follaje tomentoso-aterciopelado. Hojas pecioladas, suborbiculares, acorazonadas en la base y con el ápice abruptamente acuminado. Flores vistosas, terminales, solitarias; corola de 5 pétalos cuya colora-ción varía desde rosado-amarillo-rojo. Fruto capsular, globoso, hirsuto, de 3 cm de largo y dehiscente. Semillas poco tomentosas",
         "propiedades" : {
-            "Hojas": ["broncodilatadora", "tratamiento de las hemorroides y como vulnerario y desinfectante"],
+            "Hojas": ["broncodilatadora", "tratamiento de las hemorroides y como vulneraria y desinfectante"],
             "Raíces": ["laxante"],
             "Flores": ["antitumorales"]
         },
         "componentes": {
-            "Hojas": "Fenoles y taninos, aminoácidos, triterpenos y esteroides, saponinas, mucílagos, carbohidratos y flavonoides; en particular posee abundante cantidad de rutina y quercitina."
+            "Hojas": "Fenoles y taninos, aminoácidos, triterpenos y esteroides, saponinas, mucílagos, carbohidratos y flavonoides; en particular posee abundante cantidad de rutina y quercitina"
         },
         "advertencias": "", 
         "posologia": {
@@ -868,7 +882,7 @@
             "Flores": ["antidiarreica","antiespasmódica", "carminativa", "antiinflamatoria", "antifúngica", "antiviral", "antibacteriana", "sedante"]
         },
         "componentes": {
-            "Flores": "Contienen hasta 1 % de un aceite esencial rico en camazuleno y bisabolol; contienen además flavona, glucósidos cumarínicosy otras sustancias biológicamente activas."
+            "Flores": "Contienen hasta 1 % de un aceite esencial rico en camazuleno y bisabolol; contienen además flavona, glucósidos cumarínicosy otras sustancias biológicamente activas"
         },
         "advertencias": "Preparados que contengan aceite esencial de manzanilla pueden causar reacciones alérgicas en piel y/o rinitis. No administrar por vía oral en los 4 primeros meses del embarazo", 
         "posologia": {
@@ -901,7 +915,7 @@
             "Hojas": ["diurética", "antirreumática", "antidiabética", "eupéptica", "vasculovenosa", "hipotensora", "hipostenizante", "vermífuga"]
         },
         "componentes": {
-            "Hojas": "Esteroles y triterpenos, flavonoides y alcaloides. Un aceite volátil."
+            "Hojas": "Esteroles y triterpenos, flavonoides y alcaloides. Un aceite volátil"
         },
         "advertencias": "", 
         "posologia": {
@@ -914,12 +928,12 @@
         "familia" : "Verbenaceae", 
         "descripcion": "Arbusto aromático de hasta 1 m de altura, densamente puberulento y por lo común muy ramificado. Hojas opuestas, aovadas u oblongas, de 2 a 7 cm de largo, crenadas y rugosas en la cara superior. Flores pequeñas, agrupadas en cabezuelas mucho más pequeñas que las hojas; corola blanca o violácea, tubular, de 4 a 5 mm de largo; 4 estambres y didínamos. Fruto seco con exocarpio membrañoso que se separa finalmente en 2 nueces",
         "propiedades" : {
-            "Hojas": ["antifúngica", "antibacteriana", "analgésica", "colagoga", "emenagoga", "sedante", "díaforética", "expectorante", "antiespasmódica", "carminativa."]
+            "Hojas": ["antifúngica", "antibacteriana", "analgésica", "colagoga", "emenagoga", "sedante", "díaforética", "expectorante", "antiespasmódica", "carminativa"]
         },
         "componentes": {
             "Hojas": "Aceite esencial con piperitona, lipioma, citral, cineol, alcanfor e hidrocarbona, entre otros componentes. En las hojas se detectan esteroides, taninos, flavonoides, saponinas, aminoácidos y sustancias amargas"
         },
-        "advertencias": "La DL50 es de 1 g/Kg de masa corporal (extracto hidroalcohólico por vía intraperitoneal).", 
+        "advertencias": "La DL50 es de 1 g/Kg de masa corporal (extracto hidroalcohólico por vía intraperitoneal)", 
         "posologia": {
             "Decocción": "De 30 a 50 g del follaje fresco por cada litro de agua. Aplicar en las zonas afectadas 2 o 3 veces al día"
         }
@@ -930,12 +944,12 @@
         "familia" : "Asteraceae", 
         "descripcion": "Hierba estolonífera, de 30 a 90 cm de altura. Hojas sesiles pinnado-partidas en segmentos lineales dentados, las hojas basales son mayores que las caulinares. Capítulos agrupados en inflorescencias densas dispuestas en planos horizontales en el extremo de las ramas; cada capítulo compuesto por 4 o 6 flores radiales blancas, y numerosas tubulares blanco amarillentas",
         "propiedades" : {
-            "Hojas": ["hemostática", "antiespasmódica", "colagogo", "aperitiva", "carminativa", "laxante", "hipotensora", "antihemorroidal", "antiséptica", "febrífuga", "antiinflamatoria", "incontinencia de la orina", "normalizar el flujo menstrual", "contra la blenorrágia", "para aumentar la secreción de los jugos gástricos"]
+            "Hojas": ["hemostática", "antiespasmódica", "colagoga", "aperitiva", "carminativa", "laxante", "hipotensora", "antihemorroidal", "antiséptica", "febrífuga", "antiinflamatoria", "incontinencia de la orina", "normalizar el flujo menstrual", "contra la blenorrágia", "para aumentar la secreción de los jugos gástricos"]
         },
         "componentes": {
             "Hojas" : "Aceite esencial (aproximadamente 0,25 %) compuesto por: cineol, borneol, acetato de bornilo y otros esteres del ácido acético, tuyol, alcanfor y azuleno. Contiene además un alcaloide (aquileina), un principio amargo (ivaina), ácidos aquileico e isovaleriánico y otros acidos orgánicos, taninos y carótenos"
         },
-        "advertencias": "Puede causar dermatitis por contacto.", 
+        "advertencias": "Puede causar dermatitis por contacto", 
         "posologia": {
             "Natural": "Tópicamente, aplicar fresca, la decocción de 200 g de follaje por litro de agua"
         }
@@ -972,14 +986,14 @@
         },
         "advertencias": "El aceite esencial, o partes de la planta que lo contengan, puede causar dermatitis. No exponer al sol las parte tratadas con productos de esta planta. Tópicamente no utilizar por más de 3 semanas", 
         "posologia": {
-            "Decocción": "Hervir por 5 minutos 5-12 g de hojas frescas o corteza de frutos. Ingerir 300-500 ml al día repartidos en 2-3 dosis. La misma decocción se aplica localmente a las partes afectadas 2-3 veces al día."
+            "Decocción": "Hervir por 5 minutos 5-12 g de hojas frescas o corteza de frutos. Ingerir 300-500 ml al día repartidos en 2-3 dosis. La misma decocción se aplica localmente a las partes afectadas 2-3 veces al día"
         }
     },
 
     "Naranja Dulce" : {
         "nombre_cientifico" : "Citrus sinensis",
         "familia" : "Rutaceae", 
-        "descripcion": "Arbolito con espinas en las axilas de las hojas, estas alternas, rígidas y aromáticas; peciolo estrechamente alado. Flores axilares, solitarias o en pequeños grupos, blancas, perfumadas. Fruto en hesperidio, con la corteza delgada y fina, el endocarpio membranoso provisto de numerosos tricomas jugosos. Semillas de color claro en cantidades variablesArbolito con espinas en las axilas de las hojas, estas alternas, rígidas y aromáticas; peciolo estrechamente alado. Flores axilares, solitarias o en pequeños grupos, blancas, perfumadas. Fruto en hesperidio, con la corteza delgada y fina, el endocarpio membranoso provisto de numerosos tricomas jugosos. Semillas de color claro en cantidades variables.",
+        "descripcion": "Arbolito con espinas en las axilas de las hojas, estas alternas, rígidas y aromáticas; peciolo estrechamente alado. Flores axilares, solitarias o en pequeños grupos, blancas, perfumadas. Fruto en hesperidio, con la corteza delgada y fina, el endocarpio membranoso provisto de numerosos tricomas jugosos. Semillas de color claro en cantidades variablesArbolito con espinas en las axilas de las hojas, estas alternas, rígidas y aromáticas; peciolo estrechamente alado. Flores axilares, solitarias o en pequeños grupos, blancas, perfumadas. Fruto en hesperidio, con la corteza delgada y fina, el endocarpio membranoso provisto de numerosos tricomas jugosos. Semillas de color claro en cantidades variables",
         "propiedades" : {
             "Flores" : ["antiespasmódica"],
             "Fruto" : ["tónica", "carminativa", "aperitiva", "analgésica", "antipirética"],
@@ -995,15 +1009,621 @@
         }
     },
 
-    "" : {
-        "nombre_cientifico" : "",
-        "familia" : "", 
-        "descripcion": "",
+    "Nuez Moscada" : {
+        "nombre_cientifico" : "Myristica fragans Houtt",
+        "familia" : "Myristicaceae", 
+        "descripcion": "Árbol con las hojas blanquecinas en la cara inferior y con nervadura secundaria que confluye cerca del margen y la nervadura terciaria reticulada y aromática. Flores pediceladas, agrupadas en inflorescencias mayormente axilares; pétalos ausentes; filamentos connados formando una columna. Fruto carnoso y monospermo. Semillas ariladas",
         "propiedades" : {
+            "Semillas" : ["carminativa", "tratamiento de las afecciones intestinales", "estimulante", "antifúngica", "antitusiva"]
+        },
+        "componentes": {
+            "Semillas": "Contienen no menos de 5 % de un aceite esencial con eugenol, canfeno, miristina, elimicina y safrol. Contienen además ácidos grasos, almidón, saponinas y colorantes"
+        },
+        "advertencias": "Algunos componentes del aceite esencial tienen acción psicotrópica; uno de ellos, el satrol, reportado como carcinogenético. En dosis elevadas puede causar náuseas, vómitos, taquicardia, convulsiones, miosis, midriasis, euforia y alucinaciones. Dosis mayores de 5 g producen marcada depresión del Sistema Nervioso Central. Evitar su uso prolongado", 
+        "posologia": {
+            "Natural": "Se refieren dosis de 300 a 600 mg de polvo de semillas secas"
+        }
+    },
+
+    "Orégano Cimarrón" : {
+        "nombre_cientifico" : "Ocimum gratissimum",
+        "familia" : "Lamiaceae", 
+        "descripcion": "Subarbusto de 1-2 m de altura. Hojas opuestas, aromáticas de hasta algo más de 10 cm de longitud, estrechadas hacia ambos extremos. Flores pequeñas, irregulares, blancas, agrupadas en espigas de 10-15 cm de longitud, situadas en el extremo de las ramas. Fruto en forma de una pequeña cápsula abierta en su extremo apical, conteniendo 4 semillas pardas",
+        "propiedades" : {
+            "Hojas": ["antiespasmódica", "antigripal", "febrífuga", "vermífuga", "antidiarreica", "antiálgica", "antibiótica"]
+        },
+        "componentes": {
+            "Hojas": "Aceite esencial, que en dependencia de la raza química, presenta como componente mayoritario timol, eugenol o citral"
+        },
+        "advertencias": "Dosis excesivas pueden provocar irritación gastrointestinal y del tracto urinario, excitación y convulsiones", 
+        "posologia": {
+            "Infusión": "Verter 15-20 de follaje fresco en 1 litro de agua hirviendo. Reposar 10-15 minutos antes de filtrar. Ingerir 300-500 ml al día repartidos en 2-3 dosis"
+        }
+    },
+
+    "Orégano Francés" : {
+        "nombre_cientifico" : "Coleus amboinicus Lour",
+        "familia" : "Lamiaceae", 
+        "descripcion": "Hierba carnosa, peloso-tomentosa, de olor fuerte, y en ocasiones hasta 1 m de altura. Hojas opuestas, anchamente aovadas, crenadas, de 4 a 10 cm de largo, pelosas en ambas caras y con la base decurrente en el peciolo. Flores agrupadas en verticilos, dispuestos en racimos terminales de 10 a 30 cm de largo; corola irregular, violácea; 4 estambres, en 2 pares y exhertos",
+        "propiedades" : {
+            "Hojas" : ["anticonvulsiva", "antiepiléptica", "antiasmática", "antiflogística", "antiespasmódica", "antiinflamatoria", "sedante", "broncodilatadora", "antimicrobiana"]
+        },
+        "componentes": {
+            "Hojas": "aceites, azúcares reductores y triterpenos",
+            "Tallos": "aceites, aminas, azúcares reductores y triterpenos"
+        },
+        "advertencias": "", 
+        "posologia": {}
+    },
+
+    "Oreja de Ratón" : {
+        "nombre_cientifico" : "Centella erecta",
+        "familia" : "Apiaceae", 
+        "descripcion": "Hierba perenne con tallos de 2 a 5 cm de largo o más, postrados y enraiza en los nudos, los cuales emiten grupos de hojas con peciolos largos (3 a 30 cm). Hojas aovadas u orbiculares, algo gruesas, no peltadas, de 2 a 7 cm de diámetro y repando-dentadas. Las flores emergen junto a las hojas de los nudos, agrupadas en umbelas. Fruto de 4 a 5 mm de ancho y 3 mm de alto, acostillado y reticulado",
+        "propiedades" : {
+            "Hojas" : ["diurética", "narcótica", "antihemorroidal", "antipirética", "antivenérea", "Tratamiento de la lepra y otras afecciones de la piel"]
         },
         "componentes": {
         },
         "advertencias": "", 
         "posologia": {}
+    },
+
+    "Palo Campeche" : {
+        "nombre_cientifico" : "Haematoxylon campechianum",
+        "familia" : "Caesalpiniaceae", 
+        "descripcion": "Árbol de hasta 8 metros de altura, provisto de espinas de entre 515 mm de longitud. Hojas compuestas de 510 cm de longitud, con 24 pares de folíolos obovados de superficie lustrosa. Flores amarillas en racimos axilares cortos (212 cm). Fruto en legumbre, muy delgada, de 25 cm de longitud, con las semillas dispuestas transversalmente",
+        "propiedades" : {
+            "Tallos" : ["antidiarreica", "tratamiento de la amenorrea y anemias"]
+        },
+        "componentes": {
+            "Tallos" : "Contienen taninos y una sustancia policíclica derivada del benzopirano: la hematoxilina (hasta en un 10 %), la cual resulta de utilidad como colorante histológico"
+        },
+        "advertencias": "", 
+        "posologia": {
+            "Decocción": "Hervir por no menos de 5 minutos 20 g de virutas de los tallos en 1 litro de agua. Ingerir 120 ml 6 veces al día. Tópicamente aplicar sobre la zona afectada 2-3 veces al día"
+        }
+    },
+
+    "Papa" : {
+        "nombre_cientifico" : "Solanum tuberosum",
+        "familia" : "Solanaceae", 
+        "descripcion": "Hierba con raíces tuberosas abultadas. Tallos aéreos erguidos, angulosos y frágiles. Hojas alternas vellosas, pinnatisectas, con los segmentos desiguales, membranosos. Flores largamente pedunculadas, situadas en pequeños grupos en la axila de las hojas; corola blanca o violácea, terminando en 5 lóbulos. Fruto carnoso verde amarillento al madurar",
+        "propiedades" : {
+            "Raíces" : ["antipruriginosa", "emoliente", "analgésica", "vulneraria"]
+        },
+        "componentes": {
+            "Raíces" : "La solanina, el cual se descompone por efecto del calor. El principal constituyente de los tubérculos es el almidón, contienen además vitaminas C y sustancias fenólicas que se oscurecen al oxidarse"
+        },
+        "advertencias": "Toda la planta en estado fresco (sin cocinar), es tóxica por ingestión. Se han descrito lesiones granulomatosas al contacto del almidón con heridas", 
+        "posologia": {
+            "Decocción": "Hervir por 10 minutos 100 g de tubérculos rayados o picados en pequeños pedazos en 1 litro de agua. Filtrar y dejar refrescar antes de aplicar sobre la zona afectada. Repetir la aplicación 2-3 veces al día"
+        }
+    },
+
+    "Paraíso" : {
+        "nombre_cientifico" : "Melia azedarach",
+        "familia" : "Meliaceae", 
+        "descripcion": "Árbol de hasta 15 m de altura, poco ramificado; corteza pardo-rojiza y resquebrajada cuando envejece. Hojas alternas, bipinnadas, pecioladas y caducas; foliolos numerosos, peciolados y aserrados de 3 a 7 cm de largo. Flores agrupadas en grandes panículas axilares y pedunculadas de 20 a 30 cm de longitud. Fruto drupáceo, monospermo, amarillo al madurar, de 1,5 a 2 cm de diámetro",
+        "propiedades" : {
+            "Hojas": ["antirreumática"],
+            "Raíces": ["antihelmíntica"]
+        },
+        "componentes": {
+        },
+        "advertencias": "Se reporta que los frutos son venenosos", 
+        "posologia": {}
+    },
+
+    "Paraíso Francés" : {
+        "nombre_cientifico" : "Moringa oleifera",
+        "familia" : "Moringaceae", 
+        "descripcion": "Árbol de hasta 9 m de altura, de corteza áspera y correosa y con las ramas jóvenes puberulentas. Hojas alternas, 2 o 3 pinnadas, caducas, de 30 a 60 cm de longitud; foliolos numerosos, opuestos, de 1 a 2 cm de largo. Flores fragantes y agrupadas en grandes panículas axilares; 5 pétalos, desiguales y blancos. Fruto capsular, lineal, 3-angular, pendular, de hasta 40 cm de largo y 1 o 2 cm de ancho. Semillas aladas",
+        "propiedades" : {
+            "Semillas" : ["purgante", "tratar la escabiosis"],
+            "Raíces": ["rubefaciente", "antiescorbútica", "digestiva", "aperitiva"]
+        },
+        "componentes": {
+            "Raíces": "Contiene afomina y espiraquina",
+            "Semillas": "contienen 4 (a-L-ramnosiloxi) benzilisocianato y pterigospermina (sustancia antimicrobiana). El aceite contiene ácidos palmitico, esteárico, benoptérico y moríngico"
+        },
+        "advertencias": "La resina del tronco es algo caústica. El jugo de las hojas es un poco irritante. La absorción del fruto en gran cantidad puede ser tóxica. Las semillas contienen compuestos mutagénicos. El aceite no se debe consumir por vía oral; su actividad puede afectarse por la luz o forma de extracción", 
+        "posologia": {}
+    },
+
+    "Pasiflora" : {
+        "nombre_cientifico" : "Passiflora incarnata",
+        "familia" : "Passifloraceae", 
+        "descripcion": "Liana rastrera o trepadora provista de zarcillos, con ramas finas algo leñosas. Hojas alternas, pecioladas, lobuladas. Flores axilares, mayormente solitarias, llamativas, violáceas. Fruto carnoso de unos 5 cm de diámetro, con la cubierta lisa y brillante, de color verde-amarillento al madurar. Semillas numerosas cubiertas de una pulpa resbalosa",
+        "propiedades" : {
+            "Hojas": ["sedante", "antiespasmódica"]
+        },
+        "componentes": {
+            "Hojas": "Alcaloides, heterósidos flavónicos y mezcla de esteroles"
+        },
+        "advertencias": "", 
+        "posologia": {
+            "Decocción": "Hervir por 3 minutos 5 g del follaje fresco en 250 ml de agua. Ingerir esta cantidad en el transcurso del día repartida en 2-3 dosis" ,
+            "Extracto fluido": "Disolver 5 ml en 250 ml de agua tibia. Ingerir en el transcurso del día repartido en 2-3 dosis"
+        }
+    },
+
+    "Pino Macho" : {
+        "nombre_cientifico" : "Pinus caribaea Morelet",
+        "familia" : "Pinaceae", 
+        "descripcion": "Árbol de hasta 30 m de altura con el tronco recto y poco ramificado. Hojas aciculares de 15-30 cm de longitud agrupadas en fascículos de a 3, muy aromáticas. Flores masculinas en conos pequeños en los extremos de las ramas, flores femeninas en conos de mayor tamaño, con escamas leñosas, situados en las partes más viejas de las ramas",
+        "propiedades" : {
+            "Hojas": ["antiinflamatoria", "para la impotencia, bronquitis, blenorragia e inflamaciones genito-urinarias", "antifúngica"],
+            "Resina del tronco": ["Para eczemas"]
+        },
+        "componentes": {
+            "Hojas": "Contienen un aceite esencial rico en terpenos, taninos y resina"
+        },
+        "advertencias": "No administrar por vía oral preparados de partes de la planta o su aceite esencial. A su vez, estos pueden causar reacciones alérgicas en vías respiratorias y piel", 
+        "posologia": {
+            "Decocción": "Hervir por 5 minutos 100 g de hojas frescas en 1 litro de agua. Reposar por no menos de 15 minutos. Aplicar localmente en la zona afectada 2-3 veces al día"
+        }
+    },
+
+    "Platanillo de Cuba" : {
+        "nombre_cientifico" : "Piper ossanum",
+        "familia" : "Piperaceae", 
+        "descripcion": "Arbusto de 2 a 6 m de altura, con las ramas puberulentas o lampiñas. Hojas alternas, sencillas, enteras, con el limbo oblongo-elíptico, con puntos translúcidos, cartáceo, de 12 a 21 cm de largo y 3 a 8 cm de ancho, con un largo acumen en el ápice; base inequilatera. Flores diminutas en espigas amentiformes, opuestas a las hojas, encorvadas y verdosas; pedúnculos puberulentos. Baya subtetragona, finalmente lampiña",
+        "propiedades" : {
+            "Hojas": ["diurética", "astringente", "antiblenorrágica", "antidisentérica", "antiséptica", "cicatrizante", "antihemorroidal", "antivenérea", "antirreumática", "hemostática", "antiulcerosa", "tratamiento de la impotencia, infecciones vaginales y cistitis"]
+        },
+        "componentes": {
+        },
+        "advertencias": "", 
+        "posologia": {}
+    },
+
+    "Plátano" : {
+        "nombre_cientifico" : "Musa x paradissiaca",
+        "familia" : "Musaceae", 
+        "descripcion": "Hierba robusta de hasta 10 m de altura e izomatosa. Hojas fuertes y bien desarrolladas, peciolos envainadores que conforman el falso tallo aéreo, limbo de 1 a 2 m de largo y 35 a 60 cm de ancho, rasgándose en tiras perpendiculares al eje central. Flores unisexuales, dispuestas en semiverticilos sobre un robusto eje pendular de hasta 1 m de altura; las flores inferiores son femeninas y las superiores, masculinas. Fruto carnoso",
+        "propiedades" : {
+            "Fruto": ["antiasmática", "antiulcerosa", "antituberculosa", "anticancerosa", "contra las hemoptisis", "tratar quemaduras"]
+        },
+        "componentes": {
+            "Fruto": "Rico en taninos, fenólicos, aminas biogénicas y nucleósidos"
+        },
+        "advertencias": "", 
+        "posologia": {}
+    },
+
+    "Quimbombó" : {
+        "nombre_cientifico" : "Hibiscus esculentus",
+        "familia" : "Malvaceae", 
+        "descripcion": "Hierba anual, erguida, de 1 a 2 m de altura y poco ramificada e hirsuta. Hojas alternas, orbiculares, de 20 a 30 cm de diámetro, de 5 a 7 lóbulos pronunciados, lóbulos lanceolados u obovados y aserrados. Flores solitarias, axilares o terminales; 5 pétalos, anchos, amarillos, purpúreos en la base. Fruto capsular, globoso, anguloso y forma variable según el tipo de cultivo",
+        "propiedades" : {
+            "Hojas" : ["emoliente", "anticatarral", "diurética", "estomáquica", "vulneraria", "abortiva"],
+            "Fruto": ["emoliente", "reconstituyente", "resolutiva", "tratar afecciones oculares"],
+            "Semillas" : ["antiinflamatoria", "antiasmática", "antihistérica", "antiespasmódica", "hepatotropa", "sudorífica", "afrodisíaca", "insecticida", "estomáquica"]
+        },
+        "componentes": {
+            "Fruto" : "Contienen apreciables cantidades de mucílagos"
+        },
+        "advertencias": "Los pelos del fruto pueden causar irritación cutánea. Se ha demostrado que provocan dermatitis alérgica por contacto en las personas que habitualmente cultivan la planta", 
+        "posologia": {}
+    },
+
+    "Rabo de Gato" : {
+        "nombre_cientifico" : "Achyranthes aspera",
+        "familia" : "Amaranthaceae", 
+        "descripcion": "Hierba de hasta 1 m de altura, con los tallos cuadrangulares y pelosos, poco ramificados. Hojas aovadas de entre 420 cm de longitud, opuestas, con pecíolos de hasta 2,5 cm de longitud. Flores pequeñas y poco significativas, en finas espigas terminales de hasta 30 cm de longitud",
+        "propiedades" : {
+            "Semillas" : ["diurética", "tratar la hidrofobia, mordeduras de serpientes, oftalmias y algunas enfermedades de la piel"],
+            "Hojas": ["astringente", "diurética"]
+        },
+        "componentes": {
+        },
+        "advertencias": "", 
+        "posologia": {
+            "Decocción" : "Preparar una decocción con una cucharadita de la droga seca y desmenuzada, por vaso de agua; hervir por no menos de 10 min"
+        }
+    },
+
+    "Remolacha" : {
+        "nombre_cientifico" : "Beta vulgaris",
+        "familia" : "Chenopodíaceae", 
+        "descripcion": "Hierba bienal, con los tallos de hasta 1,25 m de altura. Hojas sencillas, pecioladas, aovadas u oblongas, se convierten brácteas lineales en la inflorescencia. Flores pequeñas, numerosas, verdosas, agrupadas en una panícula terminal grande y difusa; corola ausente; cáliz persistente; ovario 1-locular. Fruto en utrículo",
+        "propiedades" : {
+            "Raíces" : ["antiasténica", "antifúngica", "antibacteriana", "antimitótica", "antitumoral", "pectoral", "diurética", "insecticida", "emenagoga"],
+            "Hojas" : ["vulneraria", "antiparasitaria", "digestiva", "laxante", "anticonceptiva", "antifúngica"]
+        },
+        "componentes": {
+            "Raíces" : "Contienen sacarosa, fructuosa, glucosa, sodio, potasio, calcio, magnesio, glutamina, hierro, colina, betaina y pigmentos (betanidina). Constituyentes volátiles: piridina y sus derivados y geosmina; proteínas (1,6 %), grasas (0,2 %), carbohidratos (10 %), ácido ascórbico, riboflavina, tiamina y niacina"
+        },
+        "advertencias": "", 
+        "posologia": {}
+    },
+
+    "Romerillo" : {
+        "nombre_cientifico" : "Bidens pilosa",
+        "familia" : "Asteraceae", 
+        "descripcion": "Hierba anual, lampiña o algo pubescente, de 30 a 100 cm de altura y más o menos ramificada. Hojas opuestas, a veces alternas en la parte superior, pecioladas, 3-partidas; segmentos aovados o lanceolados y aserrados. Cabezuelas florales terminales, compuestas por flores tubulares de color amarillo intenso y las radiales con sobresalientes pétalos blancos. Aquenio, provisto de vilano",
+        "propiedades" : {
+            "Hojas": ["colerética", "antiulcerosa", "antifúngica", "antibacteriana", "pectoral", "sialagoga", "emenagoga", "descongestionante hepático", "antihemorroidal", "cicatrizante", "antiemética", "diurética", "antiinflamatoria", "estimulante", "hemostática", "emoliente", "antitusiva", "antipirética", "tratar las aftas bucales, odontalgias e irritación de la piel"]
+        },
+        "componentes": {
+            "Hojas": "Aminas, esteroides, triterpenos, azúcares, flavonoides, fenoles, taninos, glucósidos (chalconas), benzoides (fenilheptatrina y alfa-tertienil), carbonato de sodio, potasio, calcio, ácido silicio, albúmina y un aceite esencial"
+        },
+        "advertencias": "Las hojas frescas contienen cristales de silicato que pueden inducir carcinogénesis", 
+        "posologia": {
+            "Infusión" : "En casos de dolencias agudas consumir una taza cada 4 horas. Filtrar a través de un paño o lienzo"
+        }
+    },
+
+    "Romero" : {
+        "nombre_cientifico" : "Rosmarinus officinalis",
+        "familia" : "Lamiaceae", 
+        "descripcion": "Arbusto perenne, ramoso, generalmente de menos de 1 m de altura. Hojas finas, como agujas, pero flexibles, de colorverde oscuro en la parte superior, grisáceo en la inferior, aromáticas. Flores pequeñas, irregulares, entre blanco y azul pálido, solitarias o en pequeños grupos situados en el punto de unión de la hoja con la rama",
+        "propiedades" : {
+            "Hojas" : ["colerética", "Protector del tejido hepático", "antiespasmódica", "carminativa", "antirreumática", "revulsiva", "sedante", "diurética", "vulneraria", "tónica", "antiséptica", "otálgica", "expectorante"]
+        },
+        "componentes": {
+            "Hojas" : "Aceite esencial (alrededor del 2 %), con cineol, canfreno, borneol, alcanfor y otros componentes, alcaloides, saponinas, tanino, flavonas, ácidos orgánicos y un principio amargo"
+        },
+        "advertencias": "Puede causar alergia en algunas personas. En altas dosis puede ser tóxico. No administrar a niños, embarazadas y lactantes", 
+        "posologia": {
+            "Infusión": "Verter 57 g de follaje fresco en 250 ml de agua hirviendo. Reposar por 10-15 minutos. Beber en el día en 1-2 dosis, nunca antes de acostarse"
+        }
+    },
+
+    "Ruda" : {
+        "nombre_cientifico" : "Ruta graveolens",
+        "familia" : "Rutaceae", 
+        "descripcion": "Hierba lampiña, algo leñosa en la base, glauca, de olor fuerte y desagradable, de 30 a 60 cm de altura o más. Hojas alternas, bi o tri-pinnado-partidas, punteado-glandular, los segmentos lineales, elípticos u obovados. Flores en grupo terminales; corola de 4 o 5 pétalos amarillos. Fruto capsular, 4 a 5 lóculos, de 7 a 9 cm de ancho",
+        "propiedades" : {
+            "Hojas": ["emenagoga", "vermífuga", "calmante", "antiespasmódica", "abortiva", "diurética", "tratamiento de desórdenes del sistema nervioso autónomo", "Estimula el flujo sanguíneo hacia los órganos digestivos y músculos lisos en general", "Aumenta la resistencia de los capilares sanguíneos"]
+        },
+        "componentes": {
+            "Hojas" : "Aceite esencial (0,28 porciento en hojas y 1 porciento en semillas) y flavonoides (en especial rutina y quercitina). Azúcares, materias resinosas y peptídicas, principios amargos, gomas, taninos, alcaloides y cumarinas"
+        },
+        "advertencias": "Tiene efectos abortivo y mutagénico comprobados. El aceite esencial es extremadamente irritante para la piel y mucosas. Se considera venenosa en dosis mayores de 2 g del polvo seco por día", 
+        "posologia": {}
+    },
+
+    "Sábila" : {
+        "nombre_cientifico" : "Aloe vera",
+        "familia" : "Liliaceae", 
+        "descripcion": "Hierba perenne, sin tallo aparente. Hojas carnosas, lanceoladas, agrupadas formando una roseta. Flores tubulares, amarillas, dispuestas en una espiga que se sitúa en el extremo de un tallo erguido (escapo) que sobresale marcadamente por sobre las hojas",
+        "propiedades" : {
+            "Hojas": ["laxante", "antiulcerosa", "Protector del tejido hepático", "antiasmática", "anticatarral", "antialopética", "antialérgica", "antiartrítica", "antiparasitaria", "colagoga", "expectorante", "vulneraria", "antihemorroidal"]
+        },
+        "componentes": {
+            "Hojas": "Contienen derivados antraquinónicos (sustancias activas) y resinas"
+        },
+        "advertencias": "Por vía oral contraindicada en las embarazadas y madres que amamantan", 
+        "posologia": {
+            "Natural": "Para uso tópico, se acostumbra aplicar localmente el mesófilo (cristal de la hoja) directamente sobre la zona afectada, 2-3 veces al día. Por vía oral, adicionar 50 g del mesófilo a 1 litro de agua. Tomar como agua común 300-500 ml al día repartido en 2-3 dosis. Para su uso como laxante, preparar de igual forma pero sin pelar la hoja y quitándole las espinas de los bordes"
+        }
+    },
+
+    "Sagú" : {
+        "nombre_cientifico" : "Maranta arundinacea",
+        "familia" : "Marantaceae", 
+        "descripcion": "Hierba de tallos subterráneos (rizomas) escamosos, horizontales; tallos aéreos delgados, ramificados, ocasionalmente de más de 1 m de altura. Presenta hojas basales y hojas caulinares alternas de peciolos envainadores y lámina generalmente aovada de 6-25 cm de longitud y 3-10 cm de ancho. Flores poco vistosas, en pares, dispuestas en racimos en el extremo de los tallos",
+        "propiedades" : {
+            "Rizomas" : ["antidiarreica", "antiveneno", "tratamiento de la gangrena", "emoliente", "digestiva"]
+        },
+        "componentes": {
+            "Rizomas": "Contienen hasta un 27 % de almidón, grasas, albúmina y azúcares, entre otros componentes."
+        },
+        "advertencias": "", 
+        "posologia": {
+            "Decocción": "Hervir por 10 minutos 20-30 g de rizomas frescos en 1 litro de agua. Tomar 120 ml, 6 veces al día."
+        }
+    },
+
+    "Salvia" : {
+        "nombre_cientifico" : "Pluchea carolinensis",
+        "familia" : "Asteraceae", 
+        "descripcion": "Arbusto muy ramoso de 3 a 4 m de altura con las ramas tomentosas. Hojas elípticas hasta lanceoladas, enteras, estrechas hacia la base, ásperas, de 5 a 20 cm de largo y 2,5 a 8 cm de ancho. Cabezuelas agrupadas en el extremo de las ramas con el pedúnculo y el involucro densamente pubescente; receptáculo plano; flores blanquecinas o rosadas. Aquenios con 4 a 5 ángulos; vilano blanco",
+        "propiedades" : {
+            "Hojas": ["analgésica", "febrífuga", "emenagoga", "antiasmática", "Tratamiento de las neumoptías, ronquera y digestiones lentas"]
+        },
+        "componentes": {
+            "Hojas": "El tamizaje fitoquímico es positivo para esteroides flavonoides, glucosidos y triterpenos. Existen reportes sobre la existencia de aceite esencial, taninos y alcaloides"
+        },
+        "advertencias": "", 
+        "posologia": {}
+    },
+
+    "Salvia de Castilla" : {
+        "nombre_cientifico" : "Salvia officinalis",
+        "familia" : "Lamiaceae", 
+        "descripcion": "Hierba de tallos leñosos en la base, de alrededor de 30 cm de altura. Hojas puestas pecioladas, aovadas u oblongas, con el borde finamente dentado y la superficie rugosa y de color verde-grisáceo. Flores en racimos en el extremo de la ramas; corola violácea, irregular. Fruto en forma de cápsula",
+        "propiedades" : {
+            "Hojas": ["antiinfecciosa", "antifúngica", "antiséptica", "Para infecciones de la garganta", "tratar desórdenes digestivos", "estimular la función hepática y biliar"]
+        },
+        "componentes": {
+            "Hojas": "Aceite esencial, sílice, una cantidad considerable de taninos y seudotaninos, triterpenos, principios amargos, vitaminas y resinas"
+        },
+        "advertencias": "No utilizar en mujeres embarazadas o lactando. La sílice contenida en la planta es tóxica", 
+        "posologia": {
+            "Infusión": "Verter 20-30 g de hojas frescas sobre 1 litro de agua. Reposar por 10-15 minutos. Ingerir 300-500 ml al día repartidos en 2-3 dosis. Para uso tópico, aplicar la infusión descrita directamente sobre la zona afectada, 2-3 veces al día"
+        }
+    },
+
+    "Siempreviva" : {
+        "nombre_cientifico" : "Kalanchoe pinnata",
+        "familia" : "Crassulaceae", 
+        "descripcion": "Hierba carnosa, erguida, lampiña, de hasta 1,5 m de altura y poco ramificada. Hojas decusadas, simples o pinnado-compuestas, foliolos oblongos, aovados o elípticos, fuertemente crenados, de hasta 15 cm de largo y 7 cm de ancho; peciolos de hasta 4 cm de largo. Flores agrupadas en panículas terminales de hasta 50 cm de largo; corola campanulada, rojiza, 4-lóbulos; estambres en 2 series de 4. Semillas numerosas",
+        "propiedades" : {
+            "Hojas" : ["antibacteriana", "antifúngica", "cicatrizante", "antiinflamatoria", "vasoconstrictora", "diurética", "Tratamiento de la gingivitis, estomatitis aftosa y odontosis", "antiséptica", "antiespasmódica", "sedante", "pectoral", "antiepiléptica", "antihipertensiva", "otálgica", "antidisentérica", "antidismenorreica"]
+        },
+        "componentes": {
+            "Hojas": "Fenoles, 2 flavonoides, ácidos acético, málico, cítrico, isocítrico, láctico, fumárico, oxálico y succínico. La planta presenta un alto contenido de calcio y cloro. Contiene, además, B-citosterol, mucílago, briofilina, polisacáridos, taninos, vitamina P, aluminio, hierro, magnesio, manganeso, cobre y silicio"
+        },
+        "advertencias": "La briofilina-B presente en el extracto acuoso de la hoja es citotóxica. La planta entera por vía intragástrica en las ratas, en dosis de 790 mg/Kg de masa corporal, no tiene efecto tóxico", 
+        "posologia": {}
+    },
+
+    "Tabaco" : {
+        "nombre_cientifico" : "Nicotiana tabacum ",
+        "familia" : "Solanaceae", 
+        "descripcion": "Hierba robusta de 1-3 m de altura. Hojas alternas, carentes de peciolos (sentadas), grandes, membranosas, mayormente oblongas. Flores en panojas terminales y axilares; corola blanca o rosada, en forma de embudo, de hasta 5 cm de longitud. Fruto capsular, subgloboso, de alrededor de 1,5 cm de diámetro, parcialmente cubierto por el cáliz persistente",
+        "propiedades" : {
+            "Hojas" : ["insecticida", "pediculicida", "aliviar dolores de cabeza", "febrífuga", "vermífuga", "antidismenorreica", "antirreumática", "antiebriética", "antialopécica",  "antialmorránica"]
+        },
+        "componentes": {
+            "Hojas": "Ricas en alcaloides resultando la nicotina el mayoritario; contienen además ácidos orgánicos (málico y cítrico), ácidos fenoles (clorofénico, quínico, nicotínico), flavonoides, bases volátiles, trazas de cumarinas, aceite esencial y numerosas enzimas."
+        },
+        "advertencias": "La nicotina, presente en las hojas entre 2-10 %, es un alcaloide altamente tóxico. La dosis letal para el hombre es de 0,04-0,06 g. Se absorbe rápidamente por vía transdermal", 
+        "posologia": {
+            "Natural": "Se friccionan las hojas frescas directamente sobre la zona afectada. Repetir la operación tantas veces como sea necesario."
+        }
+    },
+
+    "Tamarindo" : {
+        "nombre_cientifico" : "Tamarindus indica",
+        "familia" : "Caesalpiniaceae", 
+        "descripcion": "Árbol de madera dura, hasta 20 m de altura. Hojas compuestas que alcanzan hasta 12 cm de longitud, formadas por 10-20 pares de foliolos relativamente pequeños (12-20 mm). Flores pequeñas en racimos más cortos que hojas; estambres más largos que flores. Fruto en legumbre de 5-15 cm de longitud, con el mesocarpio pulposo, ácido, tabicado entre semillas, de alrededor de 1 cm",
+        "propiedades" : {
+            "Fruto": ["laxante", "antiséptica", "diurética", "antilitiásica", "antibacteriana"],
+            "Hojas": ["hepatoprotector", "espasmolítica", "antigripal", "antidiabética", "antibacteriana"],
+            "Raíces": ["antiictérica"],
+            "Semillas": ["afrodisíacas"]
+        },
+        "componentes": {
+            "Fruto": "Rico en ácidos orgánicos (tartárico, acético, cítrico, málico y succínico), azúcares y pectinas."
+        },
+        "advertencias": "", 
+        "posologia": {
+            "Mezcla": "Mezclar 50 g de pulpa fresca en 0.5 litro de agua o leche. Endulzar al gusto. Ingerir en el transcurso del día repartido en 2- 3 dosis"
+        }
+    },
+
+    "Té de Riñón" : {
+        "nombre_cientifico" : "Orthosiphon aristaus Blume",
+        "familia" : "Lamiaceae", 
+        "descripcion": "Hierba semileñosa, muy ramificada, de hasta 50 cm de altura. Tallos angulosos de coloración violácea. Hojas opuestas, estrechadas hacia la base y con el margen aserrado hacia la mitad superior. Flores vistosas, blancas a violáceas, en espigas terminales de unos 20 cm de longitud. Estambres sobresalen de manera notable por fuera de la corola",
+        "propiedades" : {
+            "Hojas": ["diurética", "Tratar trastornos metabólicos, afecciones hepáticas y renales", "antihipertensiva", "Con carácter profiláctico en personas con antecedentes diabéticos"]
+        },
+        "componentes": {
+            "Hojas": "Contienen saponinas, un aceite esencial, un principio amargo glucosídico (ortosifonina), abundantes sales de potasio, urea y ácidos orgánicos."
+        },
+        "advertencias": "", 
+        "posologia": {
+            "Decocción": "Al contenido de un vaso de agua hirviendo añadir una cucharada de follaje seco y molido (en la forma en que se expende en las farmacias), dejar reposar entre 2-3 horas antes de colar para beber. Tomar 1/2 vaso en la mañana y el resto por la tarde. Preparar diariamente"
+        }
+    },
+
+    "Tilo" : {
+        "nombre_cientifico" : "Justicia pectoralis",
+        "familia" : "Acanthaceae", 
+        "descripcion": "Hierba de ramas delgadas, rastreras y ligeramente engrosadas en los nudos en la variedad tipo, erguidas y poco ramificadas en la variedad stenophylla. Hojas opuestas, lanceoladas, aromáticas. Flores irregulares, con la corola violácea, dispuestas en panículas terminales. Fruto en cápsula",
+        "propiedades" : {
+            "Hojas": ["sedante", "pectoral", "Para afecciones cardíacas"]
+        },
+        "componentes": {
+            "Hojas": "Contienen 84% de agua. De ellas se han aislado 3 componentes: betaína, cumarina y umbeliferona."
+        },
+        "advertencias": "No debe emplearse conjuntamente con anticoagulantes o en pacientes con trastornos circulatorios. No consumir por más de 30 días consecutivos", 
+        "posologia": {
+            "Decocción": "Hervir por 5 minutos 1520 g de hojas frescas en 1 litro de agua. Ingerir 240 ml al día repartidos en 2 dosis",
+            "Extracto fluido": "Mezclar 5 ml en 120 ml de agua tibia. Ingerir en el transcurso del día repartidos en 2 dosis. Para uso tópico, utilizar indistintamente la decocción descrita o elextracto fluido, aplicados localmente sobre la zona afectada 2-3 veces al día"
+        }
+    },
+
+    "Tomate" : {
+        "nombre_cientifico" : "Lycopersicon esculentum",
+        "familia" : "Solanaceae", 
+        "descripcion": "Hierba de tamaño variable, en general de entre 5 y 3 cm de altura. Hojas alternas pinnatisectas, con 7-9 segmentos mayores, lobulados o aserrados. Flores en racimos axilares o terminales, corona regular, amarilla, terminado en 5 puntas. Fruto carnoso, rojo al madurar, conteniendo semillas reniformes",
+        "propiedades" : {
+            "Fruto": ["antifúngica", "tratar quemaduras u otras afecciones de la piel", "antihemorroidal", "Limpia y embellece la piel del cutis"]
+        },
+        "componentes": {
+            "Fruto": "Contienen cantidades apreciables de vitaminas C, A, B1, B2 y P; además de ácidos orgánicos (cítrico y málico, entre otros), pectinas y entre 2,4-6 % de azucares"
+        },
+        "advertencias": "Reportado como planta tóxica (follaje)", 
+        "posologia": {
+            "Natural": "Friccionar o restregar las hojas o rodajas de los frutos directamente sobre las partes afectadas."
+        }
+    },
+
+    "Toronjil" : {
+        "nombre_cientifico" : "Melissa officinalis ",
+        "familia" : "Lamiaceae", 
+        "descripcion": "Hierba perenne de entre 20 y 30 cm de altura, con el follaje verde claro y con característico olor a cítrico. Los finos tallos son cuadrangulares y pelosos, en los que se disponen las hojas en pares opuestos, las que a su vez se caracterizan por ser aovadas y por tener el borde crenado",
+        "propiedades" : {
+            "Hojas": ["antiinfecciosa", "digestiva", "estimulante", "colagoga", "antiespasmódica", "diaforética", "carminativa", "sedante", "antiemética", "emenagoga", "cardiotónica", "antiviral"]
+        },
+        "componentes": {
+            "Hojas": "Aceite esencial (0,1- 0,25 %) rico en citral, citronelal y geraniol, taninos, ácidos triterpénicos y orgánicos, resinas, mucílago y un principio amargo"
+        },
+        "advertencias": "Puede provocar reacciones alérgicas", 
+        "posologia": {
+            "Infusión": "verter 20-30 g de follaje fresco en 1 litro de agua hirviendo. Reposar por 10-15 minutos. Ingerir 500-700 ml al día repartidos en 2-3 dosis"
+        }
+    },
+
+    "Toronjil de Menta" : {
+        "nombre_cientifico" : "Mentha x piperita",
+        "familia" : "Lamiaceae", 
+        "descripcion": "Hierba perenne de hasta 60 cm. de altura, con fuerte olor a mentol. Ramas cuadrangulares con coloración violácea cuando es cultivada a sol directo. Hojas opuestas, lanceoladas, de venación prominente y borde dentado. Flores pequeñas, violáceas, agrupados en espigas situadas en el extremo de ramas erguidas",
+        "propiedades" : {
+            "Hojas": ["antiséptica", "antiinflamatoria", "estimular la secreción de los jugos gástricos", "antidiarreica", "colagoga", "espasmolítica", "estomáquica", "aperitiva", "antiemética", "expulsar cálculos biliares", "analgésica", "anticatarral", "excitante"]
+        },
+        "componentes": {
+            "Hojas": "Aceite esencial con mentol como componente mayoritario (alrededor de un 50 %), resina, sustancias amargas, taninos, ácidos orgánicos y flavonas"
+        },
+        "advertencias": "No administrar a niños menores de 1 año", 
+        "posologia": {
+            "Infusión": "Verter una taza de agua hirviendo sobre una cucharadita de hojas desmenuzadas. Reposar de 10-15 min. Beber 2-3 tazas al día"
+        }
+    },
+
+    "Verbena Cimarrona" : {
+        "nombre_cientifico" : "Stachytarpheta jamaicensis",
+        "familia" : "Verbenaceae", 
+        "descripcion": "Hierba a menudo purpúrea, de 60 a 120 cm de altura, pelos dispersos a lampiña. Hojas alternas u opuestas, oblongas, de 2 a 8 cm de largo, aserradas y estrecha hacia la base; peciolos marginados, de igual longitud que el limbo o más cortos. Flores agrupadas en espigas terminales de hasta 50 cm de largo, empotradas en la axila de las bracteas; corola tubular violácea. Fruto incluido en el caliz y hundido en el raquis",
+        "propiedades" : {
+            "Hojas": ["emética", "purgante", "diurética", "emenagoga", "antigripal", "antidiabética", "hipotensora", "calmante", "abortiva", "antiictérica", "depresora", "hipotérmica", "espasmogénica"]
+        },
+        "componentes": {
+            "Hojas": "Compuestos fenólicos, taninos, catequinas, ácidos fenólicos, cafeico y aminobutírico, quinonas, triterpenos y esteroides"
+        },
+        "advertencias": "Por vía oral la decocción agrava las lesiones de la mucosa gástrica inducídas en ratas. La DL50 = 100 mg/kg de masa corporal (en ratón por vía intraperitoneal)", 
+        "posologia": {}
+    },
+
+    "Vetiver" : {
+        "nombre_cientifico" : "Vetiveria zizanoides",
+        "familia" : "Poaceae", 
+        "descripcion": "Gramínea de raíces aromáticas. Follaje de hasta 2 m de altura. Hojas de hasta 90 cm de longitud y de 1 cm o menos de anchura. Flores en panículas de entre 20-30 cm de longitud, situadas en el extremo de las ramas",
+        "propiedades" : {
+            "Raíces": ["antifúngica", "tópico de erupciones de la piel", "antihemorroidal", "febrífuga"]
+        },
+        "componentes": {
+            "Raíces": "Contienen un aceite esencial (0,4-11 %) compuesto de hidrocarburos, alcoholes, cetonas, ácidos y esteres"
+        },
+        "advertencias": "", 
+        "posologia": {
+            "Decocción" : "Preparar una decocción con aproximadamente 25 g de raíces por 1l de agua. Hervir por no menos de 10 min."
+        }
+    },
+
+    "Vicaria" : {
+        "nombre_cientifico" : "Catharanthus roseus",
+        "familia" : "Apocynaceae", 
+        "descripcion": "Hierba leñosa, muy ramificada, de hasta 80 cm. de altura. Hojas opuestas color verde oscuro, brillantes en la parte superior, cortamente pecioladas. flores relativamente grandes, axilares, solitarias o en pequeños grupos; corola de coloración variable, entre blanco y violeta. Fruto en folículo, dehiscente, verde carmelita al madurar, conteniendo muchas semillas de color negro",
+        "propiedades" : {
+            "Flores": ["purgante", "vermífuga", "depurativa", "hemostática", "odontálgica", "hipoglicemiante"]
+        },
+        "componentes": {
+            "Hojas": "Se caracterizan por la presencia de más de 60 alcaloides del grupo de los índoles. Entre los más importantes por su actividad antineoplásica se encuentran la vincristina y vinblastina."
+        },
+        "advertencias": "", 
+        "posologia": {
+            "Decocción": "Hervir por no menos de 5 min. un puñado de flores frescas por litro de agua. Al enfriar colocar con algodones sobre los ojos."
+        }
+    },
+
+    "Violeta" : {
+        "nombre_cientifico" : "Viola odorata",
+        "familia" : "Violaceae", 
+        "descripcion": "Hierba perenne, acaule, de unos 15 cm de altura. Hojas sencillas, enteras, con peciolos largos, suborbiculares, con el margen crenado. Flores axilares, largamente pedunculadas; 5 sépalos; 5 pétalos, desiguales, violáceos y fragantes. Fruto capsular, indehiscente",
+        "propiedades" : {
+            "Flores": ["afecciones respiratorias", "cefaleas", "fiebres", "tópicamente", "úlceras, fístulas y llagas"],
+            "Raíces": ["bronquitis y emético"],
+            "Semillas": ["diurética"],
+            "Hojas": ["antiinflamatoria", "emoliente"]
+        },
+        "componentes": {
+            "carbohidratos": {
+              "Hojas": ["glucosa", "fructosa", "sacarosa"],
+              "Flores": ["glucosa", "fructosa"]
+            },
+            "vitaminas": {
+              "Hojas": ["vitamina A", "vitamina C", "vitamina E", "vitamina K"],
+              "Flores": ["vitamina C", "vitamina E"]
+            },
+            "minerales": {
+              "Hojas": ["calcio", "fósforo", "magnesio", "potasio", "manganeso", "zinc", "hierro"],
+              "Flores": ["potasio", "calcio", "magnesio"]
+            },
+            "otros": {
+                "Hojas": ["irone", "alcohol benzílico", "eugeno", "monadienol"]
+            }
+        },
+        "advertencias": "Se reportan casos en los que se han producido trastornos nerviosos, circulatorios y hasta la muerte por sobredosis del contenido de las raíces", 
+        "posologia": {}
+    },
+
+    "Yerba de la Niña" : {
+        "nombre_cientifico" : "Phyllantus",
+        "familia" : "Euphorbiaceae", 
+        "descripcion": "El género Phyllantus se caracteriza por ser mayormente hierbas de hojas enteras, alternas, raras veces opuestas y avances que semejan con las ramas una hoja pinnada. Posee flores monoicas, apétalas, pequeñas, axilares o raras veces en la unión entre las ramas. Fruto en cápsula, seco o carnoso que suele abrirse en dos nuecesillas. Las semillas son transversalmente angulosas",
+        "propiedades" : {
+            "Hojas": ["antibacteriana", "antiviral", "hepatoprotectora", "antiespasmódica", "diurética", "antipirética", "antipalúdica", "antidiabética", "tónica", "antiparasitaria","tratamiento de cálculos renales y de hepatitis"]
+        },
+        "componentes": {
+            "Hojas": "En dependencia de la especie puede presentar triterpenes, alcaloides y lignanos. El P. niruri posee glicósidos y flavonoides con elevada actividad biológica, ácidos grasos, esteroles y vitamina C. Las hojas contienen un aceite esencial rico en cimeno, limoneno y salicilato de metilo",
+            "Semillas": "El aceite de las semillas es rico en ácidos linoleico (21%), linolénico (51,4%) y ricinoleico (1,2%)."
+        },
+        "advertencias": "Los estudios toxicológicos no han demostrado que la planta posea toxicidad general de importancia. TRAMIL considera recomendable el uso antipirético (administración interna y externa) y otras indicaciones deben tener mayor sustento investigativo sobre la actividad farmacológica y su seguridad toxicológica", 
+        "posologia": null
+    },
+
+    "Yuca" : {
+        "nombre_cientifico" : "Manihot esculenta",
+        "familia" : "Euphorbiaceae", 
+        "descripcion": "Arbusto de entre 2-3 m. de altura, provisto de raíces tuberosas alargadas. Hojas alternas largamente pecioladas, limbo 3-5 partido, segmentos de entre 8-15 cm. de longitud. Flores en racimos ramificados, las femeninas en la base, pocas con el cáliz más corto que en las masculinas. Fruto en cápsula de alrededor de 1,5 cm. de diámetro estrechamente alado",
+        "propiedades" : {
+            "Raíces": ["antipruriginosa", "analéptica", "drástica", "absorbente", "antidisentérica", "hipostenizante", "entérica", "detersiva", "madurativa", "energética", "saciante", "antioxidante", "prebiótica"],
+            "Hojas": ["antirreumática", "antiinflamatoria", "cicatrizante"]
+        },
+        "componentes": {
+            "carbohidratos": {
+              "Raíz": ["almidón"]
+            },
+            "vitaminas": {
+              "Hojas": ["vitamina A", "vitamina C"],
+              "Raíz": ["vitamina C"]
+            },
+            "minerales": {
+              "Hojas": ["calcio", "potasio"],
+              "Raíz": ["potasio", "magnesio"]
+            },
+            "otros": {
+                "Hojas": ["cianuro (en pequeñas cantidades)", "taninos"],
+                "Raíz": ["saponinas"]
+            }
+        },
+        "advertencias": "El consumo de yuca cruda puede provocar intoxicación por cianuro. Debe cocinarse completamente antes de comerla",  
+        "posologia": {
+            "Natural": "El almidón de los tubérculos se aplica directamente sobre las partes afectadas"
+        },
+        "enfermedades": ["digestivas", "artritis", "heridas"]
+    },
+
+    "Zanahoria": {
+        "nombre_cientifico" : "Daucus carota subsp. sativus",
+        "familia" : "Apiaceae", 
+        "descripcion": "Hortaliza que consiste en una raíz comestible engrosada de color naranja, con un diámetro que oscila entre los 2 y los 10 cm. Las hojas son de color verde oscuro y están muy divididas, con folíolos estrechos y puntiagudos. Las flores son pequeñas y blancas, y se agrupan en umbelas. Las semillas son pequeñas y de color marrón oscuro.",
+        "propiedades" : {
+            "Raíz": ["anticancerígena", "antioxidante", "diurética", "remineralizante"]
+        },
+        "componentes": {
+            "carbohidratos": {
+              "Raíz": ["almidón", "azúcares"]
+            },
+            "vitaminas": {
+              "Raíz": ["vitamina A", "vitamina C", "vitamina K", "vitamina E"]
+            },
+            "minerales": {
+              "Raíz": ["potasio", "calcio", "magnesio", "fósforo"]
+            },
+            "otros": {
+                "Raíz": ["betacaroteno", "licopeno", "luteína"]
+            }
+        },
+        "advertencias": null, 
+        "posologia": null,
+        "enfermedades": ["oculares", "digestivas", "cardiovasculares", "dermatológicas"]
     }
 }
