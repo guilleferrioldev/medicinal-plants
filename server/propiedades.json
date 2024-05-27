@@ -418,5 +418,11 @@
     },
     "prebiótica": {
         "descripcion": "Promueven el crecimiento de bacterias beneficiosas en el intestino."
+    },
+    "eupeptica": {
+        "descripcion": "Facilitan la digestión y absorción de nutrientes. Estimula la secreción de los jugos gástricos"
+    },
+    "cosmética" : {
+        "descripcion": "Limpia y embellece la piel del cutis"
     }
 }
