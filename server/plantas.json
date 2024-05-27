@@ -8,12 +8,27 @@
             "Fruto": ["afrodisíaca", "carminativa", "analgésica", "emoliente"]
         },
         "componentes": {
-            "Hojas":  "Aceite esencial con estragol-metilchavicol, alfa-pineno y otros terpenos, flavonoides y taninos",
-            "Fruto": "Contiene vitaminas A y E, lípidos, proteínas, carotenoides, glucósidos y sesquiterpenos",
-            "Semillas": "Contiene ácidos grasos, almidón y otros carbohidratos, glucósidos, esteroides y proantocianinas"
+            "Fruto": {
+                "grasas": ["ácido oleico", "ácido linoleico"],
+                "vitaminas": ["vitamina C", "vitamina E", "vitamina K"],
+                "minerales": ["potasio", "magnesio", "cobre"],
+                "otros": ["fitosteroles", "antioxidantes"]
+            },
+            "Hojas": {
+                "vitaminas": ["vitamina A", "vitamina C"],
+                "minerales": ["calcio", "potasio"],
+                "otros": ["taninos", "flavonoides"]
+            },
+            "Semilla": {
+                "grasas": ["ácido oleico", "ácido linoleico"],
+                "vitaminas": ["vitamina E"],
+                "minerales": ["potasio", "magnesio"],
+                "otros": ["antioxidantes"]
+            }
         },
         "advertencias": "El extracto acuoso de las hojas y los frutos, por vía oral, en ratón muestra una DL50 > 112,5 g/Kg de masa corporal y la toxicidad aguda intraperitoneal es igual a 8,8 g/Kg. No utilizar en embarazadas. Se reportan casos de alergia por contacto con crías que contienen la pulpa",
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["cardiovasculares", "colesterol alto", "inflamación", "problemas digestivos"]
     },
 
     "Ají" : {
@@ -21,16 +36,21 @@
         "familia": "Solanaceae",
         "descripcion": "Hierba de tallos bifurcados y flexuosos, de altura variable en dependencia del cultivar. Hojas mibranosas, alternas, estrechadas tanto hacia la base como hacia el ápice, pecioladas. Flores de corola regular, blancas, con 5 lóbulos, solitarias o en pequeños grupos axilares. Fruto carnoso de superficie lisa y color, forma y tamaño variable según cultivar", 
         "propiedades": {
-            "Fruto": ["estomáquica", "afrodisíaca", "antiinflamatoria", "rubefaciente", "En aplicaciones externas para la artosis (fricciones, linimento o iplastos)"]
+            "Fruto": ["estomáquica", "afrodisíaca", "antiinflamatoria", "rubefaciente"]
         },
         "componentes": {
-            "Fruto": "Hasta 2 % de capsaicina en frutos maduros, glicósidos, hasta 0,2 % de vitamina C y trazas de un aceite volátil de composición desconocida"
-        },
+            "Fruto": {
+              "vitaminas": ["vitamina C", "vitamina A"],
+              "minerales": ["potasio", "magnesio", "hierro"],
+              "otros": ["capsaicina"]
+            }
+          },
         "advertencias": "La capsaicina contenida en los frutos maduros puede provocar irritación en la piel. Evitar el uso prolongado de la planta. No recomendada por vía oral",
         "posologia" : {
             "Decocción": "Hervir por 5 minutos 5-10 g de frutos frescos y maduros en 0,5 litro de agua. Aplicar localmente sobre la zona afectada 2-3 veces al día", 
             "Tintura": "Aplicar localmente sobre la zona afectada 2-3 veces al día. Es posible utilizar la tintura asociada a ultrasonido terapéutico"
-        }
+        },
+        "enfermedades": ["dolor", "inflamación", "problemas digestivos", "artosis"]
     },
 
     "Ají Guaguao" : {
@@ -38,18 +58,23 @@
         "familia": "Solanaceae",
         "descripcion": "Arbusto lampino de hasta más de 1 m de altura, ramificado y a veces tomentoso. Hojas generalmente aovadas, de ápice agudo o acuminado y estrecha o truncada hacia la base. Flores axilares, solitarias o en pequeños grupos, con los pedícelos en forma de maza; corola blanca de aproximadamente 1 cm de diámetro y con 5 lóbulos. Fruto abayado, globoso o elipsoideo, de 5 a 10 mm de longitud, rojo al madurar y picante",
         "propiedades": {
-            "Hojas": ["antiinflamatoria", "antigripal", "antiasmática", "Inflamación gangliar y los forúnculos"],
+            "Hojas": ["antiinflamatoria", "antigripal", "antiasmática", "antiforunculosa"],
             "Fruto": ["diurética", "estomáquica", "antihemorroidal", "antianginosa"],
             "Raíz" : ["digestiva"]
         },
         "componentes": {
-            "Fruto": "Contienen pigmentos carotenoides y cantidades importantes de vitamina C. Los principios revulsivos son las amidas, fundamentalmente la capsaicina (alrededor de 1%)",
-            "Hojas": "Contienen cantidades menores de capsaicina. Valor calórico: 318 calorías/100 g"
-        },
+            "Fruto": {
+              "vitaminas": ["vitamina C", "vitamina A", "vitamina B6"],
+              "minerales": ["potasio", "hierro", "magnesio"],
+              "carotenoides": ["betacaroteno", "luteína"],
+              "otros": ["capsaicina"]
+            }
+          },
         "advertencias": "La capsaícina de los frutos maduros puede provocar irritación en la piel. Evitar el uso prolongado de la planta. No se recomienda por vía oral", 
         "posologia" : {
             "Decocción": "Hervir durante 5 minutos de 5 a 10 g de frutos frescos y maduros en más de un litro de agua. Aplicar de 2 a 3 veces al día sobre la zona afectada"
-        }
+        },
+        "enfermedades": ["dolor", "inflamación", "artritis", "psoriasis", "cáncer", "problemas digestivos", "enfermedades cardiovasculares"]
     },
 
     "Ajo": {
@@ -60,28 +85,40 @@
             "Fruto": ["cardio-circulatoria", "antihemorroidal","antiespasmódica", "antihelmíntica", "antiamebiana", "expectorante", "antiasmática", "diurética", "antiinflamatoria", "antibacteriana", "antifúngica", "antitrombótica", "antihipercolesterolémica", "tónica", "antiparasitaria", "hipotensor", "hipoglicemiante", "analgésica", "antiartrítica", "antiséptica", "colagoga", "antihistamínica", "cardiotónica"]
         },
         "componentes": {
-            "Fruto": "Los bulbos contienen una esencia sulfurada, inodora llamada aliina que provoca lagrimeo y puede tener acción cáustica. A su vez la aliina se compone de fermentos sulfurados. Contiene además un extracto mucilaginoso, una materia albuminoidea, sales de potasio, óxido de hierro, sílice, etc"
-        },
+            "Fruto": {
+              "compuestos_organosulfurados": ["alicina", "ajoeno", "sulfoóxido de alilo"],
+              "flavonoides": ["quercetina", "kaempferol"],
+              "vitaminas": ["vitamina C", "vitamina B6"],
+              "minerales": ["manganeso", "selenio", "hierro", "sílice"]
+            }
+          },
         "advertencias": "No administrar a niños, embarazadas o mujeres que amamantan. Puede causar dermatitis por contacto. La ingestión continuada puede acarrear trastornos digestivos y renales", 
         "posologia": {
             "Tintura" : "Macerar durante 7 días, al abrigo de la luz y en refrigeración, 25 g de dientes frescos en 60 ml de ron o solución, hidroalcohólica (40 %). Conservar en frío. Para uso interno tomar 20 gotas en un poco de agua, 3 veces al día. Para uso tópico aplicar directamente la tintura en la zona afectada 2 veces al día"
-        }
+        },
+        "enfermedades": ["enfermedades cardiovasculares", "cáncer", "infecciones bacterianas y virales", "problemas digestivos", "inflamación", "artritis", "enfermedad de Alzheimer", "diabetes"]
     },
 
     "Albahaca Blanca": {
-        "nombre_cientifico" : "Ocimum basilicum L", 
+        "nombre_cientifico" : "Ocimum basilicum", 
         "familia": "Lamiaceae",
         "descripcion": "Hierba ramosa, de entre 30-60 cm de altura, con todo el follaje muy aromático. Hojas opuestas, de tamaño y forma variable en dependencia del cultivar. Flores en racimos de hasta 20 cm de longitud situados en el extremo de las ramas; corola blanca o violácea, irregular. Fruto semejando una cápsula que se abre cuando madura, dejando libres 4 semillas negras", 
         "propiedades" : {
             "Hojas": ["antiespasmódica", "analgésica","estimulante", "carminativa" , "antidismenorreica", "galactogoga"]
         },
         "componentes": {
-            "Hojas": "Las partes verdes de la planta contienen un aceite esencial de composición variable en dependencia al cultivar. Generalmente contiene estragol, linalol, lineol y alcanfor. Contiene además taninos, ácidos orgánicos, sales minerales, vitaminas y saponinas"
-        }, 
+            "Hojas": {
+                "aceite esencial": ["estragol", "linalol", "lineol", "alcanfor", "eugenol"], 
+                "flavonoides": ["orientina", "vicenina"],
+                "acidos_fenolicos": ["ácido rosmarínico", "ácido cafeico"],
+                "otros": ["taninos", "ácidos orgánicos", "sales minerales", "vitaminas", "saponinas"]
+            }
+        },
         "advertencias": "El aceite esencial contiene safrol, sustancia reportada como cancerígena", 
         "posologia": {
             "Infusión": "Verter 15-20 g del follaje fresco sobre un litro de agua hirviendo. Reposar por 10-15 minutos antes de filtrar. Ingerir 300-500 ml al día repartidos en 2-3 tomas"
-        }
+        },
+        "enfermedades": ["problemas digestivos", "ansiedad", "estrés", "insomnio", "dolores de cabeza", "infecciones de la piel", "inflamación", "cáncer"]
     }, 
 
     "Albahaca Morada": {
@@ -92,10 +129,16 @@
             "Hojas": ["hipoglicemiante", "antiasmática", "antiespasmódica", "hipotensora", "analgésica", "antipirética", "antiinflamatoria", "hepatoprotectora", "sedante"]
         },
         "componentes": {
-            "Hojas": "El follaje contiene 1 % de un aceite esencial rico en eugenol (70-80 %). Contiene además flavonoides (glicósidos de apigenina y luteolina), ácidos orgánicos (ascórbico, cítrico, oxálico y otros) y ácido ursólico como ácido triperpénico mayoritario"
-        }, 
+            "Hojas": {
+              "compuestos_volatiles": ["eugenol", "carvacrol", "linalool"],
+              "flavonoides": ["orientina", "vicenina"],
+              "acidos_fenolicos": ["ácido rosmarínico", "ácido cafeico"],
+              "terpenoides": ["ácido ursólico", "ácido oleanólico"]
+            }
+          },
         "advertencias": "Consumir bajo control médico. Puede disminuir la tensión arterial. Se reporta efecto antiespermatogénico del extracto bencénico en ratas",
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["resfriado común", "gripe", "dolor de garganta", "problemas digestivos", "ansiedad", "estrés", "dolor de cabeza", "infecciones de la piel", "inflamación", "cáncer"]
     },
 
     "Alcanfor": {
@@ -106,14 +149,22 @@
             "Hojas": ["antipruriginosa", "antineurálgica", "antirreumática", "antiséptica"]
         },
         "componentes": {
-            "Hojas": "Contienen aceite esencial, que  puede variar entre 10-75%, cuyos componentes principales son: alcanfor, safrol, eugenol y cineol",
-            "Raíz": "Contienen aceite esencial cuyos componentes principales son: alcanfor, safrol, eugenol y cineol",
-            "Tronco": "Contienen aceite esencial cuyos componentes principales son: alcanfor, safrol, eugenol y cineol"
-        },
+            "Hojas": {
+                "aceite esencial": ["alcanfor", "safrol", "eugenol", "cineol"]
+            },
+            "Raíz": {
+                "aceite esencial": ["alcanfor", "safrol", "eugenol", "cineol"]
+            },
+            "Corteza": {
+                "aceite esencial": ["alcanfor", "safrol", "eugenol", "cineol"],
+                "flavonoides": ["quercetina", "kaempferol"]
+            }
+          },
         "advertencias": "No utilizar en niños. Su uso continuado puede provocar vómitos, cefaleas, cólicos, convulsiones y paro respiratorio. El aceite esencial contiene safrol, sustancia reportada como cancerígena",
         "posologia": {
             "Decocción": "Hervir por no más de 3 minutos 60-80 g de hojas frescas por litro de agua. Aplicar localmente 2-3 veces al día"
-        }
+        },
+        "enfermedades": ["congestión nasal", "tos", "resfriado", "dolor muscular"]
     },
 
     "Anamú": {
@@ -124,11 +175,21 @@
             "Hojas": ["antiespasmódica", "abortiva", "antiherpética", "antihelmíntica", "diurética", "antirreumática", "anticancerosa", "antiinflamatoria", "dermatológica"]
         },
         "componentes": {
-            "Hojas": "Contienen taninos, alcaloides, glucósidos, saponinas y son ricas en oligoelementos inorgánicos",
-            "Raíz": "Tiene esteroides, terpenoides, polifenoles y cumarina"
-        },
+            "Hojas": {
+              "alcaloides": ["piperidina", "piperina"],
+              "flavonoides": ["quercetina", "luteolina"],
+              "ácidos orgánicos": ["ácido benzoico", "ácido cinámico"],
+              "otros": ["taninos", "alcaloides", "glucósidos", "saponinas", "oligoelementos inorgánicos"]
+            },
+            "Raíz": {
+              "alcaloides": ["piperidina", "piperina"],
+              "terpenoides": ["cariofileno", "humuleno"],
+              "otros": ["esteroides", "polifenoles", "cumarina"]
+            }
+          },
         "advertencias": "Puede causar trastornos digestivos y atrofia muscular en el ganado",
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["infecciones urinarias", "infecciones respiratorias", "heridas", "dolor de muelas"]
     }, 
 
     "Anís Estrellado" : {
@@ -136,16 +197,21 @@
         "familia": "Magnoliaceae",
         "descripcion": "Árbol de hasta 20 m de altura. Hojas enteras, lanceoladas y agudas. Flores blancas, rosadas o moradas y globosas. Fruto compuesto por 4 folículos de hasta 17 mm de longitud, unido por la base a un eje central e irradiado horizontalmente con la sutura ventral hacia la parte superior y cada uno contiene una semilla de superficie lisa y brillante; pedúnculos de unos 5 cm", 
         "propiedades" : {
-            "Fruto": ["tónica", "antiespasmódica", "carminativa", "expectorante", "galactogoga", "aperitiva", "Facilita la respiración y activa la circulación tonificando el corazón"]
+            "Fruto": ["tónica", "antiespasmódica", "carminativa", "expectorante", "galactogoga", "aperitiva", "cardiotónica"]
         },
         "componentes": {
-            "Fruto": "Se caracterizan porque contienen un aceite esencial compuesto principalmente por anetol. Contienen, además, taninos, azúcares, ácidos y fenoles en pequeñas cantidades"
-        },
+            "Frutos": {
+              "aceite esencial": ["anetol", "limoneno", "felandreno"],
+              "flavonoides": ["quercetina", "kaempferol"],
+              "ácidos orgánicos": ["ácido shikímico", "ácido gálico"]
+            }
+          },
         "advertencias": "El aceite esencial en altas dosis produce delirio, congestiones cerebrales y convulsiones. No usar en tratamientos prolongados.Las bebidas alcohólicas de partes o componentes de la planta, pueden causar envenenamientos crónicos",
         "posologia": {
             "Decocción": "5 g del fruto (3 estrellas) en 200 ml (1 vaso) de agua; tomar de 3 a 4 veces al día",
             "Repercolación": "Con un disolvente hidroalcohólico (75 %). Tomar de 10 a 15 gotas disueltas en 100 ml de agua, 3 o 4 veces al día"
-        }
+        },
+        "enfermedades": ["indigestión", "flatulencias", "náuseas", "vómitos"]
     }, 
 
     "Apasote": {
@@ -156,12 +222,22 @@
             "Hojas": ["antiparasitaria", "antiasmática", "carminativa", "febrífuga", "emenagoga", "abortiva", "antihemorroidal"]
         },
         "componentes": {
-            "Hojas": "Contiene un aceite esencial (0,35 % en las hojas e inflorescencias; 0,6-3 % en frutos) cuyo componente mayoritario es el ascaridol (peróxido monoterpénico), responsable de la actividad antiparasitaria. Contiene, además, flavonoides y ácidos orgánicos"
-        },
+            "Hojas": {
+              "aceites esenciales": ["ascariidol", "cineol", "ascaridol"],
+              "flavonoides": ["quercetina", "luteolina"],
+              "terpenoides": ["carvacrol", "timol"],
+              "otros": ["ácidos orgánicos"]
+            },
+            "Semillas": {
+              "aceites esenciales": ["ascariidol", "cineol"],
+              "saponinas": ["chenopodosaponina"]
+            }
+          },
         "advertencias": "El aceite esencial es altamente tóxico, puede causar cefalea, náuseas, vértigo y hasta la muerte. Carcinogenético en ratas en dosis de 10 mg/Kg. Contraindicado en embarazadas y enfermos del hígado, riñón, cardiocirculatorios y respiratorios. Se desconoce la toxicidad de la decocción, por tanto no se recomienda", 
         "posologia": {
             "Decocción": "No más de 5 g al día. Repetir el tratamiento durante 3 días"
-        }
+        },
+        "enfermedades": ["parásitos intestinales", "indigestión", "flatulencias", "cólicos"]
     }, 
 
     "Arraigán": {
@@ -169,16 +245,31 @@
         "familia" : "Myricaceae", 
         "descripcion": "Arbusto de altura variable; hojas alternas, oblongas, con escasos dientes en el margen, de 28 cm de longitud, provistas de glándulas resinosas en la lámina; pecíolos de 310 mm. Flores masculinas y femeninas separadas, ambas agrupadas en amentos (racimo corto y denso), los masculinos cilíndricos, en la axila de hojas, los femeninos subglobosos en pequeñas ramitas",
         "propiedades" : {
-            "Hojas": ["astringente", "antiséptica", "Curar llagas y úlceras"],
+            "Hojas": ["astringente", "antiséptica", "antiulcerosa"],
             "Raíz": ["tónica", "estimulante"]
         },
         "componentes": {
-            "Raíz": "Contiene ácido tánico y gálico, así como una resina astringente"
-        },
+            "Corteza": {
+              "taninos": ["taninos"],
+              "otros": ["miricetina"]
+            },
+            "Hojas": {
+              "taninos": ["taninos"],
+              "otros": ["miricetina", "quercetina"]
+            },
+            "Frutos": {
+              "ácidos grasos": ["ácido mirístico", "ácido palmítico"],
+              "otros": ["ceras"]
+            },
+            "Raíz": {
+                "otros": ["resina astringente", "ácido tánico", "ácido gálico"]
+            }
+          },
         "advertencias": null, 
         "posologia": {
             "Decocción": "Hervir por no menos de 5 minutos, 20 g de la corteza de raíz triturada o en virutas, en 1 litro de agua. Aplicar localmente 2-3 veces al día"
-        }
+        },
+        "enfermedades": ["diarrea", "disentería", "infecciones"]
     }, 
 
     "Arroz" : {
@@ -189,12 +280,22 @@
            "Fruto": ["antipruriginosa", "antidiarreica", "emoliente"]
         },
         "componentes": {
-           "Fruto": "El almidón está compuesto por gránulos de polisacáridos (amilosa y amilopectina)"
+            "Fruto": {
+                "carbohidratos": ["almidón"],
+                "vitaminas": ["vitaminas del grupo B"],
+                "minerales": ["potasio", "magnesio"]
+            },
+            "Salvado": {
+                "fibra": ["celulosa", "hemicelulosa"],
+                "vitaminas": ["vitaminas del grupo B", "vitamina E"],
+                "minerales": ["hierro", "zinc"]
+            }
         },
         "advertencias": null, 
         "posologia": {
             "Decocción": " Hervir por 20 minutos, 100 g de granos en 1 litro de agua. Filtrar y dejar refrescar. Aplicar localmente sobre la zona afectada 3 veces al día"
-        }
+        },
+        "enfermedades": ["colesterol alto", "diabetes", "enfermedades cardiovasculares"]
     },
 
     "Añil Cimarrón" : {
@@ -205,10 +306,18 @@
            "Fruto": ["antiepiléptica", "insecticida", "antiulcerosa", "febrífuga", "antipalúdica", "antiherpética", "antiséptica", "purgante", "sedante", "diurética", "antiespasmódica", "antiodontálgica", "antiparasitaria", "dermatológica"]
         },
         "componentes": {
-           "Fruto": "Flavonoides, leucoantocianidinas, fenoles, taninos, aminas, lactonas, triterpenos y esteroides"
+            "Hojas": {
+                "compuestos": ["indican", "indigotina"],
+                "vitaminas": ["vitamina C"],
+                "minerales": ["potasio", "calcio"]
+            },
+            "Fruto": {
+                "otros": ["flavonoides", "leucoantocianidinas", "fenoles", "taninos", "aminas", "lactonas", "triterpenos" , "esteroides"]
+            }
         },
         "advertencias": "Se cita que el uso continuado por vía oral puede degradar la inteligencia del epiléptico. Se desconoce la toxicidad por vía tópica", 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["infecciones", "heridas", "inflamaciones"]
     },
 
     "Bija" : {
