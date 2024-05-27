@@ -57,7 +57,7 @@
         "familia": "Alliaceae",
         "descripcion": "Hierba anual, geofita, con bulbos compuestos denominados popularmente cabezas. Hojas lineares dispuestas en una roseta que surge de la parte superior del bulbo",
         "propiedades": {
-            "Fruto": ["Cardio-circulatoria", "antihemorroidal","antiespasmódica", "antihelmíntica", "antiamebiana", "expectorante", "antiasmática", "diurética", "antiinflamatoria", "antibacteriana", "antifúngica", "antitrombótica", "antihipercolesterolémica", "tónica", "antiparasitaria", "hipotensor", "hipoglicemiante", "analgésica", "antiartrítica", "antiséptica", "colagoga", "antihistamínica", "cardiotónica"]
+            "Fruto": ["cardio-circulatoria", "antihemorroidal","antiespasmódica", "antihelmíntica", "antiamebiana", "expectorante", "antiasmática", "diurética", "antiinflamatoria", "antibacteriana", "antifúngica", "antitrombótica", "antihipercolesterolémica", "tónica", "antiparasitaria", "hipotensor", "hipoglicemiante", "analgésica", "antiartrítica", "antiséptica", "colagoga", "antihistamínica", "cardiotónica"]
         },
         "componentes": {
             "Fruto": "Los bulbos contienen una esencia sulfurada, inodora llamada aliina que provoca lagrimeo y puede tener acción cáustica. A su vez la aliina se compone de fermentos sulfurados. Contiene además un extracto mucilaginoso, una materia albuminoidea, sales de potasio, óxido de hierro, sílice, etc"
@@ -202,7 +202,7 @@
         "familia" : "Poaceae", 
         "descripcion": "Arbusto de 1 a 1,5 m de altura generalmente muy ramificado; ramas delgadas con pubescencia blanquecina. Hojas compuestas por 9 a 17 foliolos pinnados, de unos 3 cm de longitud, verde claros y pubescentes, al menos en la cara inferior. Flores en racimos estrechos de hasta 5 cm de longitud; cáliz campanulado y corola amarillenta. Legumbre lineal, tabicada entre las semillas, de 8 a 15 mm de largo por 2 mm de ancho; posee de 3 a 8 semillas",
         "propiedades" : {
-           "Fruto": ["antiepiléptica", "insecticida", "antiulcerosa", "febrífuga", "antipalúdica", "antiherpética", "antiséptica", "purgante", "sedante", "diurética", "antiespasmódica", "antiodontálgica", "antiparasitaria", "Para el tratamiento de la faringitis y curar la sarna"]
+           "Fruto": ["antiepiléptica", "insecticida", "antiulcerosa", "febrífuga", "antipalúdica", "antiherpética", "antiséptica", "purgante", "sedante", "diurética", "antiespasmódica", "antiodontálgica", "antiparasitaria", "dermatológica"]
         },
         "componentes": {
            "Fruto": "Flavonoides, leucoantocianidinas, fenoles, taninos, aminas, lactonas, triterpenos y esteroides"
@@ -216,14 +216,22 @@
         "familia" : "Bixaceae", 
         "descripcion": "Arbusto de hasta 9 m de altura, de corteza parda y ramas jóvenes comúnmente escamosas. Hojas aovadas de 8 a 20 cm de largo y de 4 a 15 cm de ancho, con pecíolo largo. Flores en panículas terminales; corola de 5 pétalos, torcidos en el botón, redondeados y rosados; estambres numerosos. Fruto capsular aovado-globoso, de unos 4 cm de diámetro, densamente cubierto de espinas suaves y delgadas. Semillas numerosas",
         "propiedades" : {
-           "Fruto": ["antibacteriana", "emoliente", "refrescante", "antiinflamatoria", "emenagoga", "hepatotropa", "antiemética", "diurética", "antivenérea", "hemostática", "Se usan para la astenia, asma, diarreas, caspa, y su maceración oleosa para las quemaduras"]
+           "Semillas": ["antibacteriana", "emoliente", "refrescante", "antiinflamatoria", "emenagoga", "hepatotropa", "antiemética", "diurética", "antivenérea", "hemostática", "antiasmática"]
         },
         "componentes": {
-           "Fruto": "Contienen vitamina C, hierro y proteínas. Los frutos tienen proteínas, beta-caroteno y otros carotenoides (bixina y norbixina, entre otros). Tiene 1000-2000 UI de vitamina A por gramo de extracto oleoso",
-           "Hojas": "Se evidencian flavonoides y un derivado sesquiterpénico (eshwarano o bixhaghene)"
+            "Semillas": {
+                "pigmentos": ["bixina", "norbixina"],
+                "aceite_esencial": ["alfa-pineno", "beta-pineno", "limoneno"],
+                "otros": ["tocoferoles", "esteroles"]
+            },
+            "Hojas": {
+                "flavonoides": ["kaempferol", "quercetina"],
+                "otros": ["taninos", "saponinas"]
+            }
         },
         "advertencias": "La DL50 (ratón por vía intraperitoneal) es de 700 mg/Kg de masa corporal. Produce pancreatotoxicidad, hepatotoxicidad, hiperglicemia y aparente aumento del nivel de insulina en los perros. Popularmente se refiere que afecta el corazón", 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["inflamaciones", "heridas", "problemas_de_piel", "diarrea", "fiebre"]
     },
 
     "Café" : {
@@ -231,16 +239,25 @@
         "familia" : "Rubiaceae", 
         "descripcion": "Arbusto o arbolito de entre 1-7 m de altura. Hojas opuestas, brillantes, mayormente oblongas, con los nervios prominentes en ambas caras. Flores blancas y fragantes, en grupos apretados en la axila de las hojas. Fruto carnoso, globoso u ovalado, rojo o amarillo al madurar y que contiene 2 semillas oliváceas",
         "propiedades" : {
-           "Fruto": ["depurativa", "antiasmática",  "antihelmíntica", "afrodisíaca", "febrífuga", "antirreumática", "antiictérica", "Facilita el parto"]
+           "Fruto": ["depurativa", "antiasmática",  "antihelmíntica", "afrodisíaca", "febrífuga", "antirreumática", "antiictérica"]
         },
         "componentes": {
-            "Hojas": "Contienen salicilato de metilo",
-            "Fruto": "se encuentra entre el 13% de la cafeína. Cuando están inmaduras, estas contienen ácido clorogénico, glucósidos y trigonelina. Latorrefacción modifica en parte la composición química"
+            "Fruto": {
+                "estimulantes": ["cafeína"],
+                "antioxidantes": ["ácido clorogénico"],
+                "otros": ["ácido clorogénico", "glucósidos", "trigonelina", "triglicéridos", "ácidos grasos"]
+            },
+            "Hojas": {
+                "estimulantes": ["cafeína"],
+                "antioxidantes": ["polifenoles"],
+                "otros": ["taninos", "salicilato de metilo"]
+            }
         },
         "advertencias": "No consumir si: embarazo, hepatitis, cardiopatías, trastornos circulatorios, úlcera o gastritis. Altas dosis pueden causar cefalea, náuseas e insomnio. Los niños son mucho más sensibles. En general no deben consumirse más de 5 tazas al día", 
         "posologia": {
             "Infusión": "Se elabora de forma similar a como es tradicional en el país"
-        }
+        },
+        "enfermedades": ["enfermedades cardiovasculares", "diabetes", "cáncer"]
     },
     
     "Caisimón de anís" : {
@@ -248,14 +265,22 @@
         "familia" : "Piperaceae", 
         "descripcion": "Arbusto de hojas alternas, enteras, aovado-elípticas, con la base muy inequilatera, profundamente acorazonada, de hasta 32 cm de largo y 16 cm de ancho. Flores diminutas, bracteadas, sin perianto, agrupadas en espigas amentiformes de hasta 16 cm de largo, axilares y opuestas a las hojas. Fruto abayado y muy pequeño",
         "propiedades" : {
-           "Fruto": ["emoliente", "antirreumática", "díaforética", "diurética", "estimulante", "Tratamiento de las cefaleas"]
+           "Fruto": ["emoliente", "antirreumática", "díaforética", "diurética", "estimulante", "analgésica"]
         },
         "componentes": {
-            "Hojas": "aceites-grasas, alcaloides, aminas, azúcares, fenoles-taninos, flavonoides, saponinas y triterpenos-esteroides",
-            "Fruto": "alcaloides, aminas, azúcares reductores, taninos y triterpenos-esteroides"
-        },
+            "Frutos": {
+              "aceites esenciales": ["anetol", "estragole", "eugenol"],
+              "vitaminas": ["vitamina C"],
+              "minerales": ["potasio", "calcio"],
+              "otros": ["alcaloides", "aminas", "azúcares reductores", "taninos", "triterpenos-esteroides"]
+            }, 
+            "Hojas": {
+                "otros": ["aceites-grasas", "alcaloides", "aminas", "azúcares", "fenoles-taninos", "flavonoides", "saponinas", "triterpenos-esteroides"]
+            }
+          },
         "advertencias": "La toxicidad aguda en DL50 es igual a 1 947,09 mg/Kg de masa corporal (ratas por vía intraperitoneal-extracto acuoso)", 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["indigestión", "flatulencias", "cólicos"]
     }, 
 
     "Calabaza" : {
@@ -267,12 +292,23 @@
            "Fruto": ["antiinflamatoria"]
         },
         "componentes": {
-            "Semillas": "Tienen hasta un 50 % de un aceite graso que contiene ácido oleico y linolina; presenta además un glucósido: cucurbitina, albúminas, lecitina, resinas y titosterina"
-        },
+            "Fruto": {
+              "carbohidratos": ["almidón", "fibra"],
+              "vitaminas": ["vitamina A", "vitamina C", "vitamina K"],
+              "minerales": ["potasio", "magnesio", "calcio"]
+            },
+            "Semillas": {
+              "grasas saludables": ["ácidos grasos omega-3 y omega-6"],
+              "proteínas": ["aminoácidos esenciales"],
+              "minerales": ["zinc", "hierro", "magnesio"],
+              "otros": ["ácido oleico","linolina", "cucurbitina", "albúmina", "lecitina", "resinas", "titosterina"]
+            }
+          },
         "advertencias": null, 
         "posologia": {
             "Mezcla": "Mezclar 100-200 g de semillas mondadas (sin testa) con miel o almíbar (hasta 100 ml). Tomar este producto poco a poco en el transcurso de 1 hora, y 3 horas después tomar un purgante"
-        }
+        },
+        "enfermedades": ["estreñimiento", "hipertensión", "infecciones urinarias"]
     },
     
     "Caléndula" : {
@@ -280,16 +316,22 @@
         "familia" : "Asteraceae", 
         "descripcion": "Hierba anual, más o menos pelosa. Hojas inicialmente en una roseta basal, sentadas, simples, mayormente oblongas, para la floración emite tallos erectos, algo ramificados en la parte superior, de 30 a 60 cm de altura. Cabezuelas florales terminales, solitarias, vistosas, de 3,5 a 5 cm de diámetro; los radios planos, extendidos, desde amarillo pálido a naranja brillante",
         "propiedades" : {
-           "Flores": ["antiinflamatoria", "antibacteriana", "colerética", "antiulcerosa", "inmunoestimulante", "citostatica", "antiespasmódica", "antiséptica", "vulneraria", "emenagoga", "purgante", "antidismenorreica", "sedante", "analgésica", "resolutiva", "hemostática", "Tratamiento de trichomoniasis, amigdalitis, quemaduras, afecciones de la cavidad bucal, psoriasis y otras afecciones de la piel"]
+           "Flores": ["antiinflamatoria", "antibacteriana", "colerética", "antiulcerosa", "inmunoestimulante", "citostatica", "antiespasmódica", "antiséptica", "vulneraria", "emenagoga", "purgante", "antidismenorreica", "sedante", "analgésica", "resolutiva", "hemostática", "dermatológica"]
         },
         "componentes": {
-            "Flores": "Contienen ácidos fenólicos, carbohidratos, cumarinas, taniños, carotenos, saponinas, tocofenoles, flavonoides y aceite esencial"
-        },
+            "Flores": {
+              "carotenoides": ["betacaroteno", "luteína"],
+              "flavonoides": ["quercetina", "rutin"],
+              "saponinas": ["calendulina"],
+              "otros": ["ácidos fenólicos", "carbohidratos", "cumarinas", "taniños", "carotenos", "tocofenoles", "aceite esencial"]
+            }
+          },
         "advertencias": "Existe un reporte de shock anafiláctico después de hacer gárgaras con la infusión de la planta", 
         "posologia": {
             "Tintura": "Para uso tópico mezclar 5 ml en 200 ml de agua, aplicar 2 a 5 veces al día; por vía oral de 10 a 20 gotas mezcladas en 100 mL de agua 2 o 3 veces al día",
             "Extracto fluido": "Para uso tópico mezclar 10 gotas en 200 mL de agua, aplicar 3 a 5 veces al día, vía oral 1 a 2 gotas en 100 mL de agua y 2 a 3 veces al día"
-        }
+        },
+        "enfermedades": ["heridas", "quemaduras", "eccema"]
     },
 
     "Cayeput" : {
@@ -300,12 +342,17 @@
            "Hojas": ["antiséptica", "insecticida", "analgésica", "antirreumatica", "estimulante", "carminativa", "antimicrobiana"]
         },
         "componentes": {
-            "Hojas": "Aceite esencial con 50 a 60 % de cineol. Betulinas, taninos, aminoácidos y saponinas"
-        },
+            "Hojas": {
+              "aceite esencial": ["eucaliptol", "terpinen-4-ol", "alfa-pineno", "cineol"],
+              "otros":["betulinas", "taninos", "aminoácidos", "saponina"]
+
+            }
+          },
         "advertencias": "No se recomienda el uso interno de preparados que contengan el aceite esencial", 
         "posologia": {
             "Infusión": "Verter agua hirviente sobre 4 o 5 hojas"
-        }
+        },
+        "enfermedades": ["resfriado común", "gripe", "dolor muscular"]
     },
 
     "Caña Fistola" : {
@@ -316,13 +363,23 @@
            "Fruto": ["Laxante"]
         },
         "componentes": {
-            "Fruto": "ácido catártico e hidroximetilantraquinonas"
-        },
+            "Frutos": {
+              "carbohidratos": ["azúcares"],
+              "vitaminas": ["vitamina C"],
+              "minerales": ["potasio", "magnesio"],
+              "otros": ["antoquinonas", "flavonoides"]
+            },
+            "Corteza": {
+              "vitaminas": ["vitamina A"],
+              "minerales": ["calcio", "potasio"],
+              "otros": ["taninos", "resinas"]
+            }
+          },
         "advertencias": "Indicar solo en casos de constipaciones funcionales que no respondan a dietas ricas en fibras. El abuso de este producto puede provocar cambios en la musculatura intestinal", 
         "posologia": {
             "Mezcla": "Disolver en agua o leche 10-20 g de pulpa de frutos frescos y maduros. Endulzar si se desea e ingerir en una o varias dosis al día"
-
-        }
+        },
+        "enfermedades": ["estreñimiento", "fiebre", "infecciones"]
     },
 
     "Caña Santa" : {
@@ -333,12 +390,17 @@
            "Hojas": ["antihipertensiva", "antiespasmódica", "antiasmática", "antifúngica", "antibacteriana", "anticatarral", "febrífuga", "antitusiva", "estomáquica", "carminativa", "diaforética", "expectorante", "ansiolítica"]
         },
         "componentes": {
-            "Hojas": "Aceite esencial con alto contenido de citral (75-85 %),además de geraniol, linalol, metilheptona, citronelal, limoneno, diterpeno y otras sustancias"
-        },
+            "Hojas": {
+              "compuestos_volátiles": ["citral", "linalol", "metilheptona", "citronelal", "limoneno", "diterpeno","geraniol","neral"],
+              "vitaminas": ["vitamina A","vitamina C"],
+              "minerales": ["potasio","calcio"]
+            }
+          },
         "advertencias": "La sílice presente en las hojas puede causar úlceras", 
         "posologia": {
             "Infusión": "Verter 10-20 g de hojas frescas y desmenuzadas en un litro de agua hirviendo. Reposar por 10-15 minutos. Para consumo interno filtrar utilizando un paño o lienzo fino. Por vía oral tomar 500-700 ml al día en 2-3 dosis. Tópicamente aplicar la infusión directamente sobre la zona afectada 2-3 veces al día"
-        }
+        },
+        "enfermedades": ["digestivas", "respiratorias", "nerviosas", "antiinflamatorias", "antioxidantes"]
     },
 
     "Cañandonga" : {
@@ -351,10 +413,21 @@
            "Raíz": ["febrífuga"],
            "Corteza": ["antirreumática"]
         },
-        "componentes": null,
+        "componentes": {
+            "Hojas": {
+              "vitaminas": ["vitamina C"],
+              "minerales": ["calcio", "potasio"],
+              "otros": ["taninos", "antoquinonas", "resinas"]
+            },
+            "Flores": {
+              "vitaminas": ["vitamina C"],
+              "minerales": ["calcio", "potasio"],
+              "otros": ["antoquinonas", "flavonoides"]
+            }
+          },
         "advertencias": null, 
-        "posologia": {
-        }
+        "posologia": null,
+        "enfermedades": ["digestivas", "respiratorias", "de la piel"]
     },
 
     "Cebolla" : {
@@ -365,12 +438,24 @@
            "Bulbo": ["cardio-circulatoria", "hematopoyética", "antitrombótica", "antihipercolesterolémica", "diurética", "digestiva", "carminativa", "antiséptica"]
         },
         "componentes": {
-            "Bulbo" : "Contiene un aceite esencial pungente rico en compuestos sulfurados, como el disulfuro de alilpropilo y otros, vitaminas B1 y C, carotenos, derivados flavónicos, pectinas, sales minerales, varios azúcares, albúmina y almidón"
-        },
+            "Bulbo": {
+                "aceite esencial": ["compuestos sulfurados", "disulfuro de alilpropilo"],
+                "vitaminas": ["vitamina C", "vitamina B6", "ácido fólico", "vitamina B1", "vitamina C"],
+                "minerales": ["potasio", "fósforo", "azufre"],
+                "antioxidantes": ["quercetina", "antocianinas"],
+                "otros": ["fibra", "compuestos azufrados", "carotenos", "derivados flavónicos","pectinas","sales minerales", "azúcares","albúmina","almidón"]
+            },
+            "Hojas": {
+              "vitaminas": ["vitamina C", "vitamina A", "vitamina K"],
+              "minerales": ["calcio", "hierro", "potasio"],
+              "otros": ["fibra", "clorofila"]
+            }
+          },
         "advertencias": null, 
         "posologia": {
             "Natural": "Ingerir de 200-300 g de bulbos frescos al día, durante las comidas"
-        }
+        },
+        "enfermedades": ["resfriados", "gripe", "infecciones", "problemas cardiovasculares", "problemas digestivos"]
     },
 
     "Cereza del país" : {
@@ -378,14 +463,25 @@
         "familia" : "Malpighiaceae", 
         "descripcion": "Arbolito de hasta 5 m de altura muy ramificado. Hojas variables, desde elípticas a lanceoladas, de 1,5 a 7 cm de largo, algo más pálidas en la cara inferior y con peciolos cortos. Flores agrupadas en la axila de las hojas; corola de 5 pétalos, rosados, contraídos en la base en forma de una y de 7 a 9 mm de largo. Fruto carnoso, más o menos globoso de 10 a 16 mm de diámetro, con la cubierta rojo brillante al madurar y la pulpa ácida; posee tres semillas",
         "propiedades" : {
-           "Fruto": ["Se utiliza en gargarismos", "Para enfermedades del hígado y en la disentería"],
-           "Semillas": ["Para enfermedades del pecho, gripe, resfriado, hemorragias capilares, inflamación y sangramientos gingivales e inflamaciones articulares"]
+           "Fruto": ["hepatotropa"],
+           "Semillas": ["antigripal"]
         },
         "componentes": {
-            "Fruto": "Contienen alto contenido de vitaminas C y A, tiamina, riboflavina y niacina"
-        },
+            "Fruto": {
+              "vitaminas": ["vitamina C", "vitamina A"],
+              "minerales": ["potasio", "fósforo"],
+              "antioxidantes": ["antocianinas", "flavonoides"],
+              "otros": ["pectina", "tiamina", "riboflavina", "niacina"]
+            },
+            "Hojas": {
+              "vitaminas": ["vitamina C"],
+              "minerales": ["calcio", "potasio"],
+              "otros": ["taninos"]
+            }
+          },
         "advertencias": null, 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["resfriados", "gripe", "diarrea", "problemas de piel", "infecciones respiratorias", "problemas digestivos", "fiebre", "dolor de garganta"]
     },
 
     "Cidra" : {
@@ -393,15 +489,24 @@
         "familia" : "Rutaceae", 
         "descripcion": "Árbol espinoso. Hojas de 5 a 7,5 cm de largo, elípticas o aovadas y crenadas; peciolo estrechamente alado. Flores blancas. Fruto globoso, amarillo al madurar de 5 a 7 cm de diámetro, con el jugo bastante insípido",
         "propiedades" : {
-           "Fruto": ["antifúngica", "antibacteriana", "antiescorbútica", "hipotensora", "febrífuga", "para tratar hematurias, cálculos renales y de la vejiga", "tónica", "estimulante","carminativa", "aperitiva"],
+           "Fruto": ["antifúngica", "antibacteriana", "antiescorbútica", "hipotensora", "febrífuga", "antilitiásica", "tónica", "estimulante","carminativa", "aperitiva"],
            "Semillas": ["antihelmíntica"]
         },
         "componentes": {
-            "Hojas": "Contienen abundante aceite esencial donde predominan el limogeno y citral",
-            "Fruto": "Poseen grandes cantidades de ácidos orgánicos y vitamina C. La corteza del fruto contiene pectina y junto con la pulpa, hesperidina"
+            "Fruta": {
+                "compuestos aromáticos": ["limoneno", "citral"],
+                "vitaminas": ["vitamina C", "vitamina A"],
+                "minerales": ["potasio", "magnesio"],
+                "otros": ["pectina", "flavonoides"]
+            },
+            "Hojas": {
+                "compuestos volátiles": ["limoneno", "geraniol"],
+                "otros": ["taninos", "saponinas"]
+            }
         },
         "advertencias": null, 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["infecciones respiratorias", "problemas digestivos", "fiebre", "ansiedad"]
     },
 
     "Ciprés" : {
@@ -412,10 +517,18 @@
            "Hojas": ["antidiarreica", "antipirética", "insecticida", "larvicida", "vermicida"]
         },
         "componentes": {
-            "Hojas": "Aceite esencial, taninos, resinas y sales minerales"
+            "Hojas": {
+                "compuestos volátiles": ["alfa-pineno", "beta-pineno", "limoneno"],
+                "otros": ["taninos", "flavonoides", "resinas", "sales minerales"]
+            },
+            "Madera": {
+                "compuestos aromáticos": ["cedrol", "tuyaplicina"],
+                "otros": ["lignina", "celulosa"]
+            }
         },
         "advertencias": "Se le atribuyen efectos estrogénicos. Citada como causante de efectos teratogénicos en animales domésticos", 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["infecciones respiratorias", "congestión nasal", "asma", "artritis"]
     },
 
     "Calvo de Olor" : {
@@ -426,27 +539,43 @@
             "Flores": ["antibacteriana", "carminativa", "odontálgica"]
         },
         "componentes": {
-            "Flores" : "Contienen no menos del 15 % de un aceite esencial abundante en eugenol (85 a 90 %), además de taniños, ácidos triperpénicos y eugeniina"
+            "Flores": {
+                "compuestos aromáticos": ["eugenol", "acetato de eugenilo"],
+                "otros": ["taninos", "flavonoides"]
+            }
         },
         "advertencias": "Para adultos, por vía oral, la dosis aproximada de 3 g resulta tóxica. Para niños la dosis máxima admisible es de 0,5 g. El contacto regular y repetido con la droga puede provocar dermatitis", 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["dolor de muelas", "infecciones bacterianas", "indigestión", "nauseas"]
     },
 
     "Coco" : {
-        "nombre_cientifico" : "Cocotero",
+        "nombre_cientifico" : "Cocos nucifera",
         "familia" : "Cocos nucifera", 
         "descripcion": "Árbol estipitado, cuyo tronco puede alcanzar hasta 30 m de altura. Hojas formando un penacho en el extremo del tallo, cada una de entre 3-6 m de longitud, pinnado-compuestas, foliolos de mas de 50 cm de longitud. Flores masculinas en la parte superior de las ramas, las femeninas mas pequeñas y en menor número en la parte superior. Fruto de gran tamaño",
         "propiedades" : {
-            "Fruto": ["diurética", "laxante", "Para aliviar la hinchazón de las mamas en las madres lactantes", "astringente", "curar forúnculos y abscesos", "tratar quemaduras", "para fortalecer los cabellos"],
+            "Fruto": ["diurética", "laxante", "antiinflamatoria", "astringente", "antiforunculosa", "cosmética"],
             "Raíz": ["antidiarreica"]
         },
         "componentes": {
-            "Fruto": "El “agua” (endospermo líquido) contiene agua (93,5%), glucosa (2,1%), levulosa (3,9%), inulina, proteínas y mínimas cantidades de sales minerales. La copra (endospermo seco) contiene agua (40,8%), prótidos (3,5%), lípidos (39,9%), glúcidos (14,7%), celulosa (9,9%), vitamina C, riboflavina, niacina y cenizas"
+            "Nuez": {
+                "carbohidratos": ["azúcares"],
+                "grasas": ["ácido láurico", "ácido mirístico", "ácido palmítico"],
+                "minerales": ["potasio", "magnesio", "fósforo"],
+                "vitaminas": ["vitamina E", "vitaminas del grupo B"],
+                "otros": ["fibra"]
+            },
+            "Agua de coco": {
+                "carbohidratos": ["azúcares"],
+                "minerales": ["potasio", "magnesio", "sodio", "cloro"],
+                "vitaminas": ["vitamina C"]
+            }
         },
         "advertencias": "Se debe consumir exclusivamente el agua de frutos inmaduros. Cada litro de agua aporta al organismo 70 mmol de potasio", 
         "posologia": {
             "Natural": "Consumir al día 500 ml del agua o jugo en una o dos dosis"
-        }
+        },
+        "enfermedades": ["enfermedades cardiovasculares", "colesterol alto", "enfermedades renales", "deshidratación"]
     },
 
     "Cordobán" : {
@@ -455,14 +584,24 @@
         "descripcion": "Hierba que crece con frecuencia, formando colonias, provista de robustos tallos que apenas alcanzan 20 cm de largo y 1,5 cm de grosor. Hojas lineales, verde oscuras en cara superior, violáceas en la cara inferior, enteras, lampiñas, algo carnosas, con peciolos envainadores. Flores agrupadas en umbelas multifloras, axilares, casi escondidas entre bracteas; 3 sépalos, petaloideos, pétalos en igual número y blancos. Fruto capsular",
         "propiedades" : {
             "Hojas": ["vasoconstrictora", "broncodilatadora", "antihepatotóxica", "antimicrobiana", "astringente", "emenagoga", "colagoga", "laxante", "antihelmíntica", "hipoglicemiante",
-            "antiasmática", "diurética", "antiinflamatoria", "analgésica", "Se utiliza en el tratamiento de las cefaleas, torceduras y traumatismos y como regulador de la tensión arterial"]
+            "antiasmática", "diurética", "antiinflamatoria", "analgésica", "analgésica"]
         },
         "componentes": {
-            "Hojas": "Dopamina, antocianinas y beta-d-glucosa. Específicamente las hojas contienen aminas, azúcares reductores, flavonoides, triterpenos y esteroides. Los tallos tienen aminas y azúcares reductores",
-            "Flores": "Contienen aminas, azúcares reductores y triterpeno-esteroides"
-        },
+            "Hojas": {
+              "vitaminas": ["vitamina C"],
+              "minerales": ["potasio", "calcio", "magnesio"],
+              "otros": ["mucílago", "antocianinas", "dopamina", "beta-d-glucosa", "aminas", "azúcares reductores", "flavonoides", "triterpenos", "esteroides"]
+            },
+            "Tallos": {
+              "otros": ["aminas", "azúcares reductores"]
+            },
+            "Flores": {
+              "otros": ["aminas", "azúcares reductores", "triterpeno-esteroides"]
+            }
+          },
         "advertencias": "Se han detectado algunos efectos tóxicos en animales de experimentación. El jugo de las hojas frescas puede causar enrojecimiento e irritación cutánea. Tiene efecto simpaticomimético (tipo dopaminérgico) cardiovascular, respiratorio y digestivo", 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["respiratorias", "digestivas", "piel"]
     },
 
     "Culantro Cimarrón" : {
@@ -473,10 +612,17 @@
             "Hojas": ["antihipertensiva", "febrífuga", "aperitiva", "afrodisíaca", "abortiva", "emenagoga", "laxante", "antiescorbútica", "antirreumática", "bactericida", "antiséptica", "anticonvulsivante", "antiemética", "antidiarreica", "carminativa"]
         },
         "componentes": {
-            "Hojas": "Contiene flavonoides, saponósidos, esteroles, triterpenos y un aceite esencial con alfa pineno, paracimeno, alcohol fenquílico, furfural y dodeceno-2-al-1. Contiene, además, hierro, calcio, riboflavina y carotenos"
-        },
+            "Hojas": {
+              "compuestos activos": ["erifotrina", "erifoside", "ácidos fenólicos", "flavonoides", "saponósidos", "esteroles", "triterpenos"],
+              "aceite esencial": ["alfa pineno", "paracimeno", "alcohol fenquílico", "furfural", "dodeceneo"],
+              "vitaminas": ["riboflavina"],
+              "minerales": ["hierro", "calcio"],
+              "otros": ["carotenos", "antioxidantes", "antiinflamatorios", "antimicrobianos"]
+            }
+          },
         "advertencias": "Se refiere que es un abortivo fuerte", 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["digestivas", "hepáticas", "renales", "respiratorias", "urinarias"]
     },
 
     "Cúrcuma" : {
@@ -487,10 +633,16 @@
             "Rizomas": ["hepatoprotectora", "antitrombótica", "antiinflamatoria", "hipoglicemiante", "antiesclerótica", "antihepatotóxica", "diurética", "carminativa"]
         },
         "componentes": {
-            "Rizomas": "Contiene un aceite esencial rico en monoterpenos (borneol, alcanfor, terpineno y otros) y sesquiterpenos (tumerona, atlantona y curcumenol)."
-        },
+            "Rizoma": {
+              "compuestos activos": ["curcumina", "turmerona", "zingibereno", "borneol", "alcanfor", "terpineno"],
+              "vitaminas": ["vitamina C"],
+              "minerales": ["potasio", "magnesio", "calcio", "hierro"],
+              "otros": ["antioxidantes", "antiinflamatorios"]
+            }
+          },
         "advertencias": "El polvo de los rizomas puede producir alergia por contacto en piel. La evaluación toxicológica es incompleta", 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["digestivas", "hepáticas", "inflamatorias", "cáncer"]
     },
 
     "Doradilla" : {
@@ -498,11 +650,18 @@
         "familia" : "Polypodiaceae", 
         "descripcion": "Helecho pequeño provisto de rizomas trepadores de 2 mm de grosor, flexuosos, densamente pelosos y con escamas imbricadas de 3 a 4 mm de largo. Frondes distantes, erectos, de 5 a 25 cm de largo, con los peciolos más cortos que los limbos; láminas oblongas o lineales, pinnatisectas, truncadas en la base, opacas al secarse e higroscópicas",
         "propiedades" : {
-            "Hojas": ["Se utiliza en los casos de afecciones hepáticas", "Para disolver cálculos biliares", "Regular la tensión arterial y la menstruación"]
+            "Hojas": ["hepatoprotectora", "colagoga", "emenagoga"]
         },
-        "componentes": null,
+        "componentes": {
+            "Rizoma": {
+                "saponinas": ["poliflavonas A y B"],
+                "flavonoides": ["ácido cafeico", "ácido ferúlico"],
+                "polisacáridos": ["inulina"]
+            }
+        },
         "advertencias": null, 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["respiratorias", "digestivas", "hepáticas"]
     },
 
     "Eneldo" : {
@@ -513,12 +672,20 @@
             "Semillas": ["antiespasmódica", "aperitiva", "digestiva", "carminativa"]
         },
         "componentes": {
-            "Semillas": "Hasta 4 % de un aceite esencial en los frutos secos, con carvona, como sustancia mayoritaria, limoneno y otros compuestos"
+            "Toda la planta": {
+                "aceites esenciales": ["anetol", "limoneno", "felandreno"],
+                "flavonoides": ["quercetina", "kaempferol"],
+                "vitaminas": ["vitamina C", "vitamina A"]
+            },
+            "Semillas": {
+                "aceite esencial": ["carvona", "limoneno"]
+            }
         },
         "advertencias": null, 
         "posologia": {
             "Infusión": "Verter 15-20 g de frutos sobre 1 litro de agua hirviendo. Reposar 10-15 minutos antes de filtrar. Ingerir 100-200 mL al día repartidos en 2 dosis"
-        }
+        },
+        "enfermedades": ["digestivas", "respiratorias", "nerviosas"]
     },
 
     "Escoba Amarga" : {
@@ -528,9 +695,16 @@
         "propiedades" : {
             "Hojas": ["antiamebiana", "febrífuga", "corroborante", "vermífuga", "hipostenizante gástrico", "tónica", "estimulante", "estomáquica", "hipoglicemiante", "antineurálgica", "antiartrítica", "hipotensora", "antiemética", "antiespasmódica", "antiulcerosa"]
         },
-        "componentes": null,
+        "componentes": {
+            "Toda la planta": {
+                "sesquiterpenos": ["partenina", "ambrosina"],
+                "flavonoides": ["luteolina", "apigenina"],
+                "ácidos fenólicos": ["ácido cafeico", "ácido ferúlico"]
+            }
+        },
         "advertencias": "Algunas personas refieren que la decocción de la planta es abortiva. Se ha demostrado que el polen puede provocar alergias y ocasionar la llamada fiebre de Santa María y rinitis. También puede producir dermatitis por contacto. Algunos autores plantean que presenta marcada toxicidad in vitro", 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["alergias", "asma", "dermatitis"]
     },
 
     "Eucalipto" : {
@@ -538,15 +712,20 @@
         "familia" : "Myrtaceae", 
         "descripcion": "Árboles de gran altura, algunas especies en su habitat natural, sobrepasan los 100 m. Tronco recto y poco ramificado, usualmente dejando desprender finas capas de la corteza. Hojas aromáticas, simples, alternas, enteras. Flores y frutos relativamente pequeños y poco notables",
         "propiedades" : {
-            "Hojas": ["antiséptica", "antiinflamatoria", "antitusígena", "antibacteriana", "Para el tratamiento de cefalea y disfonía", "febrífuga", "hipoglicemiante"]
+            "Hojas": ["antiséptica", "antiinflamatoria", "antitusígena", "antibacteriana", "analgésica", "febrífuga", "hipoglicemiante"]
         },
         "componentes": {
-            "Hojas": "Contienen un aceite de composición variable pero que generalmente contienen cineol (eucaliptol) como componente mayoritario. Presentan además taninos, ácidos gálico y elágico, un principio amargo, resina, cera y una sustancia de actividad bacteriostática"
+            "Hojas": {
+                "aceites esenciales": ["eucaliptol", "alfa-pineno", "beta-pineno"],
+                "taninos": ["ácido tánico", "ácido gálico"],
+                "flavonoides": ["quercetina", "kaempferol"]
+            }
         },
         "advertencias": "Preparados a base de hojas o aceite esencial de Eucaliptos, no deben administrarse por vía oral, ya que pueden provocar dificultades respiratorias y hematuria. El aceite puro irrita las mucosas gástricas y causa cianosis y convulsiones", 
         "posologia": {
             "Infusión": "Verter de 10-20 g de hojas desmenuzadas sobre 1 litro de agua. Las inhalaciones deben repetirse 2-3 veces al día. Para uso tópico la infusión se aplica localmente en la zona afectada 2-3 veces al día"
-        }
+        },
+        "enfermedades": ["respiratorias", "cutáneas", "dolorosas"]
     },
 
     "Eucalipto de Limón" : {
@@ -554,15 +733,19 @@
         "familia" : "Myrtaceae", 
         "descripcion": "Árbol de hasta 50 m de altura, con el tronco recto y poco ramificado, su corteza blanquecina o gris-rojiza, se separa en forma de láminas. Hojas lanceoladas con fuerte olor a limón. Flores provistas de gruesos pedicelos, se agrupan de 3 en 3, formando una panícula multiflora. Fruto en forma de urna, globular, de algo más de 1 cm de diámetro",
         "propiedades" : {
-            "Hojas": ["antiséptica", "antiinflamatoria", "antitusígena", "antibacteriana", "Para el tratamiento de las cefaleas y disfonías", "hipoglicemiante"]
+            "Hojas": ["antiséptica", "antiinflamatoria", "antitusígena", "antibacteriana", "analgésica", "hipoglicemiante"]
         },
         "componentes": {
-            "Hojas": "Se caracterizan porque contienen un aceite esencial rico en citral, citronelal y acetato de geranilo. Contiene además 41,9 % de agua"
-        },
+            "Hojas": {
+              "aceite_esencial": ["citronelal", "limoneno", "geraniol"],
+              "otros": ["taninos","flavonoides"]
+            }
+          },
         "advertencias": "No administrar por vía oral los preparados de hojas o aceite esencial. El aceite puro puede causar náuseas, convulsiones, cianosis e irritación de las mucosas gástricas", 
         "posologia": {
             "Infusión": "Verter sobre 1 l de agua hirviente, de 10 a 20 g de hojas desmenuzadas, 10 a 20 ml de extracto fluido o 50 ml de tintura. Repetir las inhalaciones 2 o 3 veces. Para uso tópico aplicar directamente la tintura 2 o 3 veces al día o usar en forma de baños, 20 ml del extracto fluido por cada 10 l de agua"
-        }
+        },
+        "enfermedades": ["respiratorias", "infecciones", "piel", "articulaciones", "estrés y ansiedad"]
     },
 
     "Fruta Bomba" : {
@@ -570,16 +753,30 @@
         "familia" : "Caricaceae", 
         "descripcion": "Árbol entre 3 y 5 m de altura, con el tallo simple, generalmente no ramificado y las hojas forman penacho en su extremo distal. Hojas lobuladas, pálidas en la cara inferior, cada lóbulo pinnadamente lobado; peciolos grandes y robustos. Flores mayormente unisexuales (las masculinas en panojas colgantes de varios decímetros de largo y las femeninas, solitarias o en panojas paucifloras). Fruto abayado, colgante y con muchas semillas",
         "propiedades" : {
-            "Fruto": ["antibacteriana", "favorece la absorción de hierro", "actúa sobre el sistema nervioso central y el corazón", "antihipertensiva", "antidiarreica", "antiforunculosa", "digestiva", "antiparasitaria", "vulneraria", "antitusiva", "emenagoga", "cáustica", "antiasmática", "rubefaciente"],
+            "Fruto": ["antibacteriana", "favorece la absorción de hierro", "cardio-circulatoria", "antihipertensiva", "antidiarreica", "antiforunculosa", "digestiva", "antiparasitaria", "vulneraria", "antitusiva", "emenagoga", "cáustica", "antiasmática", "rubefaciente"],
             "Flores": ["emenagoga", "antibronquítica", "antitusiva"]
         },
         "componentes": {
-            "Fruto": "Es rico en vitaminas (particularmente C y E) y sales minerales (sobre todo potasio). Contiene enzimas proteolíticas (papaina y quimopapaina)"
+            "Fruto": {
+              "vitaminas": ["vitamina A", "vitamina C", "vitamina E"],
+              "minerales": ["potasio", "magnesio", "calcio"],
+              "enzimas": ["papaína", "quimopapaína"],
+              "otros": ["licopeno", "betacaroteno"]
+            },
+            "Hojas": {
+              "vitaminas": ["vitamina A", "vitamina C"],
+              "minerales": ["calcio", "potasio"],
+              "compuestos activos": ["carpain", "isotiocianatos"]
+            },
+            "Semillas": {
+              "compuestos activos": ["bencil isotiocianato", "mirosina"]
+            }
         },
         "advertencias": "El látex es irritante y su ingestión provoca gastritis. Las enzimas aisladas del látex y del fruto causan alergias, paraplejias, cefaleas, náuseas, vómitos y retención urinaria. Las semillas contienen un elemento astringente que produce constipaciones violentas con atonía total del recto", 
         "posologia": {
             "Natural": "Aplicar localmente el fruto majado o su jugo 2 o 3 veces al día. Suspender si aparece irritación local"
-        }
+        },
+        "enfermedades": ["digestivas", "inflamatorias", "cardiovasculares"]
     },
     
     "Gavilán" : {
@@ -587,16 +784,26 @@
         "familia" : "Simarubaceae", 
         "descripcion": "Árbol de hasta 18 m de altura, de corteza pardo-rojiza y amarga. Hojas alternas, imparipinnadas de 20 a 50 cm de largo; con 9 a 16 foliolos cuneados en la base, redondeados o agudos en el ápice, elíptico-lanceolados, de 4 a 10 cm de largo y 1,5 a 5 cm de ancho, verde-brillantes en la cara superior y glaucos en la inferior. Flores en panículas, terminales o axilares, de 10 a 40 cm de largo. Fruto drupáceo, aovado, de 1,5 a 2 cm de largo y escarlata al madurar",
         "propiedades" : {
-            "Hojas": ["insecticida", "antimalárica", "astringente","digestiva", "antihelmíntica", "antidiarreica", "Se utiliza en los casos de colitis nerviosas y afecciones cutáneas"]
+            "Hojas": ["insecticida", "antimalárica", "astringente","digestiva", "antihelmíntica", "antidiarreica", "dermatológica"]
         },
         "componentes": {
-            "Semillas": "Contienen lípidos, alcoholes triperpénicos, glaucarubol éster, glaucarubina y otros derivados triterpénicos, glaucarubonona y glaucorubolona",
-            "Hojas": "Se encuentran alcaloides y cuasinoides"
-        },
+            "Corteza": {
+              "compuestos activos": ["glaucarubina", "simaroubidina", "canferol"]
+            },
+            "Hojas": {
+              "compuestos activos": ["limonoides", "flavonoides", "triterpenos"],
+              "otros": ["alcaloides", "cuasinoides"]
+            },
+            "Semillas": {
+              "compuestos activos": ["aceite esencial", "ácidos grasos"],
+              "otros": ["lípidos", "alcoholes triperpénicos", "glaucarubol éster", "glaucarubina", "triterpénicos", "glaucarubonona", "glaucorubolona"]
+            }
+          },
         "advertencias": "Se reporta broncoconstricción cuando se administran los extractos de la hoja por vía oral en conejos", 
         "posologia": {
             "Infusión": "De un manojo de hojas en una botella de agua hirviente. Aplicar localmente en las partes afectadas 2 o 3 veces al día"
-        }
+        },
+        "enfermedades": ["malaria", "cáncer", "infecciones virales"]
     },
 
     "Geranio de Olor" : {
@@ -604,13 +811,17 @@
         "familia" : "Geraniaceae", 
         "descripcion": "Hierba perenne, leñosa en la base y pelosa. Hojas alternas, pinnado-lobuladas, estipuladas y pelosas. Flores relativamente pequeñas en comparación con otras especies del género; corola ligeramente irregular y rosada; ovario con 5 lóculos y 5 estigmas",
         "propiedades" : {
-            "Hojas": ["tónica", "antidiabética", "astringente", "Se utiliza en el tratamiento de afecciones del corazón, astenia, gastroenteritis, hemorragias y anginas"]
+            "Hojas": ["tónica", "antidiabética", "astringente", "cardio-circulatoria"]
         },
         "componentes": {
-            "Hojas": "Es rica en un aceite esencial cuyos componentes mayoritarios son el geraniol y el citronelal (ambos en un 70 %), además de linalol, terpineol, alcoholes feniletílico e isoamílico, citral, borneol, metilheptona, mentol y mentona"
+            "Hojas": {
+                "aceites esenciales": ["citronelol", "geraniol", "inalol", "terpineol", "alcoholes feniletílico", "alcoholes isoamílico", "citral", "borneol", "metilheptona", "mento", "mentona"],
+                "taninos": ["ácido gálico", "ácido elágico"]
+            }
         },
         "advertencias": null, 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["estrés", "ansiedad", "problemas de la piel"]
     },
 
     "Granada" : {
@@ -618,15 +829,24 @@
         "familia" : "Punicaceae", 
         "descripcion": "Arbolito de hasta 5 metros de altura. Hojas opuestas de forma variable, mayormente elípticas, estrechas y de 1-8 cm de longitud. Flores vistosas, solitarias, rojo-anaranjadas, con 5-7 pétalos. Fruto carnoso, globoso, de entre 6 y 14 cm de diámetro, con la cubierta coriácea; semillas incluidas en la pulpa",
         "propiedades" : {
-            "Corteza": ["antihelmíntica", "antiparasitaria", "Tratar diarreas, fiebres intermitentes y anginas", "Tratar úlceras y heridas"]
+            "Corteza": ["antihelmíntica", "antiparasitaria", "digestiva", "antiulcerosa"]
         },
         "componentes": {
-            "Corteza": "Posee alrededor de un 22 % de ácido tánico, y alcaloides, entre los que se citan como principios antihelmínticos, la pelletierina e isopelletierina"
+            "Frutos": {
+                "vitaminas": ["vitamina C", "vitamina K"],
+                "minerales": ["potasio", "fósforo"],
+                "antioxidantes": ["punicalaginas", "antocianinas"]
+            },
+            "Corteza": {
+                "alcaloides": ["pelletierina", "isomepelletierina"],
+                "otros": ["taninos"]
+            }
         },
         "advertencias": "No usar en niños ni en mujeres embarazadas o lactantes. Los alcaloides de la planta pueden causar cefalea, vértigo, náusea, vómito, diarrea y convulsiones, ceguera y muerte si sobredosis", 
         "posologia": {
             "Decocción": "Hacer hervir una taza de corteza desmenuzada en 5 tazas de agua. Para adultos 4 cucharadas cada 2 horas (no más de 4 veces al día). El tratamiento debe ser precedido y seguido por la administración de purgante"
-        }
+        },
+        "enfermedades": ["anemia", "problemas digestivos", "enfermedades del corazón"]
     },
 
     "Guásima" : {
@@ -634,14 +854,21 @@
         "familia" : "Sterculiaceae", 
         "descripcion": "Árbol de hasta 20 m de altura, corteza gris, tronco de 30 a 60 cm de diámetro. Hojas alternas, con peciolos cortos, aovadas u oblongas, aserradas, de 6 a 12 cm de largo y con el ápice agudo. Flores pequeñas agrupadas en inflorescencias axilares y cortamente estipitadas; 5 pétalos, blanco-amarillentos. Fruto capsular, subgloboso o elipsoideo, negro-purpúreo al madurar y con la superficie muricada",
         "propiedades" : {
-            "Hojas": ["emoliente", "astringente", "Se utiliza para tratar contusiones y golpes", "diurética", "antigripal"],
-            "Mucílago": ["Se emplea para tratar las quemaduras provocadas por el guao"]
+            "Hojas": ["emoliente", "astringente", "diurética", "antigripal"],
+            "Mucílago": ["antiinflamatoria"]
         },
         "componentes": {
-            "Hojas": "Se ha detectado cafeína"
+            "Hojas": {
+                "mucílagos": ["guazumina"],
+                "flavonoides": ["quercetina", "kaempferol"]
+            },
+            "Corteza": {
+                "taninos": ["ácido tánico", "pirocatequina"]
+            }
         },
         "advertencias": "La ingestión de grandes cantidades de diferentes partes de la planta pueden provocar náuseas, vómitos y diarreas", 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["resfriados", "gripe", "problemas digestivos", "quemaduras por el guao"]
     },
 
     "Guatamala" : {
@@ -652,13 +879,17 @@
             "Resina del tronco" : ["expectorante", "antipruriginosa", "antiséptica", "antiviral"]
         },
         "componentes": {
-            "Resina del tronco": "Contiene de un 35-50 % de ácidos balsámicos (ácido cinnámico)"
+            "Resina": {
+                "compuestos volátiles": ["cinamato de bencilo", "ácido benzoico"],
+                "ácidos balsámicos": ["ácido cinnámico"]
+            }
         },
         "advertencias": "El abuso en la utilización de la resina o preparados que la contengan puede causar dermatitis", 
         "posologia": {
             "Tintura": "Mezclar 30 gotas en 45 ml de miel o almíbar. Ingerir en el transcurso del día repartidos en 3 dosis",
             "Jarabe": "Tomar 30 ml al día repartidos en 2 dosis"
-        }
+        },
+        "enfermedades": ["heridas", "quemaduras", "infecciones de la piel"]
     },
 
     "Guayaba" : {
@@ -669,12 +900,23 @@
             "Hojas": ["antidiarreica", "antibiótica"]
         },
         "componentes": {
-            "Hojas": "Se caracterizan por la presencia de un aceite esencial rico en cariofileno, nerolidiol, beta bisaboleno, aromandreno, p-selineno. Contienen además beta sitosterol, titerpenoides, leucocianidinas y alrededor de un 10 % de taninos"
+            "Frutos": {
+                "vitaminas": ["vitamina C", "vitamina A"],
+                "minerales": ["potasio", "fósforo"],
+                "fibra": ["pectina"]
+            },
+            "Hojas": {
+                "aceite esencial": ["cariofileno", "nerolidiol", "beta bisaboleno", "aromandreno", "p-selineno"],
+                "vitaminas": ["vitamina C"],
+                "minerales": ["potasio", "calcio"],
+                "otros": ["beta sitosterol", "titerpenoides", "leucocianidinas", "taninos"]
+            }
         },
         "advertencias": null, 
         "posologia": {
             "Decocción": "Hervir por 3 minutos 10-20 g de hojas frescas en un litro de agua. Ingerir 120 ml, 6 veces al día. La preparación de la decocción debe ser diaria"
-        }
+        },
+        "enfermedades": ["diarrea", "disentería", "resfriados"]
     },
 
     "Hierba Buena" : {
@@ -682,29 +924,45 @@
         "familia" : "Lamiaceae", 
         "descripcion": "Hierba perenne, rastrera, con las ramas angulosas, lampiñas o ligeramente pubescentes. Hojas opuestas, oblongas, de superficie rugosa y margen aserrado, cortamente pecioladas. Aunque en nuestro país solo en pocas ocasiones florece, y cuando esto sucede las pequeñas flores blanco-violáceas se disponen en espigas terminales",
         "propiedades" : {
-            "Hojas": ["antiespasmódica", "carminativa", "antiséptica", "Tratamiento de todo tipo de afecciones digestivas, catarros y constipados", "estimulante"]
+            "Hojas": ["antiespasmódica", "carminativa", "antiséptica", "expectorante", "digestiva", "estimulante"]
         },
         "componentes": {
-            "Hojas": "Aceite esencial que contiene: mentol (50-86 %), mentona, felandreno y limoneno"
+            "Hojas": {
+                "aceites esenciales": ["mentol", "mentona", "felandreno", "limoneno"],
+                "vitaminas": ["vitamina A", "vitamina C"],
+                "minerales": ["potasio", "calcio"]
+            }
         },
         "advertencias": "Las establecidas para los aceites esenciales: por vía oral, irritación gastrointestinal y del tracto urinario si hay sobredosis. Tópicamente puede provocar daños en pieles sensibles", 
         "posologia": {
             "Infusión": "Verter 20-30 g de hojas frescas en 1 litro de agua hirviendo. Ingerir 500-700 ml diarios repartidos en 2-3 dosis. Esta misma infusión puede utilizarse para inhalaciones y para aplicar localmente, en este último caso, utilizar 2-3 veces al día directamente sobre la zona afectada"
-        }
+        },
+        "enfermedades": ["problemas digestivos", "náuseas", "resfriados"]
     },
 
     "Hierba Mora" : {
-        "nombre_cientifico" : "Solanum nigrescens Mart & Gal",
+        "nombre_cientifico" : "Solanum nigrescens",
         "familia" : "Solanaceae", 
         "descripcion": "Hierba morfológicamente muy variable. Tallos cortamente pubescentes o glabros. Peciolos de 12 a 50 mm de largo. Hojas a menudo en pares, en su mayoría aovadas, enteras o sinuado-dentadas, de 5 a 10 cm de largo y 1 a 5 cm de ancho. Inflorescencias laterales, paucifloras y con los pedúnculos ascendentes o extendidos; cáliz corto, con 5 dientes; corola blanca, 5 lóbulos agudos. Fruto carnoso, globoso y negro al madurar",
         "propiedades" : {
-            "Fruto": ["cicatrizante", "calmante", "narcótica", "pediculicida", "antiherpética", "antihemorroidal", "analgésica", "antipirética", "antiséptica", "Se utiliza para lavados vaginales", "Tratamiento de las afecciones de la piel y los ojos"]
+            "Fruto": ["cicatrizante", "calmante", "narcótica", "pediculicida", "antiherpética", "antihemorroidal", "analgésica", "antipirética", "antiséptica", "dermatológica"]
         },
         "componentes": {
-            "Fruto": "Se cita la presencia de glucoalcaloides, flavonoides. esteroides y taninos"
+            "Frutos": {
+                "alcaloides": ["solanina", "solasonina"],
+                "vitaminas": ["vitamina C"],
+                "minerales": ["potasio"],
+                "otros": ["glucoalcaloides", "flavonoides", "esteroides", "taninos"]
+            },
+            "Hojas": {
+                "alcaloides": ["solanina", "solasonina"],
+                "vitaminas": ["vitamina A", "vitamina C"],
+                "minerales": ["calcio", "fósforo"]
+            }
         },
         "advertencias": "Según la dosis, se considera tóxica para el ganado y el hombre. Citada como planta acumuladora de nitritos y nitratos", 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["intoxicaciones", "problemas digestivos", "alergias"]
     },
 
     "Higuereta" : {
@@ -717,12 +975,22 @@
             "Raíz": ["diurética"]
         },
         "componentes": {
-            "Semillas": "Aceite, del 49 a 85% de glicéridos del ácido ricinoleico; proteínas, 20% de ricina-toxoalbúmina; alcaloides (ricinina, ricidina); enzimas; fosfatidiletanalamina"
+            "Semillas": {
+                "aceites": ["aceite de ricino"],
+                "proteínas": ["ricina"],
+                "otros": ["lectinas"]
+            },
+            "Hojas": {
+                "vitaminas": ["vitamina C", "vitamina E"],
+                "minerales": ["potasio", "magnesio"],
+                "otros": ["taninos", "alcaloides"]
+            }
         },
         "advertencias": "Las lectinas extraídas de las semillas son citotóxicas. Se han reportado casos de envenenamiento en el ganado producidas por la planta y las semillas. El bagazo de las semillas contiene un alérgeno que provoca reacciones alérgicas en individuos hipersensibles. Una de las lectinas de la semilla (ricinus communis aglutinina) mostró acción neurotóxica, al producir degeneración neuronal de la médula en ratas. Se reportó un caso de posible acción teratogénica producida por el aceite de ricino", 
         "posologia": {
             "Natural": "El aceite de ricino se emplea como catártico en dosis usual de 15 ml para adultos"
-        }
+        },
+        "enfermedades": ["estreñimiento", "enfermedades de la piel", "cáncer"]
     },
 
     "Hinojo" : {
@@ -733,13 +1001,21 @@
             "Fruto": ["antiespasmódica", "carminativa", "emenagoga", "expectorante", "aperitiva"]
         },
         "componentes": {
-            "Fruto" : "Contienen un aceite esencial (2,5-6 %), cuyos componentes principales son: anetol, fenchona, safrol, delta-pineno, canfeno y felandreno. Presentan además un aceite graso, albúmina, proteínas, azúcares y ácidos orgánicos"
+            "Frutos": {
+                "compuestos activos": ["anetol", "fenchona", "safrol", "delta-pineno", "canfeno", "felandreno"],
+                "otros": ["aceites esenciales", "flavonoides", "aceite graso", "albúmina", "proteínas", "azúcares", "ácidos orgánicos"]
+            },
+            "Hojas": {
+                "compuestos activos": ["anetol", "fenchona"],
+                "otros": ["aceites esenciales", "flavonoides"]
+            }
         },
         "advertencias": "Preparados que contienen aceite esencial pueden provocar reacciones adversas en pieles sensibles. El uso prolongado por vía oral, causa efectos indeseables (convulsiones) por lo que se recomienda no consumir por más de 3 días. El aceite esencial contiene safrol, sustancia reportada como cancerígena", 
         "posologia": {
             "Infusión": "Agregar 3 g de frutos maduros a 1 litro de agua hirviendo. Reposar por 10-15 minutos antes de filtrar. Ingerir hasta 1 litro al día repartido en 3-4 dosis",
             "Tintura": "Mezclar 15 ml en 1 litro de agua tibia. Beber en el transcurso del día repartido en 3-4 dosis"
-        }
+        },
+        "enfermedades": ["problemas digestivos", "cólicos infantiles", "náuseas", "vómitos"]
     },
 
     "Incienso" : {
@@ -747,15 +1023,19 @@
         "familia" : "Asteraceae", 
         "descripcion": "Subarbusto de hasta 1 m de altura, muy ramificado. Hojas alternas, bi o tripinnado-partidas, las superiores solo pinnado-partidas, con los segmentos lineales y grisáceo por el abundante vello que las cubre por ambas caras",
         "propiedades" : {
-            "Hojas" : ["antiparasitaria", "aperitiva", "tónica", "vermífuga", "estomáquica", "abortiva", "febrífuga", "tenuífuga", "sudorífica", "emenagoga", "analgésica", "antidiarreica", "tratamiento de afecciones articulares e intestinales"]
+            "Hojas" : ["antiparasitaria", "aperitiva", "tónica", "vermífuga", "estomáquica", "abortiva", "febrífuga", "tenuífuga", "sudorífica", "emenagoga", "analgésica", "antidiarreica", "antirreumática"]
         },
         "componentes": {
-            "Hojas": "El follaje contiene un aceite esencial (aproximadamente 0,7 %) con tuyona, tuyol, proazuleno, felandreno, cadideno y otros componentes. Contiene además lactonas sesquiterpénicas, flavonas y ácidos orgánicos"
+            "Hojas": {
+                "aceite esencial": ["tuyon", "tuyona", "absintina", "proazuleno", "felandreno", "cadideno"],
+                "otros": ["aceites esenciales", "lactonas sesquiterpénicas", "flavonas", "ácidos orgánicos"]
+            }
         },
         "advertencias": "El aceite esencial presente en el follaje, tiene sustancias muy tóxicas y algunas de ellas, genotóxicas. Su uso no controlado puede provocar vómitos, vértigo, convulsiones, alucinaciones, desórdenes de la sensibilidad y otras afecciones severas del sistema nervioso central, incluso puede ocasionar la muerte en dosis mayores de 2g/l en niños y 10 g/l en adultos. Evitar que sea prolongado, si es imprescindible su uso", 
         "posologia": {
             "Infusión": "Niños, 2 g/l y adultos, 10 g/l. Reposar de 10 a 15 minutos antes de filtrar. En todos los casos tomar de 300 a 400 ml al día, en 3 dosis cada 8 horas"
-        }
+        },
+        "enfermedades": ["problemas digestivos", "parásitos intestinales", "anemia", "fatiga"]
     },
 
     "Ipecacuana" : {
@@ -763,15 +1043,23 @@
         "familia" : "Rubiaceae", 
         "descripcion": "Arbusto de raíces cilíndricas, pardo-rojizas a oscuras, con superficie lisa o anillada, a veces con fisuras transversales, de hasta 5 mm de diámetro. Hojas opuestas y pecioladas. Flores muy pequeñas, blancas y en racimos. Fruto abayado de color púrpura al madurar con 2 semillas",
         "propiedades" : {
-            "Raíz": ["expectorante", "emética", "diaforética", "antidisentérica", "colagoga", "antiasmática", "anticatarral", "hemostática", "hipotensora", "antiamebiana", "tratamiento de los accesos hepático", "para disminuir los movimientos cardíacos", "tratar la piorrea alveolar"]
+            "Raíz": ["expectorante", "emética", "diaforética", "antidisentérica", "colagoga", "antiasmática", "anticatarral", "hemostática", "hipotensora", "antiamebiana", "hepatoprotectora"]
         },
         "componentes": {
-            "Raíz" :"Se reportan 5 alcaloides, principalmente emetina, cefaelina y psicotrina, el total de estos es superior al 2 %, siendo aproximadamente 1/3 de cefaelina y 2/3 de emetina. Contiene además almidón, azúcares, glucósidos, oxalato de calcio y 2 saponinas acídicas de índice hemolítico"
+            "Raíz": {
+                "compuestos activos": ["emetina", "cefalina", "psicotrina"],
+                "otros": ["alcaloides", "taninos", "almidón", "azúcares", "glucósidos", "oxalato de calcio", "saponinas"]
+            },
+            "Hojas": {
+                "compuestos activos": ["emetina"],
+                "otros": ["alcaloides", "taninos"]
+            }
         },
         "advertencias": "Localmente puede irritar la piel y mucosas. El polvo de la raíz puede provocar fuerte inflamación en los ojos, hasta perforación de la córnea. Su inhalación produce estornudos, tos e irritación. Puede provocar albuminuria", 
         "posologia": {
             "Jarabe" : "70 g de raíz en polvo, 100 ml de glicerina y jarabe csp 1 000 ml. El extracto fluido se prepara con una concentración de 1:1 de la droga en relación con el disolvente hidroalcohólico (80%), por percolación. Como expectorante: 1 o 2 gotas en una cucharada de agua. Como emético: 20 gotas (adultos), 15 gotas (niños) y 5 gotas (menores de 5 años) en 1/2 vaso de agua. El jarabe, como emético: 15 ml (adultos), 10 ml (niños) y 5 ml (menores de 5 años)"
-        }
+        },
+        "enfermedades": ["náuseas", "vómitos", "disentería", "amebiasis"]
     },
 
     "Jengibre" : {
@@ -782,13 +1070,24 @@
             "Rizomas": ["antiespasmódica", "carminativa", "antitusígena", "antiemética", "tónica", "antirreumática", "afrodisíaca"]
         },
         "componentes": {
-            "Rizomas" : "Contienen un aceite esencial (0,25-3,0 %) con varias decenas de componentes (limoneno, felandreno, zingibereno, cineol y borneol, entre otros) y una resina (5-8 %) responsable del sabor picante, una enzima (zingibaina), almidón, aminoácidos y ácidos grasos"
+            "Rizoma": {
+                "compuestos activos": ["gingeroles", "shogaoles", "zingibereno", "limoneno", "felandreno", "cineol", "borneol"],
+                "vitaminas": ["vitamina C", "vitamina B6"],
+                "minerales": ["potasio", "magnesio"],
+                "otros": ["aceites esenciales", "almidón", "aminoácidos", "ácidos grasos"]
+            },
+            "Hojas": {
+                "vitaminas": ["vitamina A", "vitamina C"],
+                "minerales": ["calcio", "potasio"],
+                "otros": ["aceites esenciales"]
+            }
         },
         "advertencias": "Dosis excesivas pueden provocar reacciones adversas por la presencia del aceite esencial: irritación de los tractos gastrointestinal y urinario", 
         "posologia": {
             "Decocción": "Hervir por 5 minutos 0,25-1 g de rizomas secos en un litro de agua. Ingerir 500 ml al día repartidos en 2-3 dosis",
             "Tintura": "Mezclar 0,5-1 ml en medio litro de agua tibia. Ingerir durante el día repartido en 2-3 dosis"
-        }
+        },
+        "enfermedades": ["náuseas", "vómitos", "mareos por movimiento", "artritis", "dolor muscular"]
     },
 
     "Limón" : {
@@ -796,15 +1095,25 @@
         "familia" : "Rutaceae", 
         "descripcion": "Arbolito con espinas cortas y agudas en las ramas. Hojas alternas, relativamente pequeñas en comparación con otros cítricos (5-7 cm de longitud) y con peciolos estrechamente alados, aromáticas. Flores en grupos de 2-7 en la axila de las hojas, muy aromáticas, blancas. Frutos pequeños ocasionalmente con una papila apical, corteza fina y lisa; jugo del endocarpio ácido",
         "propiedades" : {
-            "Fruto": ["Protector de los pequeños vasos", "antiespasmódica", "diurética", "antifúngica", "antibacteriana", "Para curar heridas, herpes y otras afecciones de la piel", "para catarros y constipados"]
+            "Fruto": ["vasoconstrictora", "antiespasmódica", "diurética", "antifúngica", "antibacteriana", "antiherpética", "anticatarral"]
         },
         "componentes": {
-            "Fruto" : "Cáscara del fruto: Aceite esencial con d-limoneno, felandreno, citronelal y otras sustancias en menores proporciones. Jugo: Ácido cítrico, málico, acético y fórmico, el glucósido hesperidina, pectina y varias vitaminas, fundamentalmente C"
+            "Fruto": {
+                "vitaminas": ["vitamina C"],
+                "minerales": ["potasio"],
+                "otros": ["limoneno", "ácido cítrico"]
+            },
+            "Hojas": {
+                "vitaminas": ["vitamina C"],
+                "minerales": ["calcio", "potasio"],
+                "otros": ["limoneno", "taninos"]
+            }
         },
         "advertencias": "El aceite esencial, o partes de la planta que lo contengan, puede causar dermatitis. No exponer al sol las partes tratadas con productos de esta planta. Tópicamente no utilizar por más de 3 semanas", 
         "posologia": {
             "Decocción": "Hervir por 5 minutos 5-12 g de hojas frescas o corteza de frutos. Ingerir 300-500 ml al día repartidos en 2-3 dosis. La misma decocción se aplica localmente a las partes afectadas 2-3 veces al día"
-        }
+        },
+        "enfermedades": ["escorbuto", "resfriado común", "problemas digestivos"]
     },
 
     "LLantén Mayor" : {
@@ -812,16 +1121,22 @@
         "familia" : "Plantaginaceae", 
         "descripcion": "Hierba acaule (sin tallo), con las hojas dispuestas en una roseta basal, largamente pecioladas; lámina aovada en la que resulta fácil distinguir de 3-11 nervios paralelos. Flores pequeñas en espigas densas, sobre escapos que sobrepasan las hojas. Fruto capsular, dehiscente, que contiene varias semillas muy pequeñas",
         "propiedades" : {
-            "Hojas": ["antiinflamatoria", "antiséptica", "astringente","diurética"],
+            "Hojas": ["antiinflamatoria", "antiséptica", "astringente", "diurética"],
             "Semillas": ["laxante"]
         },
         "componentes": {
-            "Hojas": "Contienen agua (81,4 %), grasas (0,3 %), proteínas (2,5 %), carbohidratos (14,6 %), Ca, P, Fe, K, Na carotenos, riboflavina, niacina y ac. ascórbico. Sorbitol, manitol, catalpol, aucubina, goma, resina, tanino, mucílago, emulsina, invertina y ácidos cítrico y málico"
-        },
+            "Hojas": {
+              "carbohidratos": ["fibra"],
+              "vitaminas": ["vitamina C", "vitamina K"],
+              "minerales": ["calcio", "potasio", "magnesio"],
+              "otros": ["sorbitol", "manitol", "catalpol", "aucubina", "goma", "resina", "taninos", "mucílago", "emulsina", "invertina", "ácidos cítrico", "ácido málico", "taninos", "mucílagos", "carotenos", "riboflavina", "niacina"]
+            }
+          },
         "advertencias": "Se reportan casos de obstrucción intestinal por el uso de las semillas de esta planta como laxante. Por esta causa no es recomendable su uso con este fin", 
         "posologia": {
             "Decocción": "Hervir por 5 minutos 50 g de hojas frescas en 1 litro de agua. Tópicamente aplicar sobre la zona afectada 2-3 veces al dia. Para afecciones oculares utilizar a modo de compresas"
-        }
+        },
+        "enfermedades": ["digestivas", "respiratorias", "dermatológicas", "urinarias", "heridas"]
     },
 
     "Maíz" : {
@@ -832,12 +1147,40 @@
             "Estilos" : ["diurética", "cardiotónica", "hipotensora"]
         },
         "componentes": {
-            "Estilos" : "Se ha determinado la presencia en los estilos de un aceite volátil, taninos, azúcares, trazas de alcaloides, una sustancia lipídica, sales minerales y ácido salicílico"
+            "Estilos": {
+                "otros":["aceite volátil", "taninos", "azúcares", "alcaloides", "sustancia lipídica", "sales minerales", "ácido salicílico"]
+            },
+            "Grano": {
+                "carbohidratos": ["almidón", "fibra"],
+                "proteínas": ["zeína"],
+                "vitaminas": ["vitamina A", "vitamina B1", "vitamina B3", "vitamina B5"],
+                "minerales": ["potasio", "magnesio", "fósforo"],
+                "otros": ["fitatos"]
+            },
+            "Tallo": {
+                "carbohidratos": ["celulosa", "hemicelulosa"],
+                "vitaminas": ["vitamina C"],
+                "minerales": ["sílice"]
+            },
+            "Hojas": {
+                "vitaminas": ["vitamina A", "vitamina C"],
+                "minerales": ["potasio", "calcio"],
+                "otros": ["antocianinas"]
+            },
+            "Sémola": {
+                "carbohidratos": ["almidón"],
+                "proteínas": ["zeína"],
+                "otros": ["xantofilas"]
+            },
+            "Aceite": {
+                "ácidos grasos": ["ácido linoleico", "ácido oleico"]
+            }
         },
         "advertencias": "No abusar del consumo de los estilos frescos, ya que contienen elevada concentración de ácido salicílico", 
         "posologia": {
             "Decocción": "Hervir durante 3 minutos 15-20 g de estilos frescos en 1 litro de agua. Ingerir 500-700 ml al día repartidos en 3 dosis"
-        }
+        },
+        "enfermedades": ["pelagra", "ceguera nocturna", "estreñimiento"]
     },
 
     "Majagua" : {
@@ -845,17 +1188,27 @@
         "familia" : "Malvaceae", 
         "descripcion": "Árbol de hasta 15 m de altura con el follaje tomentoso-aterciopelado. Hojas pecioladas, suborbiculares, acorazonadas en la base y con el ápice abruptamente acuminado. Flores vistosas, terminales, solitarias; corola de 5 pétalos cuya colora-ción varía desde rosado-amarillo-rojo. Fruto capsular, globoso, hirsuto, de 3 cm de largo y dehiscente. Semillas poco tomentosas",
         "propiedades" : {
-            "Hojas": ["broncodilatadora", "tratamiento de las hemorroides y como vulneraria y desinfectante"],
+            "Hojas": ["broncodilatadora", "antihemorroidal"],
             "Raíz": ["laxante"],
             "Flores": ["antitumorales"]
         },
         "componentes": {
-            "Hojas": "Fenoles y taninos, aminoácidos, triterpenos y esteroides, saponinas, mucílagos, carbohidratos y flavonoides; en particular posee abundante cantidad de rutina y quercitina"
+            "Flores": {
+                "antocianinas": ["delfinidina", "cianidina"],
+                "flavonoides": ["quercetina", "kaempferol"],
+                "otros": ["mucílagos"]
+            },
+            "Hojas": {
+                "flavonoides": ["rutina", "quercitina"],
+                "mucílagos": ["polisacáridos"],
+                "otros": ["fenoles", "taninos", "aminoácidos", "triterpenos", "esteroides", "saponinas", "mucílagos", "carbohidratos"]
+            }
         },
         "advertencias": null, 
         "posologia": {
             "Jarabe": "Según las dosis establecidas"
-        }
+        },
+        "enfermedades": ["respiratorias", "digestivas", "inflamación", "fiebre", "hemorroides"]
     },
 
     "Mango" : {
@@ -863,15 +1216,23 @@
         "familia" : "Anacardíaceae", 
         "descripcion": "Árbol de hasta 20 m de altura, con el tronco de 2,5 m de diámetro. Hojas alternas, pecioladas, enteras, subcoriáceas, de 15 a 25 cm de longitud, generalmente lanceoladas. Flores pequeñas agrupadas en grandes panículas terminales; con 4 o 5 pétalos imbricados. Fruto drupáceo, monospermo, de forma, tamaño y coloración variable según el cultivo; pulpa suave y jugosa. Semilla aplanada",
         "propiedades" : {
-            "Hojas": ["antidiarreica", "diurética", "tratar neumopatías, tos, asma, bronquitis, diabetes, hipertensión, paludismo, escorbuto, afecciones hepáticas, piorrea y otras enfermedades bucales"],
+            "Hojas": ["antidiarreica", "diurética"],
             "Fruto": ["laxante", "astringente"]
         },
         "componentes": {
-            "Hojas": "Contienen polifenoles y flavonoides",
-            "Fruto": "Tiene 81,2 % de agua, 0,4 % de proteínas, 0,32 % de grasas, 13,54 % de azúcares (mayormente sacarosa), 1,48 % de carbohidratos, 2,52 % de fibras y 0,54% de cenizas"
+            "Fruta": {
+                "vitaminas": ["vitamina C", "vitamina A", "vitamina K"],
+                "minerales": ["potasio", "magnesio", "cobre"],
+                "otros": ["carotenoides", "fibra", "proteínas", "grasas", "azúcares", "carbohidratos", "ceniza"]
+            },
+            "Hojas": {
+                "taninos": ["ácido gálico", "ácido elágico"],
+                "otros": ["mangiferina", "polifenoles", "flavonoides"]
+            }
         },
         "advertencias": null, 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["digestivas", "cáncer", "enfermedades cardiovasculares", "inflamación", "tos", "asma", "bronquitis", "diabetes", "hipertensión", "paludismo", "escorbuto", "afecciones hepáticas", "piorrea", "enfermedades bucales"]
     },
 
     "Manzanilla" : {
@@ -882,13 +1243,18 @@
             "Flores": ["antidiarreica","antiespasmódica", "carminativa", "antiinflamatoria", "antifúngica", "antiviral", "antibacteriana", "sedante"]
         },
         "componentes": {
-            "Flores": "Contienen hasta 1 % de un aceite esencial rico en camazuleno y bisabolol; contienen además flavona, glucósidos cumarínicosy otras sustancias biológicamente activas"
+            "Flores": {
+                "aceites esenciales": ["camazuleno", "alfa-bisabolol"],
+                "flavonoides": ["apigenina", "luteolina"],
+                "otros": ["cumarinas", "flavona", "glucósidos cumarínicos"]
+            }
         },
         "advertencias": "Preparados que contengan aceite esencial de manzanilla pueden causar reacciones alérgicas en piel y/o rinitis. No administrar por vía oral en los 4 primeros meses del embarazo", 
         "posologia": {
             "Infusión": "Verter 5-12 g de flores frescas en 1 litro de agua hirviendo. Reposar 10-15 minutos antes de filtrar. Ingerir 500-700 ml al día repartidos en 3-4 dosis",
             "Extracto fluido": "Mezclar 20 gotas en medio vaso de agua tibia. Ingerir 3 veces al día. Para uso tópico utilizar la infusión descrita, la tintura o el extracto fluido, aplicados localmente sobre la zona afectada 2-3 veces al día"
-        }
+        },
+        "enfermedades": ["digestivas", "ansiedad", "insomnio", "inflamación"]
     },
 
     "Maravilla" : {
@@ -897,14 +1263,24 @@
         "descripcion": "Hierba muy ramificada, de hasta 1 m de altura con una raíz gruesa y carnosa. Hojas opuestas sostenidas por finos pecíolos. Flores en forma de embudo de coloración variable que va de blanco a púrpura, situadas en el extremo de las ramas formando pequeños grupos. Fruto ovalado de menos de 1 cm de diámetro negro al madurar",
         "propiedades" : {
             "Raíz" : ["laxante", "antihelmíntica"],
-            "Flores": ["aliviar dolores de oído", "curar herpes", "quitar pecas de la cara"]
+            "Flores": ["otálgica", "antiherpética", "cosmética"]
         },
         "componentes": {
-        },
-        "advertencias": null, 
+            "Raíz": {
+              "vitaminas": ["vitamina C", "vitamina A"],
+              "minerales": ["potasio", "calcio", "magnesio"],
+              "otros": ["saponinas", "alcaloides"]
+            },
+            "Flores": {
+              "pigmentos": ["betalaínas"],
+              "antioxidantes": ["antocianinas"]
+            }
+          },
+        "advertencias": "La maravilla contiene saponinas, que pueden ser tóxicas si se ingieren en grandes cantidades. Por lo tanto, es importante usarla solo bajo la supervisión de un profesional de la salud calificado.", 
         "posologia": {
             "Decocción": "Hervir por no más de 1 min. el equivalente a una cucharadita de la raíz desmenuzada por cada taza de agua. Dejar reposar 15 min. antes de beber. Ingerir una taza por las noches"
-        }
+        },
+        "enfermedades": ["problemas de piel", "dolor de garganta", "fiebre", "hemorroides", "diarrea", "herpes", "digestivas"]
     },
 
     "Mastuerzo" : {
@@ -915,12 +1291,24 @@
             "Hojas": ["diurética", "antirreumática", "antidiabética", "eupéptica", "vasculovenosa", "hipotensora", "hipostenizante", "vermífuga"]
         },
         "componentes": {
-            "Hojas": "Esteroles y triterpenos, flavonoides y alcaloides. Un aceite volátil"
+            "Hojas": {
+                "glucosinolatos": ["glucorafanina", "sinigrina"],
+                "vitaminas": ["vitamina C", "vitamina K"],
+                "minerales": ["calcio", "potasio"],
+                "otros": ["flavonoides", "esteroles vegetales"]
+            },
+            "Semillas": {
+                "ácidos grasos esenciales": ["ácido alfa-linolénico", "ácido linoleico"],
+                "vitaminas": ["vitamina E"],
+                "minerales": ["zinc", "selenio"],
+                "otros": ["esteroles vegetales"]
+            }
         },
         "advertencias": null, 
         "posologia": {
             "Decocción": "Hervir por 10 minutos, de 10 a 20 g de la planta por litro de agua. Tomar de 500 a 600 ml en 2 o 3 dosis"
-        }
+        },
+        "enfermedades": ["respiratorias", "digestivas", "urinarias"]
     },
 
     "Menta Americana" : {
@@ -931,12 +1319,19 @@
             "Hojas": ["antifúngica", "antibacteriana", "analgésica", "colagoga", "emenagoga", "sedante", "díaforética", "expectorante", "antiespasmódica", "carminativa"]
         },
         "componentes": {
-            "Hojas": "Aceite esencial con piperitona, lipioma, citral, cineol, alcanfor e hidrocarbona, entre otros componentes. En las hojas se detectan esteroides, taninos, flavonoides, saponinas, aminoácidos y sustancias amargas"
-        },
+            "Hojas": {
+              "aceite esencial": ["piperitona", "lipioma", "citral", "cineol", "alcanfor", "hidrocarbona"],
+              "compuestos_volatiles": ["mentol", "mentona", "limoneno"],
+              "flavonoides": ["luteolina", "apigenina"],
+              "terpenoides": ["carvacrol", "timol"],
+              "otros": ["ácidos fenólicos", "esteroides", "taninos", "flavonoides", "saponinas", "aminoácidos", "sustancias amargas"]
+            }
+          },
         "advertencias": "La DL50 es de 1 g/Kg de masa corporal (extracto hidroalcohólico por vía intraperitoneal)", 
         "posologia": {
             "Decocción": "De 30 a 50 g del follaje fresco por cada litro de agua. Aplicar en las zonas afectadas 2 o 3 veces al día"
-        }
+        },
+        "enfermedades": ["digestivas", "respiratorias", "nerviosas", "musculares"]
     },
 
     "Milendrama" : {
@@ -944,15 +1339,26 @@
         "familia" : "Asteraceae", 
         "descripcion": "Hierba estolonífera, de 30 a 90 cm de altura. Hojas sesiles pinnado-partidas en segmentos lineales dentados, las hojas basales son mayores que las caulinares. Capítulos agrupados en inflorescencias densas dispuestas en planos horizontales en el extremo de las ramas; cada capítulo compuesto por 4 o 6 flores radiales blancas, y numerosas tubulares blanco amarillentas",
         "propiedades" : {
-            "Hojas": ["hemostática", "antiespasmódica", "colagoga", "aperitiva", "carminativa", "laxante", "hipotensora", "antihemorroidal", "antiséptica", "febrífuga", "antiinflamatoria", "incontinencia de la orina", "normalizar el flujo menstrual", "contra la blenorrágia", "para aumentar la secreción de los jugos gástricos"]
+            "Hojas": ["hemostática", "antiespasmódica", "colagoga", "aperitiva", "carminativa", "laxante", "hipotensora", "antihemorroidal", "antiséptica", "febrífuga", "antiinflamatoria", "diurética", "emenagoga", "eupeptica"]
         },
         "componentes": {
-            "Hojas" : "Aceite esencial (aproximadamente 0,25 %) compuesto por: cineol, borneol, acetato de bornilo y otros esteres del ácido acético, tuyol, alcanfor y azuleno. Contiene además un alcaloide (aquileina), un principio amargo (ivaina), ácidos aquileico e isovaleriánico y otros acidos orgánicos, taninos y carótenos"
+            "Flores": {
+                "compuestos volátiles": ["azuleno", "canfeno", "borneol"],
+                "flavonoides": ["apigenina", "luteolina", "quercetina"],
+                "otros": ["ácidos grasos esenciales", "taninos"]
+            },
+            "Hojas": {
+                "aceite esencial": ["cineol", "borneol", "acetato de bornilo"],
+                "compuestos volátiles": ["azuleno", "tuyon", "borneol"],
+                "flavonoides": ["apigenina", "luteolina"],
+                "otros": ["ácidos grasos esenciales", "taninos", "ácido acético", "tuyol", "alcanfor", "azuleno", "alcaloide", "principio amargo", "ácidos orgánicos", "caroteno"]
+            }
         },
         "advertencias": "Puede causar dermatitis por contacto", 
         "posologia": {
             "Natural": "Tópicamente, aplicar fresca, la decocción de 200 g de follaje por litro de agua"
-        }
+        },
+        "enfermedades": ["digestivas", "respiratorias", "piel", "menstruales"]
     },
 
     "Moringa" : {
@@ -990,15 +1396,26 @@
         "familia" : "Brassicaceae", 
         "descripcion": "Hierba erguida, ramificada, con el follaje de color verde claro con matices azulados. Hojas basales grandes, lobuladas o partidas, las superiores sencillas y más pequeñas. Flores amarillas con 4 pétalos agrupadas en racimos terminales. Fruto en silicua (cápsula alargada) de 40-70 mm de longitud. Semillas globosas de alrededor de 1 mm de diámetro",
         "propiedades" : {
-            "Semillas" : ["antiinflamatoria", "para restaurar el flujo menstrual"]
+            "Semillas" : ["antiinflamatoria", "emenagoga"]
         },
         "componentes": {
-            "Semillas" : "Contienen alrededor de un 27 % de aceite"
+            "Semillas": {
+                "grasas": ["ácidos grasos omega-3", "ácidos grasos omega-6"],
+                "vitaminas": ["vitamina E", "vitamina K"],
+                "minerales": ["selenio", "magnesio"],
+                "otros": ["glucosinolatos", "sinigrina"]
+            },
+            "Hojas": {
+                "vitaminas": ["vitamina A", "vitamina C", "vitamina K"],
+                "minerales": ["calcio", "potasio"],
+                "otros": ["antioxidantes", "compuestos azufrados"]
+            }
         },
         "advertencias": "No exceder el tiempo indicado para la aplicación del producto, ya que pueden aparecer quemaduras de 2do. grado. No aplicar nunca en piel dañada", 
         "posologia": {
             "Mezcla" : "Mezclar 30 g de polvo de semillas con 90 g de harina de trigo, maicena o polvo inerte y 100 ml de cualquier tipo de aceite. Extender la pasta resultante sobre la zona afectada y mantenerla 5-10 min. Si se desea, cubrir con paños calientes o bolsa de agua tibia. Transcurrido el tiempo indicado, lavar bien la zona con agua tibia"
-        }
+        },
+        "enfermedades": ["respiratorias", "digestivas", "piel", "menstruales"]
     },
 
     "Naranja Agria" : {
@@ -1008,16 +1425,30 @@
         "propiedades" : {
             "Flores" : ["hipnótica"],
             "Fruto" : ["tónica", "carminativa", "aperitiva", "analgésica", "antipirética"],
-            "Hojas" : ["Protector de los pequeños vasos", "antiespasmódica", "diurética", "antibacteriana"]
+            "Hojas" : ["vasoconstrictora", "antiespasmódica", "diurética", "antibacteriana"]
         },
         "componentes": {
-            "Fruto" : "1-2 % de una esencia, ácido hesperidico y otros, auranciamarina y hesperidina entre otros componentes",
-            "Hojas": "Esencia compuesta por: d-linoneno, linalol, acetado de linalillo con geraniol, acetato de geranilo. Un alcaloide de sabor amargo y cantidades variables de sales minerales"
-        },
+            "Fruta": {
+              "vitaminas": ["vitamina C"],
+              "minerales": ["potasio", "calcio"],
+              "otros": ["ácido cítrico", "pectina"]
+            },
+            "Hojas": {
+              "vitaminas": ["vitamina A", "vitamina C"],
+              "minerales": ["calcio", "potasio"],
+              "otros": ["limoneno", "geraniol"]
+            },
+            "Flores": {
+              "vitaminas": ["vitamina C"],
+              "minerales": ["potasio"],
+              "otros": ["neroli"]
+            }
+          },
         "advertencias": "El aceite esencial, o partes de la planta que lo contengan, puede causar dermatitis. No exponer al sol las parte tratadas con productos de esta planta. Tópicamente no utilizar por más de 3 semanas", 
         "posologia": {
             "Decocción": "Hervir por 5 minutos 5-12 g de hojas frescas o corteza de frutos. Ingerir 300-500 ml al día repartidos en 2-3 dosis. La misma decocción se aplica localmente a las partes afectadas 2-3 veces al día"
-        }
+        },
+        "enfermedades": ["resfriado", "gripe", "indigestión", "ansiedad"]
     },
 
     "Naranja Dulce" : {
@@ -1027,16 +1458,28 @@
         "propiedades" : {
             "Flores" : ["antiespasmódica"],
             "Fruto" : ["tónica", "carminativa", "aperitiva", "analgésica", "antipirética"],
-            "Hojas" : ["Protector de los pequeños vasos", "antiespasmódica", "diurética", "antibacteriana"]
+            "Hojas" : ["vasoconstrictora", "antiespasmódica", "diurética", "antibacteriana"]
         },
         "componentes": {
-            "Hojas": "Se caracterizan por la presencia de un aceite esencial, el que según el órgano presenta como componente principal limoneno, linalol o nerol",
-            "Fruto": "Contiene grandes cantidades de ácidos orgánicos (cítrico y málico principalmente) y vitamina C"
+            "Fruto": {
+                "ácidos orgánicos": ["cítrico", "málico"],
+                "carbohidratos": ["glucosa", "fructosa", "sacarosa"],
+                "vitaminas": ["vitamina C"],
+                "minerales": ["potasio", "calcio", "magnesio"],
+                "otros": ["pectina", "limonoides"]
+            },
+            "Hojas": {
+                "aceite esencial": [ "limoneno", "linalol", "nerol"],
+                "vitaminas": ["vitamina C"],
+                "minerales": ["potasio", "calcio"],
+                "otros": ["hesperidina", "naringina"]
+            }
         },
         "advertencias": "El aceite esencial o partes de la planta que lo contengan, puede causar dermatitis. No exponer al sol las partes tratadas con productos de esta planta. Tópicamente no utilizar por más de 3 semanas", 
         "posologia": {
             "Decocción": "Hervir por 5 minutos 5-12 g de hojas frescas o corteza de frutos. Ingerir 300-500 ml al día repartidos en 2-3 dosis. La misma decocción se aplica localmente a las partes afectadas 2-3 veces al día"
-        }
+        },
+        "enfermedades": ["resfriado común", "gripe", "escorbuto"]
     },
 
     "Nuez Moscada" : {
@@ -1044,15 +1487,23 @@
         "familia" : "Myristicaceae", 
         "descripcion": "Árbol con las hojas blanquecinas en la cara inferior y con nervadura secundaria que confluye cerca del margen y la nervadura terciaria reticulada y aromática. Flores pediceladas, agrupadas en inflorescencias mayormente axilares; pétalos ausentes; filamentos connados formando una columna. Fruto carnoso y monospermo. Semillas ariladas",
         "propiedades" : {
-            "Semillas" : ["carminativa", "tratamiento de las afecciones intestinales", "estimulante", "antifúngica", "antitusiva"]
+            "Semillas" : ["carminativa", "estimulante", "antifúngica", "antitusiva"]
         },
         "componentes": {
-            "Semillas": "Contienen no menos de 5 % de un aceite esencial con eugenol, canfeno, miristina, elimicina y safrol. Contienen además ácidos grasos, almidón, saponinas y colorantes"
+            "Semilla": {
+                "aceites esenciales": ["miristicina", "elemicina"],
+                "otros": ["almidón", "proteínas", "grasas", "eugenol", "canfeno", "safrol", "saponinas"]
+            },
+            "Macis": {
+                "aceites esenciales": ["miristicina", "elemicina"],
+                "otros": ["fibra", "vitaminas", "minerales"]
+            }
         },
         "advertencias": "Algunos componentes del aceite esencial tienen acción psicotrópica; uno de ellos, el satrol, reportado como carcinogenético. En dosis elevadas puede causar náuseas, vómitos, taquicardia, convulsiones, miosis, midriasis, euforia y alucinaciones. Dosis mayores de 5 g producen marcada depresión del Sistema Nervioso Central. Evitar su uso prolongado", 
         "posologia": {
             "Natural": "Se refieren dosis de 300 a 600 mg de polvo de semillas secas"
-        }
+        },
+        "enfermedades": ["insomnio", "ansiedad", "dolor de muelas", "afecciones intestinales"]
     },
 
     "Orégano Cimarrón" : {
@@ -1063,12 +1514,25 @@
             "Hojas": ["antiespasmódica", "antigripal", "febrífuga", "vermífuga", "antidiarreica", "antiálgica", "antibiótica"]
         },
         "componentes": {
-            "Hojas": "Aceite esencial, que en dependencia de la raza química, presenta como componente mayoritario timol, eugenol o citral"
+            "Hojas": {
+                "Aceite esencial": {
+                    "compuestos": ["eugenol", "timol"]
+                },
+                "Compuestos fenólicos": {
+                    "compuestos": ["ácido rosmarínico", "ácido cafeico"]
+                },
+                "Flavonoides": {
+                    "compuestos": ["apigenina", "luteolina"]
+                },
+                "Vitaminas": ["vitamina A", "vitamina C"],
+                "Minerales": ["potasio", "calcio"]
+            }
         },
         "advertencias": "Dosis excesivas pueden provocar irritación gastrointestinal y del tracto urinario, excitación y convulsiones", 
         "posologia": {
             "Infusión": "Verter 15-20 de follaje fresco en 1 litro de agua hirviendo. Reposar 10-15 minutos antes de filtrar. Ingerir 300-500 ml al día repartidos en 2-3 dosis"
-        }
+        },
+        "enfermedades": ["digestivas", "respiratorias", "dermatológicas", "ansiedad", "dolor de cabeza", "fiebre"]
     },
 
     "Orégano Francés" : {
@@ -1079,11 +1543,19 @@
             "Hojas" : ["anticonvulsiva", "antiepiléptica", "antiasmática", "antiflogística", "antiespasmódica", "antiinflamatoria", "sedante", "broncodilatadora", "antimicrobiana"]
         },
         "componentes": {
-            "Hojas": "aceites, azúcares reductores y triterpenos",
-            "Tallos": "aceites, aminas, azúcares reductores y triterpenos"
+            "Hojas": {
+                "aceites esenciales": ["carvacrol", "timol"],
+                "vitaminas": ["vitamina A", "vitamina C"],
+                "minerales": ["potasio", "magnesio"],
+                "otros": ["ácido rosmarínico", "aceites", "azúcares", "triterpenos"]
+            },
+            "Tallo": {
+                "otros": ["aceites", "aminas", "azúcares", "triterpenos"]
+            }
         },
         "advertencias": null, 
-        "posologia": null
+        "posologia": null,
+        "enfermedades": ["respiratorias", "digestivas", "inflamatorias"]
     },
 
     "Oreja de Ratón" : {
@@ -1111,10 +1583,10 @@
         "familia" : "Caesalpiniaceae", 
         "descripcion": "Árbol de hasta 8 metros de altura, provisto de espinas de entre 515 mm de longitud. Hojas compuestas de 510 cm de longitud, con 24 pares de folíolos obovados de superficie lustrosa. Flores amarillas en racimos axilares cortos (212 cm). Fruto en legumbre, muy delgada, de 25 cm de longitud, con las semillas dispuestas transversalmente",
         "propiedades" : {
-            "Tallos" : ["antidiarreica", "digestiva"]
+            "Tallo" : ["antidiarreica", "digestiva"]
         },
         "componentes": {
-            "Corteza": {
+            "Tallo": {
               "compuestos_fenolicos": ["hematoxilina"],
               "otros": ["resinas", "ácidos orgánicos", "taninos"]
             }
@@ -1687,7 +2159,7 @@
         },
         "advertencias": "Puede provocar reacciones alérgicas", 
         "posologia": {
-            "Infusión": "verter 20-30 g de follaje fresco en 1 litro de agua hirviendo. Reposar por 10-15 minutos. Ingerir 500-700 ml al día repartidos en 2-3 dosis"
+            "Infusión": "Verter 20-30 g de follaje fresco en 1 litro de agua hirviendo. Reposar por 10-15 minutos. Ingerir 500-700 ml al día repartidos en 2-3 dosis"
         },
         "enfermedades": ["estrés", "ansiedad", "insomnio", "indigestión"]
     },
