@@ -1,5 +1,8 @@
 {
-    "Aguacate" : {
+    "plantas" : 
+    [
+    {
+        "nombre": "Aguacate",
         "nombre_cientifico" : "Persea americana",
         "familia": "Lauraceae",
         "descripcion": "Árbol de hasta 20 m de altura y con el tronco de unos 60 cm de diámetro. Hojas alternas, elípticas, coriáceas, lampiñas en la cara superior, algo pubescentes y nervadura prominente en la cara inferior. Flores pequeñas, verdosas y tomentosas. Fruto drupáceo, de forma y dimensiones variables según el tipo de cultivo, monospermo y con la pulpa aceitosa",
@@ -30,8 +33,9 @@
         "posologia": null,
         "enfermedades": ["cardiovasculares", "colesterol alto", "inflamación", "problemas digestivos"]
     },
-
-    "Ají" : {
+    
+    {
+        "nombre": "Ají",
         "nombre_cientifico" : "Capsicum annuum",
         "familia": "Solanaceae",
         "descripcion": "Hierba de tallos bifurcados y flexuosos, de altura variable en dependencia del cultivar. Hojas mibranosas, alternas, estrechadas tanto hacia la base como hacia el ápice, pecioladas. Flores de corola regular, blancas, con 5 lóbulos, solitarias o en pequeños grupos axilares. Fruto carnoso de superficie lisa y color, forma y tamaño variable según cultivar", 
@@ -53,7 +57,8 @@
         "enfermedades": ["dolor", "inflamación", "problemas digestivos", "artosis"]
     },
 
-    "Ají Guaguao" : {
+    {
+        "nombre": "Ají Guaguao",
         "nombre_cientifico" : "Capsicum frutescens",
         "familia": "Solanaceae",
         "descripcion": "Arbusto lampino de hasta más de 1 m de altura, ramificado y a veces tomentoso. Hojas generalmente aovadas, de ápice agudo o acuminado y estrecha o truncada hacia la base. Flores axilares, solitarias o en pequeños grupos, con los pedícelos en forma de maza; corola blanca de aproximadamente 1 cm de diámetro y con 5 lóbulos. Fruto abayado, globoso o elipsoideo, de 5 a 10 mm de longitud, rojo al madurar y picante",
@@ -77,7 +82,8 @@
         "enfermedades": ["dolor", "inflamación", "artritis", "psoriasis", "cáncer", "problemas digestivos", "enfermedades cardiovasculares"]
     },
 
-    "Ajo": {
+    {
+        "nombre": "Ajo",
         "nombre_cientifico" : "Allium sativum",
         "familia": "Alliaceae",
         "descripcion": "Hierba anual, geofita, con bulbos compuestos denominados popularmente cabezas. Hojas lineares dispuestas en una roseta que surge de la parte superior del bulbo",
@@ -99,7 +105,8 @@
         "enfermedades": ["enfermedades cardiovasculares", "cáncer", "infecciones bacterianas y virales", "problemas digestivos", "inflamación", "artritis", "enfermedad de Alzheimer", "diabetes"]
     },
 
-    "Albahaca Blanca": {
+    {
+        "nombre": "Albahaca Blanca",
         "nombre_cientifico" : "Ocimum basilicum", 
         "familia": "Lamiaceae",
         "descripcion": "Hierba ramosa, de entre 30-60 cm de altura, con todo el follaje muy aromático. Hojas opuestas, de tamaño y forma variable en dependencia del cultivar. Flores en racimos de hasta 20 cm de longitud situados en el extremo de las ramas; corola blanca o violácea, irregular. Fruto semejando una cápsula que se abre cuando madura, dejando libres 4 semillas negras", 
@@ -121,7 +128,8 @@
         "enfermedades": ["problemas digestivos", "ansiedad", "estrés", "insomnio", "dolores de cabeza", "infecciones de la piel", "inflamación", "cáncer"]
     }, 
 
-    "Albahaca Morada": {
+    {
+        "nombre": "Albahaca Morada",
         "nombre_cientifico" : "Ocimum sanctum",
         "familia": "Lamiaceae",
         "descripcion": "Hierba aromática, pubérula de hasta 70 cm de altura. Hojas opuestas, aovadas o elípticas, de 3 a 5 cm de largo, dentadas y violáceas cuando crece a pleno sol. Flores en panojas terminales de hasta 10 cm de largo; corola blanca de unos 3 mm y 4 estambres, didínamos. Ovario 4-carpelar", 
@@ -141,7 +149,8 @@
         "enfermedades": ["resfriado común", "gripe", "dolor de garganta", "problemas digestivos", "ansiedad", "estrés", "dolor de cabeza", "infecciones de la piel", "inflamación", "cáncer"]
     },
 
-    "Alcanfor": {
+    {
+        "nombre": "Alcanfor",
         "nombre_cientifico" : "Cinnamomum camphora",
         "familia": "Lauraceae",
         "descripcion": "Árbol siempre verde de hasta 12 metros de altura. Hojas opuestas, aovadas, pecioladas y terminando en punta, muy aromáticas. Flores diminutas, de color verde amarillento, agrupadas en panículas situadas en la axila de las hojas, largamente pedunculadas", 
@@ -167,7 +176,8 @@
         "enfermedades": ["congestión nasal", "tos", "resfriado", "dolor muscular"]
     },
 
-    "Anamú": {
+    {
+        "nombre": "Anamú",
         "nombre_cientifico" : "Petiveria alliacea",
         "familia": "Phytolaccaceae",
         "descripcion": "Hierba perenne, de olor fuerte y desagradable, erguida, algo leñosa en la base, de 30 a 100 cm de altura. Hojas alternas, enteras, diminutamente estipuladas, de 6 a 19 cm de largo y de 2,5 a 5 cm de ancho, en general elípticas. Flores en racimos mayormente terminales, laxos, de 10 a 35 cm de largo; perianto blanco y dividido en 4 segmentos. Aquenio alargado y cuneiforme, de unos 8 mm de largo",
@@ -192,7 +202,8 @@
         "enfermedades": ["infecciones urinarias", "infecciones respiratorias", "heridas", "dolor de muelas"]
     }, 
 
-    "Anís Estrellado" : {
+    {
+        "nombre": "Anís Estrellado",
         "nombre_cientifico" : "Illicium verum Hook",
         "familia": "Magnoliaceae",
         "descripcion": "Árbol de hasta 20 m de altura. Hojas enteras, lanceoladas y agudas. Flores blancas, rosadas o moradas y globosas. Fruto compuesto por 4 folículos de hasta 17 mm de longitud, unido por la base a un eje central e irradiado horizontalmente con la sutura ventral hacia la parte superior y cada uno contiene una semilla de superficie lisa y brillante; pedúnculos de unos 5 cm", 
@@ -214,7 +225,8 @@
         "enfermedades": ["indigestión", "flatulencias", "náuseas", "vómitos"]
     }, 
 
-    "Apasote": {
+    {
+        "nombre": "Apasote",
         "nombre_cientifico" : "Chenopodium ambrosioides",
         "familia" : "Chenopodíaceae", 
         "descripcion": "Hierba erguida de 40 a 100 cm de altura, lampiña o ligeramente glandular-pubescente y de olor fuerte. Hojas alternas, con pecíolo corto, generalmente oblongas, estrechas hacia la base, sinuado-dentadas, de 3 a 10 cm de largo; las hojas superiores son de menor tamaño. Flores de pequeñas espigas axilares; cáliz dividido en 3 segmentos de apenas 1 mm y envuelve totalmente el fruto",
@@ -240,7 +252,8 @@
         "enfermedades": ["parásitos intestinales", "indigestión", "flatulencias", "cólicos"]
     }, 
 
-    "Arraigán": {
+    {
+        "nombre": "Arraigán",
         "nombre_cientifico" : "Myrica cerifera",
         "familia" : "Myricaceae", 
         "descripcion": "Arbusto de altura variable; hojas alternas, oblongas, con escasos dientes en el margen, de 28 cm de longitud, provistas de glándulas resinosas en la lámina; pecíolos de 310 mm. Flores masculinas y femeninas separadas, ambas agrupadas en amentos (racimo corto y denso), los masculinos cilíndricos, en la axila de hojas, los femeninos subglobosos en pequeñas ramitas",
@@ -272,7 +285,8 @@
         "enfermedades": ["diarrea", "disentería", "infecciones"]
     }, 
 
-    "Arroz" : {
+    {
+        "nombre": "Arroz",
         "nombre_cientifico" : "Oryza sativa",
         "familia" : "Poaceae", 
         "descripcion": "Hierba erguida de 1 m o más de altura; hojas envainadoras, lineares, escabrosas. Flores en panojas terminales de entre 10-30 cm de longitud",
@@ -298,7 +312,8 @@
         "enfermedades": ["colesterol alto", "diabetes", "enfermedades cardiovasculares"]
     },
 
-    "Añil Cimarrón" : {
+    {
+        "nombre": "Añil Cimarrón",
         "nombre_cientifico" : "Indigofera suffruticosa",
         "familia" : "Poaceae", 
         "descripcion": "Arbusto de 1 a 1,5 m de altura generalmente muy ramificado; ramas delgadas con pubescencia blanquecina. Hojas compuestas por 9 a 17 foliolos pinnados, de unos 3 cm de longitud, verde claros y pubescentes, al menos en la cara inferior. Flores en racimos estrechos de hasta 5 cm de longitud; cáliz campanulado y corola amarillenta. Legumbre lineal, tabicada entre las semillas, de 8 a 15 mm de largo por 2 mm de ancho; posee de 3 a 8 semillas",
@@ -320,7 +335,8 @@
         "enfermedades": ["infecciones", "heridas", "inflamaciones"]
     },
 
-    "Bija" : {
+    {
+        "nombre": "Bija",
         "nombre_cientifico" : "Bixa orellana",
         "familia" : "Bixaceae", 
         "descripcion": "Arbusto de hasta 9 m de altura, de corteza parda y ramas jóvenes comúnmente escamosas. Hojas aovadas de 8 a 20 cm de largo y de 4 a 15 cm de ancho, con pecíolo largo. Flores en panículas terminales; corola de 5 pétalos, torcidos en el botón, redondeados y rosados; estambres numerosos. Fruto capsular aovado-globoso, de unos 4 cm de diámetro, densamente cubierto de espinas suaves y delgadas. Semillas numerosas",
@@ -343,7 +359,8 @@
         "enfermedades": ["inflamaciones", "heridas", "problemas_de_piel", "diarrea", "fiebre"]
     },
 
-    "Café" : {
+    {
+        "nombre": "Café", 
         "nombre_cientifico" : "Coffea arabica",
         "familia" : "Rubiaceae", 
         "descripcion": "Arbusto o arbolito de entre 1-7 m de altura. Hojas opuestas, brillantes, mayormente oblongas, con los nervios prominentes en ambas caras. Flores blancas y fragantes, en grupos apretados en la axila de las hojas. Fruto carnoso, globoso u ovalado, rojo o amarillo al madurar y que contiene 2 semillas oliváceas",
@@ -369,7 +386,8 @@
         "enfermedades": ["enfermedades cardiovasculares", "diabetes", "cáncer"]
     },
     
-    "Caisimón de anís" : {
+    {
+        "nombre":  "Caisimón de anís", 
         "nombre_cientifico" : "Piper auritum",
         "familia" : "Piperaceae", 
         "descripcion": "Arbusto de hojas alternas, enteras, aovado-elípticas, con la base muy inequilatera, profundamente acorazonada, de hasta 32 cm de largo y 16 cm de ancho. Flores diminutas, bracteadas, sin perianto, agrupadas en espigas amentiformes de hasta 16 cm de largo, axilares y opuestas a las hojas. Fruto abayado y muy pequeño",
@@ -392,7 +410,8 @@
         "enfermedades": ["indigestión", "flatulencias", "cólicos"]
     }, 
 
-    "Calabaza" : {
+    {
+        "nombre":  "Calabaza",
         "nombre_cientifico" : "Cucurbita moschata Duchesne",
         "familia" : "Cucurbitaceae", 
         "descripcion": "Liana de tallos pelosos, mayormente rastreros y provistos de pequeñas espinas y zarcillos bífidos. Hojas alternas, largamente pecioladas y con el limbo amplio a lobulado. Flores masculinas solitarias o en pequeños grupos, largamente pedunculadas. Flores femeninas solitarias con pedúnculos cortos y gruesos. Fruto carnoso de gran tamaño",
@@ -420,7 +439,8 @@
         "enfermedades": ["estreñimiento", "hipertensión", "infecciones urinarias"]
     },
     
-    "Caléndula" : {
+    {
+        "nombre": "Caléndula" ,
         "nombre_cientifico" : "Calendula officinalis",
         "familia" : "Asteraceae", 
         "descripcion": "Hierba anual, más o menos pelosa. Hojas inicialmente en una roseta basal, sentadas, simples, mayormente oblongas, para la floración emite tallos erectos, algo ramificados en la parte superior, de 30 a 60 cm de altura. Cabezuelas florales terminales, solitarias, vistosas, de 3,5 a 5 cm de diámetro; los radios planos, extendidos, desde amarillo pálido a naranja brillante",
@@ -443,7 +463,8 @@
         "enfermedades": ["heridas", "quemaduras", "eccema"]
     },
 
-    "Cayeput" : {
+    {
+        "nombre":  "Cayeput",
         "nombre_cientifico" : "Melaleuca leucadendron",
         "familia" : "Myrtaceae", 
         "descripcion": "Arbol de hasta 20 m de altura, con la corteza gruesa, esponjosa, blanca en la parte exterior y oscura en la interior; ramas puberulas. Hojas elípticas u oblongas de 5 a 10 cm de largo, estrechas hacia ambos extremos, nervadura longitudinal y paralela. Flores blanco-cremosas agrupadas en espigas terminales de 5 a 15 cm de largo. Fruto capsular, casi esférico, de 3 mm de diametro",
@@ -464,7 +485,8 @@
         "enfermedades": ["resfriado común", "gripe", "dolor muscular"]
     },
 
-    "Caña Fistola" : {
+    {
+        "nombre": "Caña Fistola",
         "nombre_cientifico" : "Cassia fistula",
         "familia" : "Caesalpiniaceae", 
         "descripcion": "Árbol de tronco grueso y hasta 20 m de altura. Hojas compuestas por un número par de foliolos, llegando a alcanzar hasta 40 cm de longitud. Flores en racimos colgantes de 30-80 cm de longitud; corola amarilla. Legumbre cilíndrica, negra, de hasta 60 cm de longitud y 2 cm de grosor",
@@ -491,7 +513,8 @@
         "enfermedades": ["estreñimiento", "fiebre", "infecciones"]
     },
 
-    "Caña Santa" : {
+    {
+        "nombre": "Caña Santa" ,
         "nombre_cientifico" : "Cymbopogon citratus",
         "familia" : "Poaceae", 
         "descripcion": "Hierba perenne, robusta, de hasta 1 m de altura. Hojas con aroma alimonado, agrupadas cerca de la base, lineares, de hasta casi 1 m de longitud, con el borde cortante",
@@ -512,7 +535,8 @@
         "enfermedades": ["digestivas", "respiratorias", "nerviosas", "antiinflamatorias", "antioxidantes"]
     },
 
-    "Cañandonga" : {
+    {
+        "nombre":  "Cañandonga",
         "nombre_cientifico" : "Cassia grandis",
         "familia" : "Caesalpinaceae", 
         "descripcion": "Árbol de 30 m o más de altura. Hojas pinnado-compuestas, pubescentes; de 8 a 20 foliolos oblongos y redondeados. Flores en densos racimos; corola rosada, pétalos aproximadamente de 1 cm; fruto en cápsula de hasta 80 cm de largo y unos 4 cm de grosor, cilíndrico, con una costilla prominente en la sutura dorsal y 2 en la ventral, casi negro al madurar; pulpa de olor desagradable, sabor amargo y astringente",
@@ -539,7 +563,8 @@
         "enfermedades": ["digestivas", "respiratorias", "de la piel"]
     },
 
-    "Cebolla" : {
+    {
+        "nombre": "Cebolla",
         "nombre_cientifico" : "Allium cepa",
         "familia" : "Alliaceae", 
         "descripcion": "Geofita con bulbos esféricos o circulares, de tamaño y coloración variable en dependencia del cultivar. Hojas lanceoladas de sección circular, a modo de varillas. Flores blancas, agrupadas en umbelas situadas en el extremo de largos escapos que sobresalen a la roseta de hojas",
@@ -567,7 +592,8 @@
         "enfermedades": ["resfriados", "gripe", "infecciones", "problemas cardiovasculares", "problemas digestivos"]
     },
 
-    "Cereza del país" : {
+    {
+        "nombre":  "Cereza del país", 
         "nombre_cientifico" : "Malpighia glabra",
         "familia" : "Malpighiaceae", 
         "descripcion": "Arbolito de hasta 5 m de altura muy ramificado. Hojas variables, desde elípticas a lanceoladas, de 1,5 a 7 cm de largo, algo más pálidas en la cara inferior y con peciolos cortos. Flores agrupadas en la axila de las hojas; corola de 5 pétalos, rosados, contraídos en la base en forma de una y de 7 a 9 mm de largo. Fruto carnoso, más o menos globoso de 10 a 16 mm de diámetro, con la cubierta rojo brillante al madurar y la pulpa ácida; posee tres semillas",
@@ -593,7 +619,8 @@
         "enfermedades": ["resfriados", "gripe", "diarrea", "problemas de piel", "infecciones respiratorias", "problemas digestivos", "fiebre", "dolor de garganta"]
     },
 
-    "Cidra" : {
+    {
+        "nombre": "Cidra",
         "nombre_cientifico" : "Citrus limetta Risso",
         "familia" : "Rutaceae", 
         "descripcion": "Árbol espinoso. Hojas de 5 a 7,5 cm de largo, elípticas o aovadas y crenadas; peciolo estrechamente alado. Flores blancas. Fruto globoso, amarillo al madurar de 5 a 7 cm de diámetro, con el jugo bastante insípido",
@@ -618,7 +645,8 @@
         "enfermedades": ["infecciones respiratorias", "problemas digestivos", "fiebre", "ansiedad"]
     },
 
-    "Ciprés" : {
+    {
+        "nombre": "Ciprés", 
         "nombre_cientifico" : "Cupressus sempervirens",
         "familia" : "Cupressaceae", 
         "descripcion": "Árbol de 10 a 20 m de altura, con la corteza lisa y grisácea; copa de forma variable según la variedad. Hojas muy pequeñas, escamosas, triangulares y ordenadas en 4 series",
@@ -640,7 +668,8 @@
         "enfermedades": ["infecciones respiratorias", "congestión nasal", "asma", "artritis"]
     },
 
-    "Calvo de Olor" : {
+    {
+        "nombre":  "Calvo de Olor",
         "nombre_cientifico" : "Eugenia caryophyllata Thumb",
         "familia" : "Myrtaceae", 
         "descripcion": "Árbol de hasta 15 m de altura. Hojas opuestas, lanceoladas u oblongas de 10 a 25 cm de largo, acuminadas, con puntos translúcidos en el limbo. Flores agrupadas en inflorescencias terminales paucifloras; cáliz tubular, turbinado; 4 pétalos, extendidos, libres y glandulosos. Fruto redondo u ovalado, de 3 a 6 cm de largo y amarillo pálido",
@@ -658,7 +687,8 @@
         "enfermedades": ["dolor de muelas", "infecciones bacterianas", "indigestión", "nauseas"]
     },
 
-    "Coco" : {
+    {
+        "nombre": "Coco",
         "nombre_cientifico" : "Cocos nucifera",
         "familia" : "Cocos nucifera", 
         "descripcion": "Árbol estipitado, cuyo tronco puede alcanzar hasta 30 m de altura. Hojas formando un penacho en el extremo del tallo, cada una de entre 3-6 m de longitud, pinnado-compuestas, foliolos de mas de 50 cm de longitud. Flores masculinas en la parte superior de las ramas, las femeninas mas pequeñas y en menor número en la parte superior. Fruto de gran tamaño",
@@ -687,7 +717,8 @@
         "enfermedades": ["enfermedades cardiovasculares", "colesterol alto", "enfermedades renales", "deshidratación"]
     },
 
-    "Cordobán" : {
+    {
+        "nombre": "Cordobán",
         "nombre_cientifico" : "Tradescantia spathacea",
         "familia" : "Commelinaceae", 
         "descripcion": "Hierba que crece con frecuencia, formando colonias, provista de robustos tallos que apenas alcanzan 20 cm de largo y 1,5 cm de grosor. Hojas lineales, verde oscuras en cara superior, violáceas en la cara inferior, enteras, lampiñas, algo carnosas, con peciolos envainadores. Flores agrupadas en umbelas multifloras, axilares, casi escondidas entre bracteas; 3 sépalos, petaloideos, pétalos en igual número y blancos. Fruto capsular",
@@ -713,7 +744,8 @@
         "enfermedades": ["respiratorias", "digestivas", "piel"]
     },
 
-    "Culantro Cimarrón" : {
+    {
+        "nombre": "Culantro Cimarrón", 
         "nombre_cientifico" : "Eryngium foetidun",
         "familia" : "Apiaceae", 
         "descripcion": "Hierba lampiña muy aromática. Hojas dispuestas en una roseta basal, obovadas u oblongas, de 5 a 18 cm de largo y de 1,5 a 5 cm de ancho, envainadoras en la base y aserradas. Flores blancas, pequeñas, agrupadas en cabezuelas bracteadas, sostenidas por ramas divididas dicotómicamente. Fruto tuberculado, algo aplanado lateralmente y de unos 2 mm",
@@ -734,7 +766,8 @@
         "enfermedades": ["digestivas", "hepáticas", "renales", "respiratorias", "urinarias"]
     },
 
-    "Cúrcuma" : {
+    {
+        "nombre": "Cúrcuma", 
         "nombre_cientifico" : "Curcuma longa",
         "familia" : "Zingiberaceae", 
         "descripcion": "Hierba perenne, acaule, con rizomas aromáticos de color amarillo brillante en su interior. Hojas con peciolos largos; limbo oblongo o elíptico, de 30 a 50 cm de largo y de 8 a 18 cm de ancho, estrecho hacia la base y acuminado en el ápice. Flores amarillas agrupadas en llamativas espigas basales, acompañadas de brácteas violáceas. Fruto capsular, globoso, 3-valvo; semillas ovoides, comúnmente ariladas",
@@ -754,7 +787,8 @@
         "enfermedades": ["digestivas", "hepáticas", "inflamatorias", "cáncer"]
     },
 
-    "Doradilla" : {
+    {
+        "nombre":  "Doradilla", 
         "nombre_cientifico" : "Polypodium polypodioides",
         "familia" : "Polypodiaceae", 
         "descripcion": "Helecho pequeño provisto de rizomas trepadores de 2 mm de grosor, flexuosos, densamente pelosos y con escamas imbricadas de 3 a 4 mm de largo. Frondes distantes, erectos, de 5 a 25 cm de largo, con los peciolos más cortos que los limbos; láminas oblongas o lineales, pinnatisectas, truncadas en la base, opacas al secarse e higroscópicas",
@@ -773,7 +807,8 @@
         "enfermedades": ["respiratorias", "digestivas", "hepáticas"]
     },
 
-    "Eneldo" : {
+    {
+        "nombre": "Eneldo", 
         "nombre_cientifico" : "Anethum graveolens",
         "familia" : "Apiaceae", 
         "descripcion": "Hierba anual con tallos carnosos, erguidos, de hasta 1 m de altura, ramificados en la parte superior. Hojas alternas con pecíolos envainadores, limbo pinnadocompuesto, con los segmentos filiformes. Flores pequeñas, numerosas, amarillas, agrupadas en umbelas compuestas. Fruto en aquenio, acostillado, pardogrisáceo al madurar",
@@ -797,7 +832,8 @@
         "enfermedades": ["digestivas", "respiratorias", "nerviosas"]
     },
 
-    "Escoba Amarga" : {
+    { 
+        "nombre": "Escoba Amarga",
         "nombre_cientifico" : "Parthenium hysterophorus",
         "familia" : "Asteraceae", 
         "descripcion": "Hierba pubescente, comúnmente muy ramificada, de hasta 80 cm de altura. Hojas aovadas u oblongas, 1 o 2 pinnatifidas, de hasta 10 cm de largo y 5 cm de ancho. Capítulos florales dispuestos en panojas de hasta 10 cm de diámetro; lígulas suborbiculares, blancas, de hasta 1 mm de largo. Aquenio de 2 x 1,2 mm, negro y con 2 aristas delgadas",
@@ -816,7 +852,8 @@
         "enfermedades": ["alergias", "asma", "dermatitis"]
     },
 
-    "Eucalipto" : {
+    {
+        "nombre":  "Eucalipto", 
         "nombre_cientifico" : "Eucalyptus",
         "familia" : "Myrtaceae", 
         "descripcion": "Árboles de gran altura, algunas especies en su habitat natural, sobrepasan los 100 m. Tronco recto y poco ramificado, usualmente dejando desprender finas capas de la corteza. Hojas aromáticas, simples, alternas, enteras. Flores y frutos relativamente pequeños y poco notables",
@@ -837,7 +874,8 @@
         "enfermedades": ["respiratorias", "cutáneas", "dolorosas"]
     },
 
-    "Eucalipto de Limón" : {
+    {
+        "nombre": "Eucalipto de Limón",
         "nombre_cientifico" : "Eucalyptus citriodora Hook",
         "familia" : "Myrtaceae", 
         "descripcion": "Árbol de hasta 50 m de altura, con el tronco recto y poco ramificado, su corteza blanquecina o gris-rojiza, se separa en forma de láminas. Hojas lanceoladas con fuerte olor a limón. Flores provistas de gruesos pedicelos, se agrupan de 3 en 3, formando una panícula multiflora. Fruto en forma de urna, globular, de algo más de 1 cm de diámetro",
@@ -857,7 +895,8 @@
         "enfermedades": ["respiratorias", "infecciones", "piel", "articulaciones", "estrés y ansiedad"]
     },
 
-    "Fruta Bomba" : {
+    {
+        "nombre": "Fruta Bomba",
         "nombre_cientifico" : "Carica papaya",
         "familia" : "Caricaceae", 
         "descripcion": "Árbol entre 3 y 5 m de altura, con el tallo simple, generalmente no ramificado y las hojas forman penacho en su extremo distal. Hojas lobuladas, pálidas en la cara inferior, cada lóbulo pinnadamente lobado; peciolos grandes y robustos. Flores mayormente unisexuales (las masculinas en panojas colgantes de varios decímetros de largo y las femeninas, solitarias o en panojas paucifloras). Fruto abayado, colgante y con muchas semillas",
@@ -888,7 +927,8 @@
         "enfermedades": ["digestivas", "inflamatorias", "cardiovasculares"]
     },
     
-    "Gavilán" : {
+    {
+        "nombre": "Gavilán", 
         "nombre_cientifico" : "Simarouba glauca",
         "familia" : "Simarubaceae", 
         "descripcion": "Árbol de hasta 18 m de altura, de corteza pardo-rojiza y amarga. Hojas alternas, imparipinnadas de 20 a 50 cm de largo; con 9 a 16 foliolos cuneados en la base, redondeados o agudos en el ápice, elíptico-lanceolados, de 4 a 10 cm de largo y 1,5 a 5 cm de ancho, verde-brillantes en la cara superior y glaucos en la inferior. Flores en panículas, terminales o axilares, de 10 a 40 cm de largo. Fruto drupáceo, aovado, de 1,5 a 2 cm de largo y escarlata al madurar",
@@ -915,7 +955,8 @@
         "enfermedades": ["malaria", "cáncer", "infecciones virales"]
     },
 
-    "Geranio de Olor" : {
+    {
+        "nombre": "Geranio de Olor",
         "nombre_cientifico" : "Pelargonium graveolens L'Herit",
         "familia" : "Geraniaceae", 
         "descripcion": "Hierba perenne, leñosa en la base y pelosa. Hojas alternas, pinnado-lobuladas, estipuladas y pelosas. Flores relativamente pequeñas en comparación con otras especies del género; corola ligeramente irregular y rosada; ovario con 5 lóculos y 5 estigmas",
@@ -933,7 +974,8 @@
         "enfermedades": ["estrés", "ansiedad", "problemas de la piel"]
     },
 
-    "Granada" : {
+    {
+        "nombre":  "Granada", 
         "nombre_cientifico" : "Punica granatum",
         "familia" : "Punicaceae", 
         "descripcion": "Arbolito de hasta 5 metros de altura. Hojas opuestas de forma variable, mayormente elípticas, estrechas y de 1-8 cm de longitud. Flores vistosas, solitarias, rojo-anaranjadas, con 5-7 pétalos. Fruto carnoso, globoso, de entre 6 y 14 cm de diámetro, con la cubierta coriácea; semillas incluidas en la pulpa",
@@ -958,7 +1000,8 @@
         "enfermedades": ["anemia", "problemas digestivos", "enfermedades del corazón"]
     },
 
-    "Guásima" : {
+    {
+        "nombre": "Guásima",
         "nombre_cientifico" : "Guazuma ulmifolia Lam",
         "familia" : "Sterculiaceae", 
         "descripcion": "Árbol de hasta 20 m de altura, corteza gris, tronco de 30 a 60 cm de diámetro. Hojas alternas, con peciolos cortos, aovadas u oblongas, aserradas, de 6 a 12 cm de largo y con el ápice agudo. Flores pequeñas agrupadas en inflorescencias axilares y cortamente estipitadas; 5 pétalos, blanco-amarillentos. Fruto capsular, subgloboso o elipsoideo, negro-purpúreo al madurar y con la superficie muricada",
@@ -980,7 +1023,8 @@
         "enfermedades": ["resfriados", "gripe", "problemas digestivos", "quemaduras por el guao"]
     },
 
-    "Guatamala" : {
+    {
+        "nombre": "Guatamala",
         "nombre_cientifico" : "Myroxylon balsamum",
         "familia" : "Fabaceae", 
         "descripcion": "Árbol de gran tamaño. Hojas compuestas por 7-11 foliolos alternos provistos de pequeños peciolos. Flores en racimos situados en la axila de las hojas o en el extremo de las ramas. Corola irregular, blanca. Fruto en legumbre, atípico, alado, con una sola semilla",
@@ -1001,7 +1045,8 @@
         "enfermedades": ["heridas", "quemaduras", "infecciones de la piel"]
     },
 
-    "Guayaba" : {
+    {
+        "nombre": "Guayaba",
         "nombre_cientifico" : "Psidium guajava",
         "familia" : "Myrtaceae", 
         "descripcion": "Arbusto o arbolito de hasta 7 m de altura, escasamente ramificado. Hojas aromáticas, opuestas, enteras, de 4-8 cm de longitud, con los nervios prominentes en la cara inferior, semejando a costillas. Flores blancas, vistosas, en grupos de 1-3; estambres numerosos, dispuestos sobre un disco ancho. Fruto carnoso de forma y tamaño variables en dependencia del cultivar",
@@ -1028,7 +1073,8 @@
         "enfermedades": ["diarrea", "disentería", "resfriados"]
     },
 
-    "Hierba Buena" : {
+    {
+        "nombre": "Hierba Buena",
         "nombre_cientifico" : "Mentha spicata",
         "familia" : "Lamiaceae", 
         "descripcion": "Hierba perenne, rastrera, con las ramas angulosas, lampiñas o ligeramente pubescentes. Hojas opuestas, oblongas, de superficie rugosa y margen aserrado, cortamente pecioladas. Aunque en nuestro país solo en pocas ocasiones florece, y cuando esto sucede las pequeñas flores blanco-violáceas se disponen en espigas terminales",
@@ -1049,7 +1095,8 @@
         "enfermedades": ["problemas digestivos", "náuseas", "resfriados"]
     },
 
-    "Hierba Mora" : {
+    {
+        "nombre": "Hierba Mora",
         "nombre_cientifico" : "Solanum nigrescens",
         "familia" : "Solanaceae", 
         "descripcion": "Hierba morfológicamente muy variable. Tallos cortamente pubescentes o glabros. Peciolos de 12 a 50 mm de largo. Hojas a menudo en pares, en su mayoría aovadas, enteras o sinuado-dentadas, de 5 a 10 cm de largo y 1 a 5 cm de ancho. Inflorescencias laterales, paucifloras y con los pedúnculos ascendentes o extendidos; cáliz corto, con 5 dientes; corola blanca, 5 lóbulos agudos. Fruto carnoso, globoso y negro al madurar",
@@ -1074,7 +1121,8 @@
         "enfermedades": ["intoxicaciones", "problemas digestivos", "alergias"]
     },
 
-    "Higuereta" : {
+    {
+        "nombre": "Higuereta",
         "nombre_cientifico" : "Ricinus communis",
         "familia" : "Euforbiaceae", 
         "descripcion": "Es una hierba con tallo erecto, de 1 a 5 metros de alto, más o menos ramificada, a menudo se vuelve arbórea, con un tronco robusto. Hojas alternas y palmeadas. Flores numerosas, apétalas, pequeñas, verdosas y en racimos terminales. El fruto es una cápsula tubular espinosa que contiene en cada celda una semilla ovoide. Las semillas son brillantes, lisas, negras, matizadas de blanco y moteadas con marcas grises y pardas. El endospermo es carnoso y aceitoso",
@@ -1102,7 +1150,8 @@
         "enfermedades": ["estreñimiento", "enfermedades de la piel", "cáncer"]
     },
 
-    "Hinojo" : {
+    {
+        "nombre": "Hinojo",
         "nombre_cientifico" : "Foeniculum vulgare Miller",
         "familia" : "Apiaceae", 
         "descripcion": "Hierba de tallos y peciolos algo carnosos, toda con fuerte olor a anís, alcanzando hasta más de 1 m de altura. Hojas alternas, pinnado-compuestas, terminando en divisiones filiformes. Flores muy pequeñas, amarillas, situadas en inflorescencias en forma de sombrilla (umbela compuesta), en el extremo de los tallos. Frutos pequeños, secos, acostillados",
@@ -1127,7 +1176,8 @@
         "enfermedades": ["problemas digestivos", "cólicos infantiles", "náuseas", "vómitos"]
     },
 
-    "Incienso" : {
+    {
+        "nombre": "Incienso",
         "nombre_cientifico" : "Artemisia absinthium",
         "familia" : "Asteraceae", 
         "descripcion": "Subarbusto de hasta 1 m de altura, muy ramificado. Hojas alternas, bi o tripinnado-partidas, las superiores solo pinnado-partidas, con los segmentos lineales y grisáceo por el abundante vello que las cubre por ambas caras",
@@ -1147,7 +1197,8 @@
         "enfermedades": ["problemas digestivos", "parásitos intestinales", "anemia", "fatiga"]
     },
 
-    "Ipecacuana" : {
+    {
+        "nombre": "Ipecacuana",
         "nombre_cientifico" : "Cephaelis ipecacuanha",
         "familia" : "Rubiaceae", 
         "descripcion": "Arbusto de raíces cilíndricas, pardo-rojizas a oscuras, con superficie lisa o anillada, a veces con fisuras transversales, de hasta 5 mm de diámetro. Hojas opuestas y pecioladas. Flores muy pequeñas, blancas y en racimos. Fruto abayado de color púrpura al madurar con 2 semillas",
@@ -1171,7 +1222,8 @@
         "enfermedades": ["náuseas", "vómitos", "disentería", "amebiasis"]
     },
 
-    "Jengibre" : {
+    {
+        "nombre": "Jengibre",
         "nombre_cientifico" : "Zingiber officinale Roscoe",
         "familia" : "Zingiberaceae", 
         "descripcion": "Hierba con tallos subterráneos (rizomas) horizontales, muy aromáticos, de sabor picante y color blanco en su interior. Falsos tallos aéreos de entre 60-90 cm de altura, con hojas alternas lineares de hasta 20 cm de longitud. Flores en inflorescencias apretadas, basales, en el extremo de cortos escapos",
@@ -1199,7 +1251,8 @@
         "enfermedades": ["náuseas", "vómitos", "mareos por movimiento", "artritis", "dolor muscular"]
     },
 
-    "Limón" : {
+    {
+        "nombre": "Limón",
         "nombre_cientifico" : "Citrus limon",
         "familia" : "Rutaceae", 
         "descripcion": "Arbolito con espinas cortas y agudas en las ramas. Hojas alternas, relativamente pequeñas en comparación con otros cítricos (5-7 cm de longitud) y con peciolos estrechamente alados, aromáticas. Flores en grupos de 2-7 en la axila de las hojas, muy aromáticas, blancas. Frutos pequeños ocasionalmente con una papila apical, corteza fina y lisa; jugo del endocarpio ácido",
@@ -1225,7 +1278,8 @@
         "enfermedades": ["escorbuto", "resfriado común", "problemas digestivos"]
     },
 
-    "LLantén Mayor" : {
+    {
+        "nombre": "LLantén Mayor",
         "nombre_cientifico" : "Plantago major",
         "familia" : "Plantaginaceae", 
         "descripcion": "Hierba acaule (sin tallo), con las hojas dispuestas en una roseta basal, largamente pecioladas; lámina aovada en la que resulta fácil distinguir de 3-11 nervios paralelos. Flores pequeñas en espigas densas, sobre escapos que sobrepasan las hojas. Fruto capsular, dehiscente, que contiene varias semillas muy pequeñas",
@@ -1248,7 +1302,8 @@
         "enfermedades": ["digestivas", "respiratorias", "dermatológicas", "urinarias", "heridas"]
     },
 
-    "Maíz" : {
+    {
+        "nombre": "Maíz",
         "nombre_cientifico" : "Zea mays",
         "familia" : "Poaceae", 
         "descripcion": "Hierba robusta y erguida, de hasta más de 2 m de altura. Hojas con el peciolo envolviendo el tallo (envainadoras). Flores masculinas en racimos compuestos (panículas) en el extremo de los tallos, las femeninas dispuestas sobre un eje abultado y esponjoso (mazorca) en la axila de las hojas. Frutos secos (granos) de coloración variable (blanco-amarillo-rojo)",
@@ -1292,7 +1347,8 @@
         "enfermedades": ["pelagra", "ceguera nocturna", "estreñimiento"]
     },
 
-    "Majagua" : {
+    {
+        "nombre":  "Majagua",
         "nombre_cientifico" : "Hibiscus elatus",
         "familia" : "Malvaceae", 
         "descripcion": "Árbol de hasta 15 m de altura con el follaje tomentoso-aterciopelado. Hojas pecioladas, suborbiculares, acorazonadas en la base y con el ápice abruptamente acuminado. Flores vistosas, terminales, solitarias; corola de 5 pétalos cuya colora-ción varía desde rosado-amarillo-rojo. Fruto capsular, globoso, hirsuto, de 3 cm de largo y dehiscente. Semillas poco tomentosas",
@@ -1320,7 +1376,8 @@
         "enfermedades": ["respiratorias", "digestivas", "inflamación", "fiebre", "hemorroides"]
     },
 
-    "Mango" : {
+    {
+        "nombre": "Mango",
         "nombre_cientifico" : "Manguifera indica",
         "familia" : "Anacardíaceae", 
         "descripcion": "Árbol de hasta 20 m de altura, con el tronco de 2,5 m de diámetro. Hojas alternas, pecioladas, enteras, subcoriáceas, de 15 a 25 cm de longitud, generalmente lanceoladas. Flores pequeñas agrupadas en grandes panículas terminales; con 4 o 5 pétalos imbricados. Fruto drupáceo, monospermo, de forma, tamaño y coloración variable según el cultivo; pulpa suave y jugosa. Semilla aplanada",
@@ -1344,7 +1401,8 @@
         "enfermedades": ["digestivas", "cáncer", "enfermedades cardiovasculares", "inflamación", "tos", "asma", "bronquitis", "diabetes", "hipertensión", "paludismo", "escorbuto", "afecciones hepáticas", "piorrea", "enfermedades bucales"]
     },
 
-    "Manzanilla" : {
+    {
+        "nombre": "Manzanilla" ,
         "nombre_cientifico" : "Matricaria recutita",
         "familia" : "Asteraceae", 
         "descripcion": "Hierba erecta, poco ramificada, con tallos erguidos de alrededor de 50 cm de altura. Hojas sésiles finamente divididas. Cabezuelas florales muy aromáticas, situadas en el extremo de las ramas, con la parte central de color amarillo intenso y hueca y los pétalos de las lígulas en la periferia de color blanco. Semillas apenas notables",
@@ -1366,7 +1424,8 @@
         "enfermedades": ["digestivas", "ansiedad", "insomnio", "inflamación"]
     },
 
-    "Maravilla" : {
+    {
+        "nombre": "Maravilla",
         "nombre_cientifico" : "Mirabilis jalapa",
         "familia" : "Nyctaginaceae", 
         "descripcion": "Hierba muy ramificada, de hasta 1 m de altura con una raíz gruesa y carnosa. Hojas opuestas sostenidas por finos pecíolos. Flores en forma de embudo de coloración variable que va de blanco a púrpura, situadas en el extremo de las ramas formando pequeños grupos. Fruto ovalado de menos de 1 cm de diámetro negro al madurar",
@@ -1385,14 +1444,15 @@
               "antioxidantes": ["antocianinas"]
             }
           },
-        "advertencias": "La maravilla contiene saponinas, que pueden ser tóxicas si se ingieren en grandes cantidades. Por lo tanto, es importante usarla solo bajo la supervisión de un profesional de la salud calificado.", 
+        "advertencias": "La maravilla contiene saponinas, que pueden ser tóxicas si se ingieren en grandes cantidades. Por lo tanto, es importante usarla solo bajo la supervisión de un profesional de la salud calificado", 
         "posologia": {
             "Decocción": "Hervir por no más de 1 min. el equivalente a una cucharadita de la raíz desmenuzada por cada taza de agua. Dejar reposar 15 min. antes de beber. Ingerir una taza por las noches"
         },
         "enfermedades": ["problemas de piel", "dolor de garganta", "fiebre", "hemorroides", "diarrea", "herpes", "digestivas"]
     },
 
-    "Mastuerzo" : {
+    {
+        "nombre":  "Mastuerzo" ,
         "nombre_cientifico" : "Lepidium virginicum",
         "familia" : "Brassicaceae", 
         "descripcion": "Hierba anual de 30 a 60 cm de altura. Hojas caulinares, lineal-lanceoladas, lampiñas, inciso-aserradas. Flores blancas y diminutas; pétalos aovados. Silicua orbicular",
@@ -1420,7 +1480,8 @@
         "enfermedades": ["respiratorias", "digestivas", "urinarias"]
     },
 
-    "Menta Americana" : {
+    {
+        "nombre": "Menta Americana",
         "nombre_cientifico" : "Lippia alba",
         "familia" : "Verbenaceae", 
         "descripcion": "Arbusto aromático de hasta 1 m de altura, densamente puberulento y por lo común muy ramificado. Hojas opuestas, aovadas u oblongas, de 2 a 7 cm de largo, crenadas y rugosas en la cara superior. Flores pequeñas, agrupadas en cabezuelas mucho más pequeñas que las hojas; corola blanca o violácea, tubular, de 4 a 5 mm de largo; 4 estambres y didínamos. Fruto seco con exocarpio membrañoso que se separa finalmente en 2 nueces",
@@ -1443,7 +1504,8 @@
         "enfermedades": ["digestivas", "respiratorias", "nerviosas", "musculares"]
     },
 
-    "Milendrama" : {
+    {
+        "nombre": "Milendrama",
         "nombre_cientifico" : "Achillea millefolium",
         "familia" : "Asteraceae", 
         "descripcion": "Hierba estolonífera, de 30 a 90 cm de altura. Hojas sesiles pinnado-partidas en segmentos lineales dentados, las hojas basales son mayores que las caulinares. Capítulos agrupados en inflorescencias densas dispuestas en planos horizontales en el extremo de las ramas; cada capítulo compuesto por 4 o 6 flores radiales blancas, y numerosas tubulares blanco amarillentas",
@@ -1470,7 +1532,8 @@
         "enfermedades": ["digestivas", "respiratorias", "piel", "menstruales"]
     },
 
-    "Moringa" : {
+    { 
+        "nombre": "Moringa", 
         "nombre_cientifico" : "Moringa oleifera",
         "familia" : "Moringaceae", 
         "descripcion": "Árbol de hasta 9 m de altura, de corteza áspera y correosa y con las ramas jóvenes puberulentas. Hojas alternas, 2 o 3 pinnadas, caducas, de 30 a 60 cm de longitud; foliolos numerosos, opuestos, de 1 a 2 cm de largo. Flores fragantes y agrupadas en grandes panículas axilares; 5 pétalos, desiguales y blancos. Fruto capsular, lineal, 3-angular, pendular, de hasta 40 cm de largo y 1 o 2 cm de ancho. Semillas aladas",
@@ -1500,7 +1563,8 @@
         "enfermedades": ["anemia", "diabetes", "hipertensión", "colesterol alto", "problemas digestivos", "inflamación", "enfermedades de la piel", "cáncer"]
     },
     
-    "Mostaza" : {
+    {
+        "nombre": "Mostaza",
         "nombre_cientifico" : "Brassica juncea",
         "familia" : "Brassicaceae", 
         "descripcion": "Hierba erguida, ramificada, con el follaje de color verde claro con matices azulados. Hojas basales grandes, lobuladas o partidas, las superiores sencillas y más pequeñas. Flores amarillas con 4 pétalos agrupadas en racimos terminales. Fruto en silicua (cápsula alargada) de 40-70 mm de longitud. Semillas globosas de alrededor de 1 mm de diámetro",
@@ -1527,14 +1591,15 @@
         "enfermedades": ["respiratorias", "digestivas", "piel", "menstruales"]
     },
 
-    "Naranja Agria" : {
+    {
+        "nombre": "Naranja Agria",
         "nombre_cientifico" : "Citrus aurantium",
         "familia" : "Rutaceae", 
         "descripcion": "Árbol de mediano tamaño, muy ramificado y espinoso. Hojas alternas, unifolioladas, anchamente elípticas, con el peciolo alado y estrechado hacia la base. Flores grandes, aromáticas, blancas, solitarias o en pequeños grupos. Fruto en hesperidio, generalmente de entre 7-9 cm de diámetro, jugoso",
         "propiedades" : {
             "Flores" : ["hipnótica"],
-            "Fruto" : ["tónica", "carminativa", "aperitiva", "analgésica", "antipirética"],
-            "Hojas" : ["vasoconstrictora", "antiespasmódica", "diurética", "antibacteriana"]
+            "Fruto" : ["tónica", "carminativa", "aperitiva", "analgésica", "antipirética", "anticatarral"],
+            "Hojas" : ["vasoconstrictora", "antiespasmódica", "diurética", "antibacteriana", "anticatarral"]
         },
         "componentes": {
             "Fruta": {
@@ -1560,7 +1625,8 @@
         "enfermedades": ["resfriado", "gripe", "indigestión", "ansiedad"]
     },
 
-    "Naranja Dulce" : {
+    {
+        "nombre": "Naranja Dulce" ,
         "nombre_cientifico" : "Citrus sinensis",
         "familia" : "Rutaceae", 
         "descripcion": "Arbolito con espinas en las axilas de las hojas, estas alternas, rígidas y aromáticas; peciolo estrechamente alado. Flores axilares, solitarias o en pequeños grupos, blancas, perfumadas. Fruto en hesperidio, con la corteza delgada y fina, el endocarpio membranoso provisto de numerosos tricomas jugosos. Semillas de color claro en cantidades variablesArbolito con espinas en las axilas de las hojas, estas alternas, rígidas y aromáticas; peciolo estrechamente alado. Flores axilares, solitarias o en pequeños grupos, blancas, perfumadas. Fruto en hesperidio, con la corteza delgada y fina, el endocarpio membranoso provisto de numerosos tricomas jugosos. Semillas de color claro en cantidades variables",
@@ -1591,7 +1657,8 @@
         "enfermedades": ["resfriado común", "gripe", "escorbuto"]
     },
 
-    "Nuez Moscada" : {
+    {
+        "nombre":  "Nuez Moscada" ,
         "nombre_cientifico" : "Myristica fragans Houtt",
         "familia" : "Myristicaceae", 
         "descripcion": "Árbol con las hojas blanquecinas en la cara inferior y con nervadura secundaria que confluye cerca del margen y la nervadura terciaria reticulada y aromática. Flores pediceladas, agrupadas en inflorescencias mayormente axilares; pétalos ausentes; filamentos connados formando una columna. Fruto carnoso y monospermo. Semillas ariladas",
@@ -1615,12 +1682,13 @@
         "enfermedades": ["insomnio", "ansiedad", "dolor de muelas", "afecciones intestinales"]
     },
 
-    "Orégano Cimarrón" : {
+    {
+        "nombre":  "Orégano Cimarrón",
         "nombre_cientifico" : "Ocimum gratissimum",
         "familia" : "Lamiaceae", 
         "descripcion": "Subarbusto de 1-2 m de altura. Hojas opuestas, aromáticas de hasta algo más de 10 cm de longitud, estrechadas hacia ambos extremos. Flores pequeñas, irregulares, blancas, agrupadas en espigas de 10-15 cm de longitud, situadas en el extremo de las ramas. Fruto en forma de una pequeña cápsula abierta en su extremo apical, conteniendo 4 semillas pardas",
         "propiedades" : {
-            "Hojas": ["antiespasmódica", "antigripal", "febrífuga", "vermífuga", "antidiarreica", "antiálgica", "antibiótica"]
+            "Hojas": ["antiespasmódica", "antigripal", "anticatarral", "febrífuga", "vermífuga", "antidiarreica", "antiálgica", "antibiótica"]
         },
         "componentes": {
             "Hojas": {
@@ -1644,7 +1712,8 @@
         "enfermedades": ["digestivas", "respiratorias", "dermatológicas", "ansiedad", "dolor de cabeza", "fiebre"]
     },
 
-    "Orégano Francés" : {
+    {
+        "nombre": "Orégano Francés",
         "nombre_cientifico" : "Coleus amboinicus Lour",
         "familia" : "Lamiaceae", 
         "descripcion": "Hierba carnosa, peloso-tomentosa, de olor fuerte, y en ocasiones hasta 1 m de altura. Hojas opuestas, anchamente aovadas, crenadas, de 4 a 10 cm de largo, pelosas en ambas caras y con la base decurrente en el peciolo. Flores agrupadas en verticilos, dispuestos en racimos terminales de 10 a 30 cm de largo; corola irregular, violácea; 4 estambres, en 2 pares y exhertos",
@@ -1667,7 +1736,8 @@
         "enfermedades": ["respiratorias", "digestivas", "inflamatorias"]
     },
 
-    "Oreja de Ratón" : {
+    {
+        "nombre":  "Oreja de Ratón",
         "nombre_cientifico" : "Centella erecta",
         "familia" : "Apiaceae", 
         "descripcion": "Hierba perenne con tallos de 2 a 5 cm de largo o más, postrados y enraiza en los nudos, los cuales emiten grupos de hojas con peciolos largos (3 a 30 cm). Hojas aovadas u orbiculares, algo gruesas, no peltadas, de 2 a 7 cm de diámetro y repando-dentadas. Las flores emergen junto a las hojas de los nudos, agrupadas en umbelas. Fruto de 4 a 5 mm de ancho y 3 mm de alto, acostillado y reticulado",
@@ -1687,7 +1757,8 @@
         "enfermedades": ["insuficiencia venosa", "úlceras venosas", "hemorroides", "celulitis", "estrías", "lepra"]
     },
 
-    "Palo Campeche" : {
+    {
+        "nombre": "Palo Campeche",
         "nombre_cientifico" : "Haematoxylon campechianum",
         "familia" : "Caesalpiniaceae", 
         "descripcion": "Árbol de hasta 8 metros de altura, provisto de espinas de entre 515 mm de longitud. Hojas compuestas de 510 cm de longitud, con 24 pares de folíolos obovados de superficie lustrosa. Flores amarillas en racimos axilares cortos (212 cm). Fruto en legumbre, muy delgada, de 25 cm de longitud, con las semillas dispuestas transversalmente",
@@ -1707,7 +1778,8 @@
         "enfermedades": ["diarrea", "disentería", "hemorragias", "úlceras", "heridas", "anemia", "amenorrea"]
     },
 
-    "Papa" : {
+    {
+        "nombre": "Papa",
         "nombre_cientifico" : "Solanum tuberosum",
         "familia" : "Solanaceae", 
         "descripcion": "Hierba con raíces tuberosas abultadas. Tallos aéreos erguidos, angulosos y frágiles. Hojas alternas vellosas, pinnatisectas, con los segmentos desiguales, membranosos. Flores largamente pedunculadas, situadas en pequeños grupos en la axila de las hojas; corola blanca o violácea, terminando en 5 lóbulos. Fruto carnoso verde amarillento al madurar",
@@ -1729,7 +1801,8 @@
         "enfermedades": ["anemia", "enfermedades cardiovasculares", "cáncer", "problemas digestivos", "enfermedades de la piel"]
     },
 
-    "Paraíso" : {
+    {
+        "nombre":  "Paraíso",
         "nombre_cientifico" : "Melia azedarach",
         "familia" : "Meliaceae", 
         "descripcion": "Árbol de hasta 15 m de altura, poco ramificado; corteza pardo-rojiza y resquebrajada cuando envejece. Hojas alternas, bipinnadas, pecioladas y caducas; foliolos numerosos, peciolados y aserrados de 3 a 7 cm de largo. Flores agrupadas en grandes panículas axilares y pedunculadas de 20 a 30 cm de longitud. Fruto drupáceo, monospermo, amarillo al madurar, de 1,5 a 2 cm de diámetro",
@@ -1756,7 +1829,8 @@
         "enfermedades": ["diabetes", "hipertensión", "malaria", "cáncer"]
     },
 
-    "Pasiflora" : {
+    {
+        "nombre": "Pasiflora",
         "nombre_cientifico" : "Passiflora incarnata",
         "familia" : "Passifloraceae", 
         "descripcion": "Liana rastrera o trepadora provista de zarcillos, con ramas finas algo leñosas. Hojas alternas, pecioladas, lobuladas. Flores axilares, mayormente solitarias, llamativas, violáceas. Fruto carnoso de unos 5 cm de diámetro, con la cubierta lisa y brillante, de color verde-amarillento al madurar. Semillas numerosas cubiertas de una pulpa resbalosa",
@@ -1781,7 +1855,8 @@
         "enfermedades": ["ansiedad", "insomnio", "dolor", "calambres menstruales", "síndrome del intestino irritable"]
     },
 
-    "Pino Macho" : {
+    {
+        "nombre": "Pino Macho" ,
         "nombre_cientifico" : "Pinus caribaea Morelet",
         "familia" : "Pinaceae", 
         "descripcion": "Árbol de hasta 30 m de altura con el tronco recto y poco ramificado. Hojas aciculares de 15-30 cm de longitud agrupadas en fascículos de a 3, muy aromáticas. Flores masculinas en conos pequeños en los extremos de las ramas, flores femeninas en conos de mayor tamaño, con escamas leñosas, situados en las partes más viejas de las ramas",
@@ -1804,7 +1879,8 @@
         "enfermedades": ["respiratorias", "digestivas", "asma", "bronquitis", "sinusitis", "infecciones urinarias", "problemas de la piel"]
     },
 
-    "Platanillo de Cuba" : {
+    {
+        "nombre": "Platanillo de Cuba",
         "nombre_cientifico" : "Piper ossanum",
         "familia" : "Piperaceae", 
         "descripcion": "Arbusto de 2 a 6 m de altura, con las ramas puberulentas o lampiñas. Hojas alternas, sencillas, enteras, con el limbo oblongo-elíptico, con puntos translúcidos, cartáceo, de 12 a 21 cm de largo y 3 a 8 cm de ancho, con un largo acumen en el ápice; base inequilatera. Flores diminutas en espigas amentiformes, opuestas a las hojas, encorvadas y verdosas; pedúnculos puberulentos. Baya subtetragona, finalmente lampiña",
@@ -1828,7 +1904,8 @@
         "enfermedades": ["respiratorias", "digestivas", "cutáneas", "impotencia", "infecciones vaginales", "cistitis"]
     },
 
-    "Plátano" : {
+    {
+        "nombre": "Plátano",
         "nombre_cientifico" : "Musa x paradissiaca",
         "familia" : "Musaceae", 
         "descripcion": "Hierba robusta de hasta 10 m de altura e izomatosa. Hojas fuertes y bien desarrolladas, peciolos envainadores que conforman el falso tallo aéreo, limbo de 1 a 2 m de largo y 35 a 60 cm de ancho, rasgándose en tiras perpendiculares al eje central. Flores unisexuales, dispuestas en semiverticilos sobre un robusto eje pendular de hasta 1 m de altura; las flores inferiores son femeninas y las superiores, masculinas. Fruto carnoso",
@@ -1853,7 +1930,8 @@
         "enfermedades": ["estreñimiento", "diarrea", "úlceras"]
     },
 
-    "Quimbombó" : {
+    {
+        "nombre": "Quimbombó",
         "nombre_cientifico" : "Hibiscus esculentus",
         "familia" : "Malvaceae", 
         "descripcion": "Hierba anual, erguida, de 1 a 2 m de altura y poco ramificada e hirsuta. Hojas alternas, orbiculares, de 20 a 30 cm de diámetro, de 5 a 7 lóbulos pronunciados, lóbulos lanceolados u obovados y aserrados. Flores solitarias, axilares o terminales; 5 pétalos, anchos, amarillos, purpúreos en la base. Fruto capsular, globoso, anguloso y forma variable según el tipo de cultivo",
@@ -1885,7 +1963,8 @@
         "enfermedades": ["diabetes", "colesterol alto", "estreñimiento", "inflamación"]
     },
 
-    "Rabo de Gato" : {
+    {
+        "nombre": "Rabo de Gato",
         "nombre_cientifico" : "Achyranthes aspera",
         "familia" : "Amaranthaceae", 
         "descripcion": "Hierba de hasta 1 m de altura, con los tallos cuadrangulares y pelosos, poco ramificados. Hojas aovadas de entre 420 cm de longitud, opuestas, con pecíolos de hasta 2,5 cm de longitud. Flores pequeñas y poco significativas, en finas espigas terminales de hasta 30 cm de longitud",
@@ -1908,7 +1987,8 @@
         "enfermedades": ["diarrea", "disentería", "hemorroides", "infecciones urinarias", "problemas hepáticos", "úlceras estomacales", "mordeduras de serpientes"]
     },
 
-    "Remolacha" : {
+    {
+        "nombre": "Remolacha",
         "nombre_cientifico" : "Beta vulgaris",
         "familia" : "Chenopodíaceae", 
         "descripcion": "Hierba bienal, con los tallos de hasta 1,25 m de altura. Hojas sencillas, pecioladas, aovadas u oblongas, se convierten brácteas lineales en la inflorescencia. Flores pequeñas, numerosas, verdosas, agrupadas en una panícula terminal grande y difusa; corola ausente; cáliz persistente; ovario 1-locular. Fruto en utrículo",
@@ -1934,7 +2014,8 @@
         "enfermedades": ["anemia", "hipertensión", "estreñimiento", "infecciones urinarias", "enfermedades hepáticas", "problemas digestivos", "inflamación"]
     },
 
-    "Romerillo" : {
+    {
+        "nombre": "Romerillo",
         "nombre_cientifico" : "Bidens pilosa",
         "familia" : "Asteraceae", 
         "descripcion": "Hierba anual, lampiña o algo pubescente, de 30 a 100 cm de altura y más o menos ramificada. Hojas opuestas, a veces alternas en la parte superior, pecioladas, 3-partidas; segmentos aovados o lanceolados y aserrados. Cabezuelas florales terminales, compuestas por flores tubulares de color amarillo intenso y las radiales con sobresalientes pétalos blancos. Aquenio, provisto de vilano",
@@ -1964,7 +2045,8 @@
         "enfermedades": ["respiratorias", "digestivas", "piel"]
     },
 
-    "Romero" : {
+    {
+        "nombre":  "Romero",
         "nombre_cientifico" : "Rosmarinus officinalis",
         "familia" : "Lamiaceae", 
         "descripcion": "Arbusto perenne, ramoso, generalmente de menos de 1 m de altura. Hojas finas, como agujas, pero flexibles, de colorverde oscuro en la parte superior, grisáceo en la inferior, aromáticas. Flores pequeñas, irregulares, entre blanco y azul pálido, solitarias o en pequeños grupos situados en el punto de unión de la hoja con la rama",
@@ -1986,7 +2068,8 @@
         "enfermedades": ["digestivas", "respiratorias", "circulatorias", "nerviosas"]
     },
 
-    "Ruda" : {
+    {
+        "nombre":  "Ruda",
         "nombre_cientifico" : "Ruta graveolens",
         "familia" : "Rutaceae", 
         "descripcion": "Hierba lampiña, algo leñosa en la base, glauca, de olor fuerte y desagradable, de 30 a 60 cm de altura o más. Hojas alternas, bi o tri-pinnado-partidas, punteado-glandular, los segmentos lineales, elípticos u obovados. Flores en grupo terminales; corola de 4 o 5 pétalos amarillos. Fruto capsular, 4 a 5 lóculos, de 7 a 9 cm de ancho",
@@ -2009,7 +2092,8 @@
         "enfermedades": ["digestivas", "menstruales", "nerviosas", "piel", "circulatorias", "cardiovasculares"]
     },
 
-    "Sábila" : {
+    {
+        "nombre": "Sábila",
         "nombre_cientifico" : "Aloe vera",
         "familia" : "Liliaceae", 
         "descripcion": "Hierba perenne, sin tallo aparente. Hojas carnosas, lanceoladas, agrupadas formando una roseta. Flores tubulares, amarillas, dispuestas en una espiga que se sitúa en el extremo de un tallo erguido (escapo) que sobresale marcadamente por sobre las hojas",
@@ -2030,7 +2114,8 @@
         "enfermedades": ["quemaduras", "heridas", "acné", "psoriasis", "artritis"]
     },
 
-    "Sagú" : {
+    {
+        "nombre": "Sagú",
         "nombre_cientifico" : "Maranta arundinacea",
         "familia" : "Marantaceae", 
         "descripcion": "Hierba de tallos subterráneos (rizomas) escamosos, horizontales; tallos aéreos delgados, ramificados, ocasionalmente de más de 1 m de altura. Presenta hojas basales y hojas caulinares alternas de peciolos envainadores y lámina generalmente aovada de 6-25 cm de longitud y 3-10 cm de ancho. Flores poco vistosas, en pares, dispuestas en racimos en el extremo de los tallos",
@@ -2052,12 +2137,13 @@
           },
         "advertencias": null, 
         "posologia": {
-            "Decocción": "Hervir por 10 minutos 20-30 g de rizomas frescos en 1 litro de agua. Tomar 120 ml, 6 veces al día."
+            "Decocción": "Hervir por 10 minutos 20-30 g de rizomas frescos en 1 litro de agua. Tomar 120 ml, 6 veces al día"
         },
         "enfermedades": ["diarrea", "disentería", "heridas", "digestivas", "gangrena"]
     },
 
-    "Salvia" : {
+    {
+        "nombre":  "Salvia",
         "nombre_cientifico" : "Pluchea carolinensis",
         "familia" : "Asteraceae", 
         "descripcion": "Arbusto muy ramoso de 3 a 4 m de altura con las ramas tomentosas. Hojas elípticas hasta lanceoladas, enteras, estrechas hacia la base, ásperas, de 5 a 20 cm de largo y 2,5 a 8 cm de ancho. Cabezuelas agrupadas en el extremo de las ramas con el pedúnculo y el involucro densamente pubescente; receptáculo plano; flores blanquecinas o rosadas. Aquenios con 4 a 5 ángulos; vilano blanco",
@@ -2077,7 +2163,8 @@
         "enfermedades": ["respiratorias", "digestivas"]
     },
 
-    "Salvia de Castilla" : {
+    {
+        "nombre": "Salvia de Castilla",
         "nombre_cientifico" : "Salvia officinalis",
         "familia" : "Lamiaceae", 
         "descripcion": "Hierba de tallos leñosos en la base, de alrededor de 30 cm de altura. Hojas puestas pecioladas, aovadas u oblongas, con el borde finamente dentado y la superficie rugosa y de color verde-grisáceo. Flores en racimos en el extremo de la ramas; corola violácea, irregular. Fruto en forma de cápsula",
@@ -2101,7 +2188,8 @@
         "enfermedades": ["digestivas", "respiratorias", "cutáneas", "nerviosas"]
     },
 
-    "Siempreviva" : {
+    {
+        "nombre": "Siempreviva",
         "nombre_cientifico" : "Kalanchoe pinnata",
         "familia" : "Crassulaceae", 
         "descripcion": "Hierba carnosa, erguida, lampiña, de hasta 1,5 m de altura y poco ramificada. Hojas decusadas, simples o pinnado-compuestas, foliolos oblongos, aovados o elípticos, fuertemente crenados, de hasta 15 cm de largo y 7 cm de ancho; peciolos de hasta 4 cm de largo. Flores agrupadas en panículas terminales de hasta 50 cm de largo; corola campanulada, rojiza, 4-lóbulos; estambres en 2 series de 4. Semillas numerosas",
@@ -2121,7 +2209,8 @@
         "enfermedades": ["quemaduras", "heridas", "eccemas", "infecciones"]
     },
 
-    "Tabaco" : {
+    {
+        "nombre": "Tabaco",
         "nombre_cientifico" : "Nicotiana tabacum",
         "familia" : "Solanaceae", 
         "descripcion": "Hierba robusta de 1-3 m de altura. Hojas alternas, carentes de peciolos (sentadas), grandes, membranosas, mayormente oblongas. Flores en panojas terminales y axilares; corola blanca o rosada, en forma de embudo, de hasta 5 cm de longitud. Fruto capsular, subgloboso, de alrededor de 1,5 cm de diámetro, parcialmente cubierto por el cáliz persistente",
@@ -2141,12 +2230,13 @@
           },
         "advertencias": "La nicotina, presente en las hojas entre 2-10 %, es un alcaloide altamente tóxico. La dosis letal para el hombre es de 0,04-0,06 g. Se absorbe rápidamente por vía transdermal", 
         "posologia": {
-            "Natural": "Se friccionan las hojas frescas directamente sobre la zona afectada. Repetir la operación tantas veces como sea necesario."
+            "Natural": "Se friccionan las hojas frescas directamente sobre la zona afectada. Repetir la operación tantas veces como sea necesario"
         },
         "enfermedades": ["dermatológicas"]
     },
 
-    "Tamarindo" : {
+    {
+        "nombre": "Tamarindo",
         "nombre_cientifico" : "Tamarindus indica",
         "familia" : "Caesalpiniaceae", 
         "descripcion": "Árbol de madera dura, hasta 20 m de altura. Hojas compuestas que alcanzan hasta 12 cm de longitud, formadas por 10-20 pares de foliolos relativamente pequeños (12-20 mm). Flores pequeñas en racimos más cortos que hojas; estambres más largos que flores. Fruto en legumbre de 5-15 cm de longitud, con el mesocarpio pulposo, ácido, tabicado entre semillas, de alrededor de 1 cm",
@@ -2176,7 +2266,8 @@
         "enfermedades": ["estreñimiento", "fiebre", "infecciones", "dermatológicas"]
     },
 
-    "Té de Riñón" : {
+    {
+        "nombre": "Té de Riñón",
         "nombre_cientifico" : "Orthosiphon aristaus Blume",
         "familia" : "Lamiaceae", 
         "descripcion": "Hierba semileñosa, muy ramificada, de hasta 50 cm de altura. Tallos angulosos de coloración violácea. Hojas opuestas, estrechadas hacia la base y con el margen aserrado hacia la mitad superior. Flores vistosas, blancas a violáceas, en espigas terminales de unos 20 cm de longitud. Estambres sobresalen de manera notable por fuera de la corola",
@@ -2197,7 +2288,8 @@
         "enfermedades": ["infecciones del tracto urinario", "cálculos renales", "retención de líquidos"]
     },
 
-    "Tilo" : {
+    {
+        "nombre": "Tilo",
         "nombre_cientifico" : "Justicia pectoralis",
         "familia" : "Acanthaceae", 
         "descripcion": "Hierba de ramas delgadas, rastreras y ligeramente engrosadas en los nudos en la variedad tipo, erguidas y poco ramificadas en la variedad stenophylla. Hojas opuestas, lanceoladas, aromáticas. Flores irregulares, con la corola violácea, dispuestas en panículas terminales. Fruto en cápsula",
@@ -2224,7 +2316,8 @@
         "enfermedades": ["resfriado", "gripe", "ansiedad", "insomnio"]
     },
 
-    "Tomate" : {
+    {
+        "nombre": "Tomate",
         "nombre_cientifico" : "Lycopersicon esculentum",
         "familia" : "Solanaceae", 
         "descripcion": "Hierba de tamaño variable, en general de entre 5 y 3 cm de altura. Hojas alternas pinnatisectas, con 7-9 segmentos mayores, lobulados o aserrados. Flores en racimos axilares o terminales, corona regular, amarilla, terminado en 5 puntas. Fruto carnoso, rojo al madurar, conteniendo semillas reniformes",
@@ -2246,12 +2339,13 @@
         },
         "advertencias": "Reportado como planta tóxica (follaje)", 
         "posologia": {
-            "Natural": "Friccionar o restregar las hojas o rodajas de los frutos directamente sobre las partes afectadas."
+            "Natural": "Friccionar o restregar las hojas o rodajas de los frutos directamente sobre las partes afectadas"
         },
         "enfermedades": ["cáncer", "enfermedades cardiovasculares", "enfermedades oculares", "dermatológicas"]
     },
 
-    "Toronjil" : {
+    {
+        "nombre": "Toronjil",
         "nombre_cientifico" : "Melissa officinalis",
         "familia" : "Lamiaceae", 
         "descripcion": "Hierba perenne de entre 20 y 30 cm de altura, con el follaje verde claro y con característico olor a cítrico. Los finos tallos son cuadrangulares y pelosos, en los que se disponen las hojas en pares opuestos, las que a su vez se caracterizan por ser aovadas y por tener el borde crenado",
@@ -2273,7 +2367,8 @@
         "enfermedades": ["estrés", "ansiedad", "insomnio", "indigestión"]
     },
 
-    "Toronjil de Menta" : {
+    {
+        "nombre": "Toronjil de Menta",
         "nombre_cientifico" : "Mentha x piperita",
         "familia" : "Lamiaceae", 
         "descripcion": "Hierba perenne de hasta 60 cm. de altura, con fuerte olor a mentol. Ramas cuadrangulares con coloración violácea cuando es cultivada a sol directo. Hojas opuestas, lanceoladas, de venación prominente y borde dentado. Flores pequeñas, violáceas, agrupados en espigas situadas en el extremo de ramas erguidas",
@@ -2295,7 +2390,8 @@
         "enfermedades": ["digestivas", "nerviosas", "respiratorias"]
     },
 
-    "Verbena Cimarrona" : {
+    {
+        "nombre": "Verbena Cimarrona" ,
         "nombre_cientifico" : "Stachytarpheta jamaicensis",
         "familia" : "Verbenaceae", 
         "descripcion": "Hierba a menudo purpúrea, de 60 a 120 cm de altura, pelos dispersos a lampiña. Hojas alternas u opuestas, oblongas, de 2 a 8 cm de largo, aserradas y estrecha hacia la base; peciolos marginados, de igual longitud que el limbo o más cortos. Flores agrupadas en espigas terminales de hasta 50 cm de largo, empotradas en la axila de las bracteas; corola tubular violácea. Fruto incluido en el caliz y hundido en el raquis",
@@ -2312,7 +2408,8 @@
         "enfermedades": ["resfriados", "gripe", "fiebre", "diarrea"]
     },
 
-    "Vetiver" : {
+    {
+        "nombre": "Vetiver",
         "nombre_cientifico" : "Vetiveria zizanoides",
         "familia" : "Poaceae", 
         "descripcion": "Gramínea de raíces aromáticas. Follaje de hasta 2 m de altura. Hojas de hasta 90 cm de longitud y de 1 cm o menos de anchura. Flores en panículas de entre 20-30 cm de longitud, situadas en el extremo de las ramas",
@@ -2329,12 +2426,13 @@
         },
         "advertencias": null, 
         "posologia": {
-            "Decocción" : "Preparar una decocción con aproximadamente 25 g de raíces por 1l de agua. Hervir por no menos de 10 min."
+            "Decocción" : "Preparar una decocción con aproximadamente 25 g de raíces por 1l de agua. Hervir por no menos de 10 min"
         },
         "enfermedades": ["estrés", "ansiedad", "insomnio", "trastornos digestivos", "fiebre", "infecciones", "heridas"]
     },
 
-    "Vicaria" : {
+    {
+        "nombre": "Vicaria",
         "nombre_cientifico" : "Catharanthus roseus",
         "familia" : "Apocynaceae", 
         "descripcion": "Hierba leñosa, muy ramificada, de hasta 80 cm. de altura. Hojas opuestas color verde oscuro, brillantes en la parte superior, cortamente pecioladas. flores relativamente grandes, axilares, solitarias o en pequeños grupos; corola de coloración variable, entre blanco y violeta. Fruto en folículo, dehiscente, verde carmelita al madurar, conteniendo muchas semillas de color negro",
@@ -2353,12 +2451,13 @@
         },
         "advertencias": null, 
         "posologia": {
-            "Decocción": "Hervir por no menos de 5 min. un puñado de flores frescas por litro de agua. Al enfriar colocar con algodones sobre los ojos."
+            "Decocción": "Hervir por no menos de 5 min. un puñado de flores frescas por litro de agua. Al enfriar colocar con algodones sobre los ojos"
         },
         "enfermedades": ["oculares", "dermatológicas", "leucemia", "linfoma de Hodgkin", "enfermedad de Hodgkin", "sarcoma de Kaposi"]
     },
 
-    "Violeta" : {
+    {
+        "nombre": "Violeta",
         "nombre_cientifico" : "Viola odorata",
         "familia" : "Violaceae", 
         "descripcion": "Hierba perenne, acaule, de unos 15 cm de altura. Hojas sencillas, enteras, con peciolos largos, suborbiculares, con el margen crenado. Flores axilares, largamente pedunculadas; 5 sépalos; 5 pétalos, desiguales, violáceos y fragantes. Fruto capsular, indehiscente",
@@ -2386,7 +2485,8 @@
         "enfermedades": ["tos", "bronquitis", "asma", "insomnio", "ansiedad", "eccemas", "heridas"]
     },
 
-    "Yerba de la Niña" : {
+    {
+        "nombre": "Yerba de la Niña",
         "nombre_cientifico" : "Phyllantus",
         "familia" : "Euphorbiaceae", 
         "descripcion": "El género Phyllantus se caracteriza por ser mayormente hierbas de hojas enteras, alternas, raras veces opuestas y avances que semejan con las ramas una hoja pinnada. Posee flores monoicas, apétalas, pequeñas, axilares o raras veces en la unión entre las ramas. Fruto en cápsula, seco o carnoso que suele abrirse en dos nuecesillas. Las semillas son transversalmente angulosas",
@@ -2410,7 +2510,8 @@
         "enfermedades": ["hepatitis", "malaria", "diarrea", "infecciones urinarias", "cáncer", "diabetes"]
     },
 
-    "Yuca" : {
+    {
+        "nombre":  "Yuca",
         "nombre_cientifico" : "Manihot esculenta",
         "familia" : "Euphorbiaceae", 
         "descripcion": "Arbusto de entre 2-3 m. de altura, provisto de raíces tuberosas alargadas. Hojas alternas largamente pecioladas, limbo 3-5 partido, segmentos de entre 8-15 cm. de longitud. Flores en racimos ramificados, las femeninas en la base, pocas con el cáliz más corto que en las masculinas. Fruto en cápsula de alrededor de 1,5 cm. de diámetro estrechamente alado",
@@ -2438,10 +2539,11 @@
         "enfermedades": ["digestivas", "artritis", "heridas"]
     },
 
-    "Zanahoria": {
+    {
+        "nombre":  "Zanahoria",
         "nombre_cientifico" : "Daucus carota subsp. sativus",
         "familia" : "Apiaceae", 
-        "descripcion": "Hortaliza que consiste en una raíz comestible engrosada de color naranja, con un diámetro que oscila entre los 2 y los 10 cm. Las hojas son de color verde oscuro y están muy divididas, con folíolos estrechos y puntiagudos. Las flores son pequeñas y blancas, y se agrupan en umbelas. Las semillas son pequeñas y de color marrón oscuro.",
+        "descripcion": "Hortaliza que consiste en una raíz comestible engrosada de color naranja, con un diámetro que oscila entre los 2 y los 10 cm. Las hojas son de color verde oscuro y están muy divididas, con folíolos estrechos y puntiagudos. Las flores son pequeñas y blancas, y se agrupan en umbelas. Las semillas son pequeñas y de color marrón oscuro",
         "propiedades" : {
             "Raíz": ["anticancerígena", "antioxidante", "diurética", "remineralizante"]
         },
@@ -2457,4 +2559,556 @@
         "posologia": null,
         "enfermedades": ["oculares", "digestivas", "cardiovasculares", "dermatológicas"]
     }
+    ],
+
+    "propiedades": [
+        {
+          "nombre": "antitusiva",
+          "descripcion": "alivia la tos seca e irritante, sin flema"
+        },
+        {
+          "nombre": "carminativa",
+          "descripcion": "previene y expulsa los gases, aliviando la hinchazón y flatulencia (pedos)"
+        },
+        {
+          "nombre": "antidiarreica",
+          "descripcion": "reduce la frecuencia y volumen de las deposiciones, para tratar la diarrea"
+        },
+        {
+          "nombre": "antigripal",
+          "descripcion": "combate los síntomas de gripe y resfriado, como fiebre, dolor de cabeza, dolor muscular y nariz tapada"
+        },
+        {
+          "nombre": "diurética",
+          "descripcion": "favorece la producción de orina para eliminar líquidos y toxinas del cuerpo"
+        },
+        {
+          "nombre": "colagoga",
+          "descripcion": "estimula la producción y expulsión de bilis, facilitando la digestión de las grasas"
+        },
+        {
+          "nombre": "depurativa",
+          "descripcion": "limpia y purifica el cuerpo, eliminando toxinas y desechos"
+        },
+        {
+          "nombre": "estomáquica",
+          "descripcion": "fortalece y mejora la función del estómago, aliviando malestares estomacales"
+        },
+        {
+          "nombre": "afrodisíaca",
+          "descripcion": "aumenta el deseo y el rendimiento sexual"
+        },
+        {
+          "nombre": "emoliente",
+          "descripcion": "suaviza e hidrata la piel, calmando la sequedad, irritación y picazón"
+        },
+        {
+          "nombre": "antiinflamatoria",
+          "descripcion": "reduce la inflamación y alivia el dolor en diversas afecciones"
+        },
+        {
+          "nombre": "antianginosa",
+          "descripcion": "previene y trata el dolor torácico causado por problemas de circulación sanguínea al corazón"
+        },
+        {
+          "nombre": "digestiva",
+          "descripcion": "facilita la digestión, aliviando indigestiones, acidez, gases y estreñimiento"
+        },
+        {
+          "nombre": "cardio-circulatoria",
+          "descripcion": "mejora la salud del corazón y la circulación, regulando la presión arterial y el ritmo cardíaco"
+        },
+        {
+          "nombre": "antihemorroidal",
+          "descripcion": "reduce el dolor, picazón e hinchazón de las hemorroides"
+        },
+        {
+          "nombre": "antiespasmódica",
+          "descripcion": "calma los espasmos musculares, como cólicos y calambres"
+        },
+        {
+          "nombre": "antihelmíntica",
+          "descripcion": "expulsa gusanos parásitos del intestino"
+        },
+        {
+          "nombre": "antiamebiana",
+          "descripcion": "elimina las amebas, causantes de la disentería"
+        },
+        {
+          "nombre": "expectorante",
+          "descripcion": "ayuda a expulsar flemas y mucosidad de los pulmones"
+        },
+        {
+          "nombre": "antiasmática",
+          "descripcion": "alivia los síntomas del asma, como sibilancias, dificultad para respirar y tos"
+        },
+        {
+          "nombre": "antibacteriana",
+          "descripcion": "elimina o inhibe el crecimiento de bacterias"
+        },
+        {
+          "nombre": "antitrombótica",
+          "descripcion": "previene o reduce la formación de coágulos sanguíneos"
+        },
+        {
+          "nombre": "antihipercolesterolémica",
+          "descripcion": "Baja los niveles de colesterol en la sangre"
+        },
+        {
+          "nombre": "tónica",
+          "descripcion": "fortalece y revitaliza el cuerpo, mejorando el bienestar general"
+        },
+        {
+          "nombre": "antiparasitaria",
+          "descripcion": "elimina parásitos del cuerpo, como piojos, garrapatas y gusanos"
+        },
+        {
+          "nombre": "hipotensor",
+          "descripcion": "reduce la presión arterial"
+        },
+        {
+          "nombre": "hipoglicemiante",
+          "descripcion": "reduce los niveles de azúcar en la sangre"
+        },
+        {
+          "nombre": "analgésica",
+          "descripcion": "alivia el dolor"
+        },
+        {
+          "nombre": "antiartrítica",
+          "descripcion": "alivia los síntomas de la artritis, como dolor, hinchazón y rigidez"
+        },
+        {
+          "nombre": "antiséptica",
+          "descripcion": "previene o inhibe el crecimiento de microorganismos"
+        },
+        {
+          "nombre": "antihistamínica",
+          "descripcion": "Bloquea los efectos de la histamina, un químico involucrado en las reacciones alérgicas"
+        },
+        {
+          "nombre": "cardiotónica",
+          "descripcion": "fortalece el músculo cardíaco, mejorando su función"
+        },
+        {
+          "nombre": "estimulante",
+          "descripcion": "aumenta la actividad física o mental"
+        },
+        {
+          "nombre": "galactogoga",
+          "descripcion": "aumenta la producción de leche materna"
+        },
+        {
+          "nombre": "antipirética",
+          "descripcion": "reduce la fiebre"
+        },
+        {
+          "nombre": "hepatoprotectora",
+          "descripcion": "protege el hígado del daño"
+        },
+        {
+          "nombre": "sedante",
+          "descripcion": "produce somnolencia o relajación"
+        },
+        {
+          "nombre": "hipotensora",
+          "descripcion": "disminuye la presión arterial"
+        },
+        {
+          "nombre": "antipruriginosa",
+          "descripcion": "alivia la picazón"
+        },
+        {
+          "nombre": "antineurálgica",
+          "descripcion": "alivia el dolor causado por daño a los nervios"
+        },
+        {
+          "nombre": "antirreumática",
+          "descripcion": "reduce la inflamación y el dolor en las articulaciones"
+        },
+        {
+          "nombre": "antiherpética",
+          "descripcion": "trata las infecciones causadas por el virus del herpes"
+        },
+        {
+          "nombre": "anticancerosa",
+          "descripcion": "trata o previene el cáncer"
+        },
+        {
+          "nombre": "dermatológica",
+          "descripcion": "trata afecciones de la piel"
+        },
+        {
+          "nombre": "aperitiva",
+          "descripcion": "estimula el apetito"
+        },
+        {
+          "nombre": "emenagoga",
+          "descripcion": "promueve el flujo menstrual"
+        },
+        {
+          "nombre": "astringente",
+          "descripcion": "contrae los tejidos y reduce la secreción"
+        },
+        {
+          "nombre": "febrífuga",
+          "descripcion": "reduce la fiebre"
+        },
+        {
+          "nombre": "antiepiléptica",
+          "descripcion": "previene o reduce las convulsiones"
+        },
+        {
+          "nombre": "insecticida",
+          "descripcion": "mata o repele insectos"
+        },
+        {
+          "nombre": "antiulcerosa",
+          "descripcion": "protege o cura las úlceras del tracto digestivo"
+        },
+        {
+          "nombre": "antipalúdica",
+          "descripcion": "previene o trata la malaria"
+        },
+        {
+          "nombre": "purgante",
+          "descripcion": "estimula la evacuación intestinal"
+        },
+        {
+          "nombre": "antiodontálgica",
+          "descripcion": "alivia el dolor de muelas"
+        },
+        {
+          "nombre": "refrescante",
+          "descripcion": "creas sensación de frescura o alivio en la piel, las mucosas o el tracto digestivo"
+        },
+        {
+          "nombre": "hepatotropa",
+          "descripcion": "protege el hígado de daños"
+        },
+        {
+          "nombre": "anticonceptiva",
+          "descripcion": "previenen el embarazo bloqueando la ovulación o impidiendo la fecundación del óvulo"
+        },
+        {
+          "nombre": "antitumoral",
+          "descripcion": "inhiben el crecimiento y la proliferación de células tumorales"
+        },
+        {
+          "nombre": "sialagoga",
+          "descripcion": "aumentan la producción de saliva"
+        },
+        {
+          "nombre": "descongestionante hepático",
+          "descripcion": "favorecen la eliminación de toxinas del hígado y mejoran su función"
+        },
+        {
+          "nombre": "Otálgica",
+          "descripcion": "alivian el dolor de oído"
+        },
+        {
+          "nombre": "antialopética",
+          "descripcion": "combaten la alopecia, la pérdida anormal del cabello"
+        },
+        {
+          "nombre": "antiveneno",
+          "descripcion": "Neutralizan los efectos tóxicos de las mordeduras y picaduras de animales venenosos"
+        },
+        {
+          "nombre": "antiinfecciosa",
+          "descripcion": "combaten las infecciones causadas por microorganismos como bacterias, virus, hongos y parásitos"
+        },
+        {
+          "nombre": "antiebreítica",
+          "descripcion": "reducen la fiebre"
+        },
+        {
+          "nombre": "antialopécica",
+          "descripcion": "previenen o tratan la caída del cabello"
+        },
+        {
+          "nombre": "antialmorránica",
+          "descripcion": "alivian los síntomas de las hemorroides, como el dolor, la picazón y el sangrado"
+        },
+        {
+          "nombre": "espasmolítica",
+          "descripcion": "relajan los músculos lisos, aliviando los espasmos y el dolor asociados"
+        },
+        {
+          "nombre": "antilitiásica",
+          "descripcion": "previenen o disuelven los cálculos renales y biliares"
+        },
+        {
+          "nombre": "hipotérmica",
+          "descripcion": "disminuyen la temperatura corporal"
+        },
+        {
+          "nombre": "analéptica",
+          "descripcion": "estimulan el sistema nervioso central, produciendo efectos excitantes o tónicos"
+        },
+        {
+          "nombre": "drástica",
+          "descripcion": "purgantes que producen evacuaciones intestinales abundantes y acuosas"
+        },
+        {
+          "nombre": "absorbente",
+          "descripcion": "absorben sustancias, como toxinas o gases, del tracto gastrointestinal"
+        },
+        {
+          "nombre": "antidisentérica",
+          "descripcion": "combaten la disentería, una infección intestinal que causa diarrea con sangre y moco"
+        },
+        {
+          "nombre": "hipostenizante",
+          "descripcion": "debilitan o reducen la fuerza del organismo"
+        },
+        {
+          "nombre": "entérica",
+          "descripcion": "actúan sobre el intestino"
+        },
+        {
+          "nombre": "detersiva",
+          "descripcion": "limpian o purifican"
+        },
+        {
+          "nombre": "madurativa",
+          "descripcion": "aceleran la maduración de abscesos u otras lesiones"
+        },
+        {
+          "nombre": "antiesclerótica",
+          "descripcion": "previenen o reducen el endurecimiento de las arterias (esclerosis)"
+        },
+        {
+          "nombre": "anticancerígena",
+          "descripcion": "inhiben o destruyen las células cancerosas"
+        },
+        {
+          "nombre": "antioxidante",
+          "descripcion": "protegen las células del daño causado por los radicales libres"
+        },
+        {
+          "nombre": "remineralizante",
+          "descripcion": "aportan minerales esenciales para el cuerpo, como calcio, magnesio o potasio"
+        },
+        {
+          "nombre": "energética",
+          "descripcion": "aportan energía rápida y sostenida"
+        },
+        {
+          "nombre": "saciante",
+          "descripcion": "proporcionan una sensación de saciedad duradera, ayudando a controlar el apetito"
+        },
+        {
+          "nombre": "prebiótica",
+          "descripcion": "promueven el crecimiento de bacterias beneficiosas en el intestino"
+        },
+        {
+          "nombre": "eupeptica",
+          "descripcion": "facilitan la digestión y absorción de nutrientes. estimula la secreción de los jugos gástricos"
+        },
+        {
+          "nombre": "cosmética",
+          "descripcion": "limpia y embellece la piel del cutis"
+        },
+        {
+          "nombre": "antieemética",
+          "descripcion": "previene o reduce las náuseas y los vómitos"
+        },
+        {
+          "nombre": "antivenérea",
+          "descripcion": "combate las enfermedades de transmisión sexual"
+        },
+        {
+          "nombre": "hemostática",
+          "descripcion": "detiene o reduce el sangrado"
+        },
+        {
+          "nombre": "antiictérica",
+          "descripcion": "combate o previene la ictericia (coloración amarillenta de la piel y los ojos)"
+        },
+        {
+          "nombre": "díaforética",
+          "descripcion": "promueve la sudoración"
+        },
+        {
+          "nombre": "colerética",
+          "descripcion": "estimula la producción de bilis por el hígado"
+        },
+        {
+          "nombre": "citostática",
+          "descripcion": "inhibe o detiene el crecimiento y la división celular"
+        },
+        {
+          "nombre": "Vulneraria",
+          "descripcion": "promueve la cicatrización de heridas"
+        },
+        {
+          "nombre": "antidismenorreica",
+          "descripcion": "alivia los cólicos menstruales"
+        },
+        {
+          "nombre": "resolutiva",
+          "descripcion": "ayuda a disolver o dispersar acumulaciones anormales"
+        },
+        {
+          "nombre": "antihipertensiva",
+          "descripcion": "disminuye la presión arterial"
+        },
+        {
+          "nombre": "antifúngica",
+          "descripcion": "combate las infecciones causadas por hongos"
+        },
+        {
+          "nombre": "anticatarral",
+          "descripcion": "alivia los síntomas del catarro"
+        },
+        {
+          "nombre": "ansiolítica",
+          "descripcion": "alivia la ansiedad"
+        },
+        {
+          "nombre": "laxante",
+          "descripcion": "facilita la evacuación intestinal"
+        },
+        {
+          "nombre": "pectoral",
+          "descripcion": "alivia las afecciones del pecho y los pulmones"
+        },
+        {
+          "nombre": "hematopéytica",
+          "descripcion": "estimula la producción de células sanguíneas"
+        },
+        {
+          "nombre": "antiescorbútica",
+          "descripcion": "previene o trata el escorbuto, una enfermedad causada por la deficiencia de vitamina c"
+        },
+        {
+          "nombre": "larvicida",
+          "descripcion": "mata o impide el desarrollo de larvas de insectos"
+        },
+        {
+          "nombre": "Vermicida",
+          "descripcion": "mata o expulsa gusanos parásitos del cuerpo"
+        },
+        {
+          "nombre": "Odontálgica",
+          "descripcion": "alivia el dolor de muelas u otros dolores dentales"
+        },
+        {
+          "nombre": "Vasoconstrictora",
+          "descripcion": "estrecha los vasos sanguíneos, reduciendo el flujo sanguíneo"
+        },
+        {
+          "nombre": "Broncodilatadora",
+          "descripcion": "dilata los bronquios, facilitando la respiración"
+        },
+        {
+          "nombre": "antihepatotóxica",
+          "descripcion": "protege el hígado del daño"
+        },
+        {
+          "nombre": "antimicrobiana",
+          "descripcion": "mata o inhibe el crecimiento de microorganismos como bacterias, virus y hongos"
+        },
+        {
+          "nombre": "Bactericida",
+          "descripcion": "mata bacterias"
+        },
+        {
+          "nombre": "anticonvulsivante",
+          "descripcion": "previene o trata las convulsiones (ataques epilépticos)"
+        },
+        {
+          "nombre": "corroborante",
+          "descripcion": "fortalece o tonifica el cuerpo o una parte específica del cuerpo"
+        },
+        {
+          "nombre": "Vermífuga",
+          "descripcion": "expulsa gusanos parásitos del cuerpo"
+        },
+        {
+          "nombre": "hipostenizante gástrico",
+          "descripcion": "reduce la acidez del estómago"
+        },
+        {
+          "nombre": "antitusígena",
+          "descripcion": "suprime o alivia la tos"
+        },
+        {
+          "nombre": "cáustica",
+          "descripcion": "causa quemaduras o irritación en la piel u otros tejidos al contacto"
+        },
+        {
+          "nombre": "antiforunculosa",
+          "descripcion": "trata o previene los forúnculos (infecciones de los folículos pilosos)"
+        },
+        {
+          "nombre": "antidiabética",
+          "descripcion": "trata o previene la diabetes (una enfermedad que afecta la forma en que el cuerpo utiliza el azúcar"
+        },
+        {
+          "nombre": "antiviral",
+          "descripcion": "trata o previene infecciones causadas por virus"
+        },
+        {
+          "nombre": "cicatrizante",
+          "descripcion": "ayuda a curar heridas y lesiones"
+        },
+        {
+          "nombre": "calmante",
+          "descripcion": "alivia el dolor y la inflamación"
+        },
+        {
+          "nombre": "Narcótica",
+          "descripcion": "alivia el dolor intenso y puede causar somnolencia o adicción"
+        },
+        {
+          "nombre": "pediculicida",
+          "descripcion": "mata los piojos y sus huevos"
+        },
+        {
+          "nombre": "tenúfuga",
+          "descripcion": "disminuyen la densidad de las secreciones mucosas, haciéndolas más fluidas y fáciles de expulsar"
+        },
+        {
+          "nombre": "sudorífica",
+          "descripcion": "aumentan la sudoración"
+        },
+        {
+          "nombre": "emética",
+          "descripcion": "provocan el vómito"
+        },
+        {
+          "nombre": "eupéptica",
+          "descripcion": "favorecen la digestión y alivian los síntomas dispépticos"
+        },
+        {
+          "nombre": "Vasculovenosa",
+          "descripcion": "actúan sobre el sistema vascular y venoso"
+        },
+        {
+          "nombre": "antiflogística",
+          "descripcion": "reducen la inflamación inhibiendo la producción de sustancias inflamatorias o bloqueando su acción"
+        },
+        {
+          "nombre": "antiblenorrágica",
+          "descripcion": "combaten la blenorragia, una infección de transmisión sexual causada por la bacteria Neisseria gonorrhoeae"
+        },
+        {
+          "nombre": "reconstituyente",
+          "descripcion": "mejoran el estado general de salud y la resistencia del organismo, aportando nutrientes y sustancias esenciales"
+        },
+        {
+          "nombre": "antihistérica",
+          "descripcion": "calman los síntomas de la histeria, un trastorno nervioso caracterizado por ataques emocionales y físicos"
+        },
+        {
+          "nombre": "antituberculosa",
+          "descripcion": "combaten la tuberculosis, una infección bacteriana causada por mycobacterium tuberculosis"
+        },
+        {
+          "nombre": "antiasténica",
+          "descripcion": "combaten la astenia, un estado de debilidad y fatiga generalizada"
+        }
+  ]
 }
