@@ -1,552 +1,689 @@
-{
+{   
     "propiedades": [
         {
           "nombre": "antitusiva",
-          "descripcion": "alivia la tos seca e irritante, sin flema"
+          "descripcion": "alivia la tos seca e irritante, sin flema",
+          "lema": ["alivia", "seco", "to", "flema", "irritante", "tos"]
         },
         {
           "nombre": "carminativa",
-          "descripcion": "previene y expulsa los gases, aliviando la hinchazón y flatulencia (pedos)"
+          "descripcion": "previene y expulsa los gases, aliviando la hinchazón y flatulencia (pedos)",
+          "lema": ["aliviar", "flatulencia", "pedo", "prevenir", "gas", "hinchazon", "expulso"]
         },
         {
           "nombre": "antidiarreica",
-          "descripcion": "reduce la frecuencia y volumen de las deposiciones, para tratar la diarrea"
+          "descripcion": "reduce la frecuencia y volumen de las deposiciones, para tratar la diarrea",
+          "lema": ["tratar", "reducir", "frecuencia", "deposicion", "diarrea", "volumen"]
         },
         {
           "nombre": "antigripal",
-          "descripcion": "combate los síntomas de gripe y resfriado, como fiebre, dolor de cabeza, dolor muscular y nariz tapada"
+          "descripcion": "combate los síntomas de gripe y resfriado, como fiebre, dolor de cabeza, dolor muscular y nariz tapada",
+          "lema": ["muscular", "combate", "fiebre", "resfriar", "tapado", "gripe", "nariz", "sintoma", "dolor", "cabeza"]
         },
         {
           "nombre": "diurética",
-          "descripcion": "favorece la producción de orina para eliminar líquidos y toxinas del cuerpo"
+          "descripcion": "favorece la producción de orina para eliminar líquidos y toxinas del cuerpo",
+          "lema": ["líquido", "produccion", "toxina", "eliminar", "cuerpo", "orinar", "favorecer"]
         },
         {
           "nombre": "colagoga",
-          "descripcion": "estimula la producción y expulsión de bilis, facilitando la digestión de las grasas"
+          "descripcion": "estimula la producción y expulsión de bilis, facilitando la digestión de las grasas",
+          "lema": ["grasa", "expulsion", "digestion", "estimula", "produccion", "facilitar", "bilis"]
         },
         {
           "nombre": "depurativa",
-          "descripcion": "limpia y purifica el cuerpo, eliminando toxinas y desechos"
+          "descripcion": "limpia y purifica el cuerpo, eliminando toxinas y desechos",
+          "lema": ["toxina", "purifico", "limpio", "cuerpo", "desecho", "eliminar"]
         },
         {
           "nombre": "estomáquica",
-          "descripcion": "fortalece y mejora la función del estómago, aliviando malestares estomacales"
+          "descripcion": "fortalece y mejora la función del estómago, aliviando malestares estomacales",
+          "lema": ["estomago", "malestar", "mejora", "fortalecer", "funcion", "aliviar", "estomacal"]
         },
         {
           "nombre": "afrodisíaca",
-          "descripcion": "aumenta el deseo y el rendimiento sexual"
+          "descripcion": "aumenta el deseo y el rendimiento sexual",
+          "lema": ["rendimiento", "desear", "aumentar", "sexual"]
         },
         {
           "nombre": "emoliente",
-          "descripcion": "suaviza e hidrata la piel, calmando la sequedad, irritación y picazón"
+          "descripcion": "suaviza e hidrata la piel, calmando la sequedad, irritación y picazón",
+          "lema": ["suavizar", "sequedad", "irritacion", "picazon", "hidratar", "piel", "calmar"]
         },
         {
           "nombre": "antiinflamatoria",
-          "descripcion": "reduce la inflamación y alivia el dolor en diversas afecciones"
+          "descripcion": "reduce la inflamación y alivia el dolor en diversas afecciones",
+          "lema": ["dolor", "diverso", "inflamacion", "alivia", "reducir", "afeccion"]
         },
         {
           "nombre": "antianginosa",
-          "descripcion": "previene y trata el dolor torácico causado por problemas de circulación sanguínea al corazón"
+          "descripcion": "previene y trata el dolor torácico causado por problemas de circulación sanguínea al corazón",
+          "lema": ["corazon", "causado", "sanguínear", "problema", "toracico", "prevenir", "tratar", "circulacion", "dolor"]
         },
         {
           "nombre": "digestiva",
-          "descripcion": "facilita la digestión, aliviando indigestiones, acidez, gases y estreñimiento"
+          "descripcion": "facilita la digestión, aliviando indigestiones, acidez, gases y estreñimiento",
+          "lema": ["indigestion", "acidez", "facilitar", "digestion", "gas", "estreñimiento", "aliviar"]
         },
         {
           "nombre": "cardio-circulatoria",
-          "descripcion": "mejora la salud del corazón y la circulación, regulando la presión arterial y el ritmo cardíaco"
+          "descripcion": "mejora la salud del corazón y la circulación, regulando la presión arterial y el ritmo cardíaco",
+          "lema": ["arterial", "cardiaco", "corazon", "regular", "salud", "circulacion", "ritmo", "mejora", "presion"]
         },
         {
           "nombre": "antihemorroidal",
-          "descripcion": "reduce el dolor, picazón e hinchazón de las hemorroides"
+          "descripcion": "reduce el dolor, picazón e hinchazón de las hemorroides",
+          "lema": ["hemorroid", "picazon", "reducir", "dolor", "hinchazon", "hemorroide"]
         },
         {
           "nombre": "antiespasmódica",
-          "descripcion": "calma los espasmos musculares, como cólicos y calambres"
+          "descripcion": "calma los espasmos musculares, como cólicos y calambres",
+          "lema": ["espasmos", "muscular", "calambre", "calma", "colico"]
         },
         {
           "nombre": "antihelmíntica",
-          "descripcion": "expulsa gusanos parásitos del intestino"
+          "descripcion": "expulsa gusanos parásitos del intestino",
+          "lema": ["expulso", "parasito", "gusano", "intestino"]
         },
         {
           "nombre": "antiamebiana",
-          "descripcion": "elimina las amebas, causantes de la disentería"
+          "descripcion": "elimina las amebas, causantes de la disentería",
+          "lema": ["causante", "ameba", "eliminar", "disenteriar"]
         },
         {
           "nombre": "expectorante",
-          "descripcion": "ayuda a expulsar flemas y mucosidad de los pulmones"
+          "descripcion": "ayuda a expulsar flemas y mucosidad de los pulmones",
+          "lema": ["mucosidad", "flema", "expulsar", "pulmon", "ayuda"]
         },
         {
           "nombre": "antiasmática",
-          "descripcion": "alivia los síntomas del asma, como sibilancias, dificultad para respirar y tos"
+          "descripcion": "alivia los síntomas del asma, como sibilancias, dificultad para respirar y tos",
+          "lema": ["dificultad", "to", "sibilancia", "asmo", "respirar", "sintoma", "alivia", "tos"]
         },
         {
           "nombre": "antibacteriana",
-          "descripcion": "elimina o inhibe el crecimiento de bacterias"
+          "descripcion": "elimina o inhibe el crecimiento de bacterias",
+          "lema": ["bacteria", "inhibir", "crecimiento", "eliminar"]
         },
         {
           "nombre": "antitrombótica",
-          "descripcion": "previene o reduce la formación de coágulos sanguíneos"
+          "descripcion": "previene o reduce la formación de coágulos sanguíneos",
+          "lema": ["coagulo", "formacion", "reducir", "prevenir", "sanguineo"]
         },
         {
           "nombre": "antihipercolesterolémica",
-          "descripcion": "Baja los niveles de colesterol en la sangre"
+          "descripcion": "Baja los niveles de colesterol en la sangre",
+          "lema": ["colesterol", "nivel", "bajo", "sangre"]
         },
         {
           "nombre": "tónica",
-          "descripcion": "fortalece y revitaliza el cuerpo, mejorando el bienestar general"
+          "descripcion": "fortalece y revitaliza el cuerpo, mejorando el bienestar general",
+          "lema": ["fortalecer", "mejorar", "general", "revitalizar", "bienestar", "cuerpo"]
         },
         {
           "nombre": "antiparasitaria",
-          "descripcion": "elimina parásitos del cuerpo, como piojos, garrapatas y gusanos"
+          "descripcion": "elimina parásitos del cuerpo, como piojos, garrapatas y gusanos",
+          "lema": ["garrapata", "eliminar", "gusano", "parasito", "piojo", "cuerpo"]
         },
         {
           "nombre": "hipotensor",
-          "descripcion": "reduce la presión arterial"
+          "descripcion": "reduce la presión arterial",
+          "lema": ["presion", "reducir", "arterial"]
         },
         {
           "nombre": "hipoglicemiante",
-          "descripcion": "reduce los niveles de azúcar en la sangre"
+          "descripcion": "reduce los niveles de azúcar en la sangre",
+          "lema": ["reducir", "sangre", "azucar", "nivel"]
         },
         {
           "nombre": "analgésica",
-          "descripcion": "alivia el dolor"
+          "descripcion": "alivia el dolor",
+          "lema": ["dolor", "alivia"]
         },
         {
           "nombre": "antiartrítica",
-          "descripcion": "alivia los síntomas de la artritis, como dolor, hinchazón y rigidez"
+          "descripcion": "alivia los síntomas de la artritis, como dolor, hinchazón y rigidez",
+          "lema": ["hinchazon", "dolor", "artritis", "alivia", "sintoma", "rigidez"]
         },
         {
           "nombre": "antiséptica",
-          "descripcion": "previene o inhibe el crecimiento de microorganismos"
+          "descripcion": "previene o inhibe el crecimiento de microorganismos",
+          "lema": ["inhibir", "crecimiento", "prevenir", "microorganismo"]
         },
         {
           "nombre": "antihistamínica",
-          "descripcion": "Bloquea los efectos de la histamina, un químico involucrado en las reacciones alérgicas"
+          "descripcion": "Bloquea los efectos de la histamina, un químico involucrado en las reacciones alérgicas",
+          "lema": ["quimico", "histamin", "alergico", "efecto", "bloquear", "reaccion", "involucrado"]
         },
         {
           "nombre": "cardiotónica",
-          "descripcion": "fortalece el músculo cardíaco, mejorando su función"
+          "descripcion": "fortalece el músculo cardíaco, mejorando su función",
+          "lema": ["mejorar", "cardiaco", "musculo", "fortalecer", "funcion"]
         },
         {
           "nombre": "estimulante",
-          "descripcion": "aumenta la actividad física o mental"
+          "descripcion": "aumenta la actividad física o mental",
+          "lema": ["actividad", "fisico", "aumentar", "mental"]
         },
         {
           "nombre": "galactogoga",
-          "descripcion": "aumenta la producción de leche materna"
+          "descripcion": "aumenta la producción de leche materna",
+          "lema": ["leche", "materno", "aumentar", "produccion"]
         },
         {
           "nombre": "antipirética",
-          "descripcion": "reduce la fiebre"
+          "descripcion": "reduce la fiebre",
+          "lema": ["reducir", "fiebre"]
         },
         {
           "nombre": "hepatoprotectora",
-          "descripcion": "protege el hígado del daño"
+          "descripcion": "protege el hígado del daño",
+          "lema": ["higado", "proteger", "daño"]
         },
         {
           "nombre": "sedante",
-          "descripcion": "produce somnolencia o relajación"
+          "descripcion": "produce somnolencia o relajación",
+          "lema": ["somnolencia", "relajacion", "producir"]
         },
         {
           "nombre": "hipotensora",
-          "descripcion": "disminuye la presión arterial"
+          "descripcion": "disminuye la presión arterial",
+          "lema": ["presion", "disminuir", "arterial"]
         },
         {
           "nombre": "antipruriginosa",
-          "descripcion": "alivia la picazón"
+          "descripcion": "alivia la picazón",
+          "lema": ["alivia", "picazon"]
         },
         {
           "nombre": "antineurálgica",
-          "descripcion": "alivia el dolor causado por daño a los nervios"
+          "descripcion": "alivia el dolor causado por daño a los nervios",
+          "lema": ["daño", "causado", "dolor", "alivia", "nervio"]
         },
         {
           "nombre": "antirreumática",
-          "descripcion": "reduce la inflamación y el dolor en las articulaciones"
+          "descripcion": "reduce la inflamación y el dolor en las articulaciones",
+          "lema": ["reducir", "articulacion", "inflamacion", "dolor"]
         },
         {
           "nombre": "antiherpética",
-          "descripcion": "trata las infecciones causadas por el virus del herpes"
+          "descripcion": "trata las infecciones causadas por el virus del herpes",
+          "lema": ["herp", "infeccion", "virus", "tratar", "causado"]
         },
         {
           "nombre": "anticancerosa",
-          "descripcion": "trata o previene el cáncer"
+          "descripcion": "trata o previene el cáncer",
+          "lema": ["cancer", "tratar", "prevenir"]
         },
         {
           "nombre": "dermatológica",
-          "descripcion": "trata afecciones de la piel"
+          "descripcion": "trata afecciones de la piel",
+          "lema": ["afeccion", "tratar", "piel"]
         },
         {
           "nombre": "aperitiva",
-          "descripcion": "estimula el apetito"
+          "descripcion": "estimula el apetito",
+          "lema": ["estimula", "apetito"]
         },
         {
           "nombre": "emenagoga",
-          "descripcion": "promueve el flujo menstrual"
+          "descripcion": "promueve el flujo menstrual",
+          "lema": ["menstrual", "promover", "flujo"]
         },
         {
           "nombre": "astringente",
-          "descripcion": "contrae los tejidos y reduce la secreción"
+          "descripcion": "contrae los tejidos y reduce la secreción",
+          "lema": ["secrecion", "contrae", "reducir", "tejido"]
         },
         {
           "nombre": "febrífuga",
-          "descripcion": "reduce la fiebre"
+          "descripcion": "reduce la fiebre",
+          "lema": ["reducir", "fiebre"]
         },
         {
           "nombre": "antiepiléptica",
-          "descripcion": "previene o reduce las convulsiones"
+          "descripcion": "previene o reduce las convulsiones",
+          "lema": ["reducir", "convulsion", "prevenir"]
         },
         {
           "nombre": "insecticida",
-          "descripcion": "mata o repele insectos"
+          "descripcion": "mata o repele insectos",
+          "lema": ["matar", "insecto", "repeler"]
         },
         {
           "nombre": "antiulcerosa",
-          "descripcion": "protege o cura las úlceras del tracto digestivo"
+          "descripcion": "protege o cura las úlceras del tracto digestivo",
+          "lema": ["ulcera", "proteger", "cura", "digestivo", "tracto"]
         },
         {
           "nombre": "antipalúdica",
-          "descripcion": "previene o trata la malaria"
+          "descripcion": "previene o trata la malaria",
+          "lema": ["malario", "prevenir", "tratar"]
         },
         {
           "nombre": "purgante",
-          "descripcion": "estimula la evacuación intestinal"
+          "descripcion": "estimula la evacuación intestinal",
+          "lema": ["evacuacion", "estimula", "intestinal"]
         },
         {
           "nombre": "antiodontálgica",
-          "descripcion": "alivia el dolor de muelas"
+          "descripcion": "alivia el dolor de muelas",
+          "lema": ["dolor", "muela", "alivia"]
         },
         {
           "nombre": "refrescante",
-          "descripcion": "creas sensación de frescura o alivio en la piel, las mucosas o el tracto digestivo"
+          "descripcion": "creas sensación de frescura o alivio en la piel, las mucosas o el tracto digestivo",
+          "lema": ["mucosa", "digestivo", "alivio", "piel", "sensacion", "crea", "tracto", "frescura"]
         },
         {
           "nombre": "hepatotropa",
-          "descripcion": "protege el hígado de daños"
+          "descripcion": "protege el hígado de daños",
+          "lema": ["proteger", "daño", "higado"]
         },
         {
           "nombre": "anticonceptiva",
-          "descripcion": "previenen el embarazo bloqueando la ovulación o impidiendo la fecundación del óvulo"
+          "descripcion": "previenen el embarazo bloqueando la ovulación o impidiendo la fecundación del óvulo",
+          "lema": ["bloquear", "ovulo", "prevenir", "embarazo", "fecundacion", "impedir", "ovulacion"]
         },
         {
           "nombre": "antitumoral",
-          "descripcion": "inhiben el crecimiento y la proliferación de células tumorales"
+          "descripcion": "inhiben el crecimiento y la proliferación de células tumorales",
+          "lema": ["crecimiento", "inhibir", "celula", "proliferacion", "tumoral"]
         },
         {
           "nombre": "sialagoga",
-          "descripcion": "aumentan la producción de saliva"
+          "descripcion": "aumentan la producción de saliva",
+          "lema": ["saliva", "aumentar", "produccion"]
         },
         {
           "nombre": "descongestionante hepático",
-          "descripcion": "favorecen la eliminación de toxinas del hígado y mejoran su función"
+          "descripcion": "favorecen la eliminación de toxinas del hígado y mejoran su función",
+          "lema": ["funcion", "eliminacion", "toxina", "mejorar", "higado", "favorecer"]
         },
         {
           "nombre": "Otálgica",
-          "descripcion": "alivian el dolor de oído"
+          "descripcion": "alivian el dolor de oído",
+          "lema": ["oer", "aliviar", "dolor", "oir", "oido"]
         },
         {
           "nombre": "antialopética",
-          "descripcion": "combaten la alopecia, la pérdida anormal del cabello"
+          "descripcion": "combaten la alopecia, la pérdida anormal del cabello",
+          "lema": ["combatir", "perdida", "anormal", "cabello", "alopecia"]
         },
         {
           "nombre": "antiveneno",
-          "descripcion": "Neutralizan los efectos tóxicos de las mordeduras y picaduras de animales venenosos"
+          "descripcion": "Neutralizan los efectos tóxicos de las mordeduras y picaduras de animales venenosos",
+          "lema": ["mordedura", "neutralizar", "venenoso", "efecto", "picadura", "animal", "toxico"]
         },
         {
           "nombre": "antiinfecciosa",
-          "descripcion": "combaten las infecciones causadas por microorganismos como bacterias, virus, hongos y parásitos"
+          "descripcion": "combaten las infecciones causadas por microorganismos como bacterias, virus, hongos y parásitos",
+          "lema":  ["bacteria", "virus", "combatir", "causado", "infeccion", "hongo", "parasito", "microorganismo"]
         },
         {
           "nombre": "antiebreítica",
-          "descripcion": "reducen la fiebre"
+          "descripcion": "reducen la fiebre",
+          "lema":  ["fiebre", "reducir"]
         },
         {
           "nombre": "antialopécica",
-          "descripcion": "previenen o tratan la caída del cabello"
+          "descripcion": "previenen o tratan la caída del cabello",
+          "lema": ["cabello", "tratar", "caida", "prevenir"]
         },
         {
           "nombre": "antialmorránica",
-          "descripcion": "alivian los síntomas de las hemorroides, como el dolor, la picazón y el sangrado"
+          "descripcion": "alivian los síntomas de las hemorroides, como el dolor, la picazón y el sangrado",
+          "lema": ["dolor", "aliviar", "hemorroid", "sintoma", "sangrado", "picazon", "hemorroide"]
         },
         {
           "nombre": "espasmolítica",
-          "descripcion": "relajan los músculos lisos, aliviando los espasmos y el dolor asociados"
+          "descripcion": "relajan los músculos lisos, aliviando los espasmos y el dolor asociados",
+          "lema": ["liso", "espasmos", "dolor", "asociado", "musculo", "aliviar", "relajar"]
         },
         {
           "nombre": "antilitiásica",
-          "descripcion": "previenen o disuelven los cálculos renales y biliares"
+          "descripcion": "previenen o disuelven los cálculos renales y biliares",
+          "lema": ["calculo", "biliar", "renal", "disuelven", "prevenir"]
         },
         {
           "nombre": "hipotérmica",
-          "descripcion": "disminuyen la temperatura corporal"
+          "descripcion": "disminuyen la temperatura corporal",
+          "lema": ["disminuir", "temperatura", "corporal"]
         },
         {
           "nombre": "analéptica",
-          "descripcion": "estimulan el sistema nervioso central, produciendo efectos excitantes o tónicos"
+          "descripcion": "estimulan el sistema nervioso central, produciendo efectos excitantes o tónicos",
+          "lema": ["excitante", "nervioso", "tonico", "estimular", "efecto", "producir", "central", "sistema"]
         },
         {
           "nombre": "drástica",
-          "descripcion": "purgantes que producen evacuaciones intestinales abundantes y acuosas"
+          "descripcion": "purgantes que producen evacuaciones intestinales abundantes y acuosas",
+          "lema": ["acuosa", "evacuacion", "purgant", "intestinal", "producir", "abundante", "purgante"]
         },
         {
           "nombre": "absorbente",
-          "descripcion": "absorben sustancias, como toxinas o gases, del tracto gastrointestinal"
+          "descripcion": "absorben sustancias, como toxinas o gases, del tracto gastrointestinal",
+          "lema": ["tracto", "sustancia", "absorber", "gastrointestinal", "gas", "toxina"]
         },
         {
           "nombre": "antidisentérica",
-          "descripcion": "combaten la disentería, una infección intestinal que causa diarrea con sangre y moco"
+          "descripcion": "combaten la disentería, una infección intestinal que causa diarrea con sangre y moco",
+          "lema": ["infeccion", "intestinal", "disenteriar", "combatir", "sangre", "causa", "diarrea", "moco"]
         },
         {
           "nombre": "hipostenizante",
-          "descripcion": "debilitan o reducen la fuerza del organismo"
+          "descripcion": "debilitan o reducen la fuerza del organismo",
+          "lema": ["fuerza", "reducir", "debilitar", "organismo"]
         },
         {
           "nombre": "entérica",
-          "descripcion": "actúan sobre el intestino"
+          "descripcion": "actúan sobre el intestino",
+          "lema": ["intestino", "actuar"]
         },
         {
           "nombre": "detersiva",
-          "descripcion": "limpian o purifican"
+          "descripcion": "limpian o purifican",
+          "lema": ["purifican", "limpiar"]
         },
         {
           "nombre": "madurativa",
-          "descripcion": "aceleran la maduración de abscesos u otras lesiones"
+          "descripcion": "aceleran la maduración de abscesos u otras lesiones",
+          "lema": ["absceso", "lesion", "acelerar", "maduracion"]
         },
         {
           "nombre": "antiesclerótica",
-          "descripcion": "previenen o reducen el endurecimiento de las arterias (esclerosis)"
+          "descripcion": "previenen o reducen el endurecimiento de las arterias (esclerosis)",
+          "lema": ["prevenir", "esclerosis", "endurecimiento", "arteria", "reducir"]
         },
         {
           "nombre": "anticancerígena",
-          "descripcion": "inhiben o destruyen las células cancerosas"
+          "descripcion": "inhiben o destruyen las células cancerosas",
+          "lema": ["inhibir", "celula", "canceroso", "destruir"]
         },
         {
           "nombre": "antioxidante",
-          "descripcion": "protegen las células del daño causado por los radicales libres"
+          "descripcion": "protegen las células del daño causado por los radicales libres",
+          "lema": ["causado", "protegen", "libre", "daño", "radical", "celula"]
         },
         {
           "nombre": "remineralizante",
-          "descripcion": "aportan minerales esenciales para el cuerpo, como calcio, magnesio o potasio"
+          "descripcion": "aportan minerales esenciales para el cuerpo, como calcio, magnesio o potasio",
+          "lema": ["cuerpo", "mineral", "potasio", "esencial", "calcio", "aportar", "magnesio"]
         },
         {
           "nombre": "energética",
-          "descripcion": "aportan energía rápida y sostenida"
+          "descripcion": "aportan energía rápida y sostenida",
+          "lema":  ["aportar", "rapido", "sostenido", "energia"]
         },
         {
           "nombre": "saciante",
-          "descripcion": "proporcionan una sensación de saciedad duradera, ayudando a controlar el apetito"
+          "descripcion": "proporcionan una sensación de saciedad duradera, ayudando a controlar el apetito",
+          "lema": ["apetito", "ayudar", "saciedad", "proporcionar", "sensacion", "controlar", "duradero"]
         },
         {
           "nombre": "prebiótica",
-          "descripcion": "promueven el crecimiento de bacterias beneficiosas en el intestino"
+          "descripcion": "promueven el crecimiento de bacterias beneficiosas en el intestino",
+          "lema": ["promover", "intestino", "beneficioso", "crecimiento", "bacteria"]
         },
         {
           "nombre": "eupeptica",
-          "descripcion": "facilitan la digestión y absorción de nutrientes. estimula la secreción de los jugos gástricos"
+          "descripcion": "facilitan la digestión y absorción de nutrientes. estimula la secreción de los jugos gástricos",
+          "lema": ["nutrient", "estimula", "absorcion", "gastrico", "facilitar", "jugo", "digestion", "secrecion"]
         },
         {
           "nombre": "cosmética",
-          "descripcion": "limpia y embellece la piel del cutis"
+          "descripcion": "limpia y embellece la piel del cutis",
+          "lema": ["limpio", "piel", "cuti", "embellecir", "cutis"]
         },
         {
           "nombre": "antieemética",
-          "descripcion": "previene o reduce las náuseas y los vómitos"
+          "descripcion": "previene o reduce las náuseas y los vómitos",
+          "lema": ["reducir", "vomito", "prevenir", "nausea"]
         },
         {
           "nombre": "antivenérea",
-          "descripcion": "combate las enfermedades de transmisión sexual"
+          "descripcion": "combate las enfermedades de transmisión sexual",
+          "lema": ["enfermedad", "transmision", "sexual", "combate"]
         },
         {
           "nombre": "hemostática",
-          "descripcion": "detiene o reduce el sangrado"
+          "descripcion": "detiene o reduce el sangrado",
+          "lema": ["reducir", "sangrado", "detener"]
         },
         {
           "nombre": "antiictérica",
-          "descripcion": "combate o previene la ictericia (coloración amarillenta de la piel y los ojos)"
+          "descripcion": "combate o previene la ictericia (coloración amarillenta de la piel y los ojos)",
+          "lema": ["combate", "coloracion", "prevenir", "amarillentar", "ojo", "ictericia", "piel"]
         },
         {
           "nombre": "díaforética",
-          "descripcion": "promueve la sudoración"
+          "descripcion": "promueve la sudoración",
+          "lema": ["sudoracion", "promover"]
         },
         {
           "nombre": "colerética",
-          "descripcion": "estimula la producción de bilis por el hígado"
+          "descripcion": "estimula la producción de bilis por el hígado",
+          "lema": ["higado", "produccion", "estimula", "bilis"]
         },
         {
           "nombre": "citostática",
-          "descripcion": "inhibe o detiene el crecimiento y la división celular"
+          "descripcion": "inhibe o detiene el crecimiento y la división celular",
+          "lema": ["detener", "celular", "inhibir", "division", "crecimiento"]
         },
         {
           "nombre": "Vulneraria",
-          "descripcion": "promueve la cicatrización de heridas"
+          "descripcion": "promueve la cicatrización de heridas",
+          "lema": ["cicatrizacion", "herida", "promover"]
         },
         {
           "nombre": "antidismenorreica",
-          "descripcion": "alivia los cólicos menstruales"
+          "descripcion": "alivia los cólicos menstruales",
+          "lema": ["colico", "alivia", "menstrual"]
         },
         {
           "nombre": "resolutiva",
-          "descripcion": "ayuda a disolver o dispersar acumulaciones anormales"
+          "descripcion": "ayuda a disolver o dispersar acumulaciones anormales",
+          "lema": ["anormal", "ayuda", "disolver", "dispersar", "acumulacion"]
         },
         {
           "nombre": "antihipertensiva",
-          "descripcion": "disminuye la presión arterial"
+          "descripcion": "disminuye la presión arterial",
+          "lema": ["arterial", "presion", "disminuir"]
         },
         {
           "nombre": "antifúngica",
-          "descripcion": "combate las infecciones causadas por hongos"
+          "descripcion": "combate las infecciones causadas por hongos",
+          "lema": ["infeccion", "combate", "hongo", "causado"]
         },
         {
           "nombre": "anticatarral",
-          "descripcion": "alivia los síntomas del catarro"
+          "descripcion": "alivia los síntomas del catarro",
+          "lema": ["alivia", "sintoma", "catarro"]
         },
         {
           "nombre": "ansiolítica",
-          "descripcion": "alivia la ansiedad"
+          "descripcion": "alivia la ansiedad",
+          "lema": ["alivia", "ansiedad"]
         },
         {
           "nombre": "laxante",
-          "descripcion": "facilita la evacuación intestinal"
+          "descripcion": "facilita la evacuación intestinal, te hace cagar, defecar",
+          "lema": ["intestinal", "facilitar", "cagar", "defecar", "hacer", "evacuacion"]
         },
         {
           "nombre": "pectoral",
-          "descripcion": "alivia las afecciones del pecho y los pulmones"
+          "descripcion": "alivia las afecciones del pecho y los pulmones",
+          "lema": ["afeccion", "pulmon", "alivia", "pecho"]
         },
         {
           "nombre": "hematopéytica",
-          "descripcion": "estimula la producción de células sanguíneas"
+          "descripcion": "estimula la producción de células sanguíneas",
+          "lema":  ["celula", "sanguinea", "estimula", "produccion"]
         },
         {
           "nombre": "antiescorbútica",
-          "descripcion": "previene o trata el escorbuto, una enfermedad causada por la deficiencia de vitamina c"
+          "descripcion": "previene o trata el escorbuto, una enfermedad causada por la deficiencia de vitamina c",
+          "lema": ["escorbuto", "causado", "tratar", "enfermedad", "vitamina", "deficiencia", "prevenir", "vitamina c", "c"]
         },
         {
           "nombre": "larvicida",
-          "descripcion": "mata o impide el desarrollo de larvas de insectos"
+          "descripcion": "mata o impide el desarrollo de larvas de insectos",
+          "lema": ["matar", "impedir", "insecto", "desarrollo", "larva"]
         },
         {
           "nombre": "Vermicida",
-          "descripcion": "mata o expulsa gusanos parásitos del cuerpo"
+          "descripcion": "mata o expulsa gusanos parásitos del cuerpo",
+          "lema": ["cuerpo", "matar", "gusano", "parasito", "expulso"]
         },
         {
           "nombre": "Odontálgica",
-          "descripcion": "alivia el dolor de muelas u otros dolores dentales"
+          "descripcion": "alivia el dolor de muelas u otros dolores dentales",
+          "lema": ["dolor", "alivia", "muela", "dolor", "dental"]
         },
         {
           "nombre": "Vasoconstrictora",
-          "descripcion": "estrecha los vasos sanguíneos, reduciendo el flujo sanguíneo"
+          "descripcion": "estrecha los vasos sanguíneos, reduciendo el flujo sanguíneo",
+          "lema": ["vaso", "flujo", "estrecho", "reducir", "sanguineo"]
         },
         {
           "nombre": "Broncodilatadora",
-          "descripcion": "dilata los bronquios, facilitando la respiración"
+          "descripcion": "dilata los bronquios, facilitando la respiración",
+          "lema": ["dilata", "bronquio", "respiracion", "facilitar"]
         },
         {
           "nombre": "antihepatotóxica",
-          "descripcion": "protege el hígado del daño"
+          "descripcion": "protege el hígado del daño",
+          "lema": ["higado", "daño", "proteger"]
         },
         {
           "nombre": "antimicrobiana",
-          "descripcion": "mata o inhibe el crecimiento de microorganismos como bacterias, virus y hongos"
+          "descripcion": "mata o inhibe el crecimiento de microorganismos como bacterias, virus y hongos",
+          "lema": ["crecimiento", "microorganismo", "inhibir", "virus", "hongo", "bacteria", "matar"]
         },
         {
           "nombre": "Bactericida",
-          "descripcion": "mata bacterias"
+          "descripcion": "mata bacterias",
+          "lema": ["bacteria", "matar"]
         },
         {
           "nombre": "anticonvulsivante",
-          "descripcion": "previene o trata las convulsiones (ataques epilépticos)"
+          "descripcion": "previene o trata las convulsiones (ataques epilépticos)",
+          "lema": ["tratar", "epileptico", "prevenir", "convulsion", "ataque"]
         },
         {
           "nombre": "corroborante",
-          "descripcion": "fortalece o tonifica el cuerpo o una parte específica del cuerpo"
+          "descripcion": "fortalece o tonifica el cuerpo o una parte específica del cuerpo",
+          "lema": ["especifico", "parte", "fortalecer", "cuerpo", "tonifica"]
         },
         {
           "nombre": "Vermífuga",
-          "descripcion": "expulsa gusanos parásitos del cuerpo"
+          "descripcion": "expulsa gusanos parásitos del cuerpo",
+          "lema": ["cuerpo", "parasito", "expulso", "gusano"]
         },
         {
           "nombre": "hipostenizante gástrico",
-          "descripcion": "reduce la acidez del estómago"
+          "descripcion": "reduce la acidez del estómago",
+          "lema": ["estomago", "acidez", "reducir"]
         },
         {
           "nombre": "antitusígena",
-          "descripcion": "suprime o alivia la tos"
+          "descripcion": "suprime o alivia la tos",
+          "lema": ["to", "alivia", "suprime", "tos"]
         },
         {
           "nombre": "cáustica",
-          "descripcion": "causa quemaduras o irritación en la piel u otros tejidos al contacto"
+          "descripcion": "causa quemaduras o irritación en la piel u otros tejidos al contacto",
+          "lema": ["quemadura", "irritacion", "tejido", "causa", "contacto", "piel"]
         },
         {
           "nombre": "antiforunculosa",
-          "descripcion": "trata o previene los forúnculos (infecciones de los folículos pilosos)"
+          "descripcion": "trata o previene los forúnculos (infecciones de los folículos pilosos)",
+          "lema": ["piloso", "tratar", "forunculo", "folicu el", "prevenir", "infeccion", "foliculo"]
         },
         {
           "nombre": "antidiabética",
-          "descripcion": "trata o previene la diabetes (una enfermedad que afecta la forma en que el cuerpo utiliza el azúcar"
+          "descripcion": "trata o previene la diabetes (una enfermedad que afecta la forma en que el cuerpo utiliza el azúcar",
+          "lema": ["enfermedad", "forma", "afectar", "cuerpo", "prevenir", "tratar", "diabet", "azucar", "utilizar", "diabetes"]
         },
         {
           "nombre": "antiviral",
-          "descripcion": "trata o previene infecciones causadas por virus"
+          "descripcion": "trata o previene infecciones causadas por virus",
+          "lema": ["virus", "causado", "prevenir", "infeccion", "tratar"]
         },
         {
           "nombre": "cicatrizante",
-          "descripcion": "ayuda a curar heridas y lesiones"
+          "descripcion": "ayuda a curar heridas y lesiones",
+          "lema": ["ayuda", "herida", "lesion", "curar"]
         },
         {
           "nombre": "calmante",
-          "descripcion": "alivia el dolor y la inflamación"
+          "descripcion": "alivia el dolor y la inflamación",
+          "lema": ["dolor", "alivia", "inflamacion"]
         },
         {
           "nombre": "Narcótica",
-          "descripcion": "alivia el dolor intenso y puede causar somnolencia o adicción"
+          "descripcion": "alivia el dolor intenso y puede causar somnolencia o adicción",
+          "lema": ["poder", "dolor", "alivia", "intenso", "somnolencia", "adiccion", "causar"]
         },
         {
           "nombre": "pediculicida",
-          "descripcion": "mata los piojos y sus huevos"
+          "descripcion": "mata los piojos y sus huevos",
+          "lema": ["huevo", "piojo", "matar"]
         },
         {
           "nombre": "tenúfuga",
-          "descripcion": "disminuyen la densidad de las secreciones mucosas, haciéndolas más fluidas y fáciles de expulsar"
+          "descripcion": "disminuyen la densidad de las secreciones mucosas, haciéndolas más fluidas y fáciles de expulsar",
+          "lema": ["densidad", "haciendola", "expulsar", "facil", "disminuir", "secrecion", "fluido", "mucosa"]
         },
         {
           "nombre": "sudorífica",
-          "descripcion": "aumentan la sudoración"
+          "descripcion": "aumentan la sudoración",
+          "lema":  ["aumentar", "sudoracion"]
         },
         {
           "nombre": "emética",
-          "descripcion": "provocan el vómito"
+          "descripcion": "provocan el vómito",
+          "lema": ["provocar", "vomito"]
         },
         {
           "nombre": "eupéptica",
-          "descripcion": "favorecen la digestión y alivian los síntomas dispépticos"
+          "descripcion": "favorecen la digestión y alivian los síntomas dispépticos",
+          "lema": ["favorecer", "aliviar", "digestion", "sintoma", "dispeptico"]
         },
         {
           "nombre": "Vasculovenosa",
-          "descripcion": "actúan sobre el sistema vascular y venoso"
+          "descripcion": "actúan sobre el sistema vascular y venoso",
+          "lema": ["sistema", "vascular", "actuar", "venoso"]
         },
         {
           "nombre": "antiflogística",
-          "descripcion": "reducen la inflamación inhibiendo la producción de sustancias inflamatorias o bloqueando su acción"
+          "descripcion": "reducen la inflamación inhibiendo la producción de sustancias inflamatorias o bloqueando su acción",
+          "lema": ["sustancia", "bloquear", "inflamatoria", "reducir", "accion", "inflamacion", "produccion", "inhibir"]
         },
         {
           "nombre": "antiblenorrágica",
-          "descripcion": "combaten la blenorragia, una infección de transmisión sexual causada por la bacteria Neisseria gonorrhoeae"
+          "descripcion": "combaten la blenorragia, una infección de transmisión sexual causada por la bacteria Neisseria gonorrhoeae",
+          "lema": ["transmision", "gonorrhoeae", "sexual", "blenorragia", "neisserio", "bacterio", "infeccion", "causado", "combatir"]
         },
         {
           "nombre": "reconstituyente",
-          "descripcion": "mejoran el estado general de salud y la resistencia del organismo, aportando nutrientes y sustancias esenciales"
+          "descripcion": "mejoran el estado general de salud y la resistencia del organismo, aportando nutrientes y sustancias esenciales",
+          "lema": ["sustancia", "resistencia", "mejorar", "aportar", "organismo", "general", "salud", "nutrient", "esencial"]
         },
         {
           "nombre": "antihistérica",
-          "descripcion": "calman los síntomas de la histeria, un trastorno nervioso caracterizado por ataques emocionales y físicos"
+          "descripcion": "calman los síntomas de la histeria, un trastorno nervioso caracterizado por ataques emocionales y físicos",
+          "lema": ["sintoma", "caracterizado", "histeria", "calmar", "trastorno", "emocional", "nervioso", "fisico", "ataque"]
         },
         {
           "nombre": "antituberculosa",
-          "descripcion": "combaten la tuberculosis, una infección bacteriana causada por mycobacterium tuberculosis"
+          "descripcion": "combaten la tuberculosis, una infección bacteriana causada por mycobacterium tuberculosis",
+          "lema": ["tuberculosis", "mycobacterium", "infeccion", "causado", "bacterian", "combatir"]
         },
         {
           "nombre": "antiasténica",
-          "descripcion": "combaten la astenia, un estado de debilidad y fatiga generalizada"
+          "descripcion": "combaten la astenia, un estado de debilidad y fatiga generalizada",
+          "lema": ["astenia", "debilidad", "fatiga", "generalizado", "combatir"]
         }
   ]
 }
