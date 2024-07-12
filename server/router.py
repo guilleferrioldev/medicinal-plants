@@ -1,6 +1,7 @@
 from fastapi import APIRouter
 from fastapi.responses import ORJSONResponse
 from utils import apply_from_split_to_lemmatization, load_json
+from tf_idf import extract_tfidf
 
 router = APIRouter()
 
@@ -12,8 +13,7 @@ async def get_prediction(symptoms: str) -> ORJSONResponse:
         return ORJSONResponse(
             {
              "status": "success",
-             "input": apply_from_split_to_lemmatization(symptoms),
-             "data": properties
+             "tfidf": extract_tfidf(apply_from_split_to_lemmatization(symptoms), {prop["nombre"]: prop["lema"] for prop in properties}),
             },
             status_code=200)
     except Exception as err:
