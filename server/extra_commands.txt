@@ -1,0 +1,5 @@
+# Download the stopwords
+nltk.download('stopwords')
+
+# To extract the texts in Spanish from spacy
+python -m spacy download es_core_news_sm 
