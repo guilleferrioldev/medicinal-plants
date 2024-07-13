@@ -1,0 +1,13 @@
+.parallax {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.delete {
+    position: relative;
+    font-size: 5em;
+    color: #333;
+}
