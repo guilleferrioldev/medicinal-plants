@@ -1,3 +1,38 @@
+.main {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.header {
+    position:fixed;
+    background: transparent;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    z-index: 100;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: #359381;
+    padding: 6px 15px;
+    border-radius: 20px;
+    margin: 0 10px;
+    font-weight: 600;
+    font-size: 1.1em;
+}
+
+.navigation a:hover, 
+.navigation a.active{
+    background: #359381;
+    color: #fff;
+}
+
 .parallax {
     position: relative;
     display: flex;
@@ -6,8 +41,57 @@
     height: 100vh;
 }
 
-.delete {
+.sec {
     position: relative;
-    font-size: 5em;
-    color: #333;
+    background: #003329;
+    padding: 100px;
+    width: 100%;
+    height: 100vh;
 }
+
+.sec h2 {
+    font-size: 2em;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.sec p {
+    font-size: 1em;
+    color: #fff;
+    font-weight: 300;
+}
+
+.text {
+    position: absolute;
+    font-size: 5em;
+    top: 30%;
+    color: #fff;
+    text-shadow: 4px 4px 6px rgba(0, 0, 0, .2);
+}
+
+.form {
+    position: absolute;
+    width: 30%;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.form > input {
+    border-style: hidden;
+    font-size: 1em;
+    font-weight: 600;
+    width: 80%;
+    height: 100%;
+    border-radius: 15px;
+    color: #003329;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    outline: none;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, .2);
+}
+
+
+

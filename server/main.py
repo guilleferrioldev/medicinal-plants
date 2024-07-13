@@ -12,7 +12,7 @@ def main():
     app.include_router(router)
 
     try:
-        uvicorn.run(app, host="127.0.0.1", port=3000)
+        uvicorn.run(app, host="127.0.0.1", port=8080)
     except KeyboardInterrupt:
         print("Se ha interrumpido la ejecución del programa.")
 
