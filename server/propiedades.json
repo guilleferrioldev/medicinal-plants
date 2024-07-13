@@ -1,5 +1,4 @@
-{   
-    "propiedades": [
+[
         {
           "nombre": "antitusiva",
           "descripcion": "alivia la tos seca e irritante, sin flema",
@@ -301,7 +300,7 @@
           "lema": ["funcion", "eliminacion", "toxina", "mejorar", "higado", "favorecer"]
         },
         {
-          "nombre": "Otálgica",
+          "nombre": "otálgica",
           "descripcion": "alivian el dolor de oído",
           "lema": ["oer", "aliviar", "dolor", "oir", "oido"]
         },
@@ -443,7 +442,7 @@
         {
           "nombre": "antivenérea",
           "descripcion": "combate las enfermedades de transmisión sexual",
-          "lema": ["enfermedad", "transmision", "sexual", "combate"]
+          "lema": ["transmision", "sexual", "combate"]
         },
         {
           "nombre": "hemostática",
@@ -523,7 +522,7 @@
         {
           "nombre": "antiescorbútica",
           "descripcion": "previene o trata el escorbuto, una enfermedad causada por la deficiencia de vitamina c",
-          "lema": ["escorbuto", "causado", "tratar", "enfermedad", "vitamina", "deficiencia", "prevenir", "vitamina c", "c"]
+          "lema": ["escorbuto", "causado", "tratar", "vitamina", "deficiencia", "prevenir", "vitamina c", "c"]
         },
         {
           "nombre": "larvicida",
@@ -536,7 +535,7 @@
           "lema": ["cuerpo", "matar", "gusano", "parasito", "expulso"]
         },
         {
-          "nombre": "Odontálgica",
+          "nombre": "odontálgica",
           "descripcion": "alivia el dolor de muelas u otros dolores dentales",
           "lema": ["dolor", "alivia", "muela", "dolor", "dental"]
         },
@@ -603,7 +602,7 @@
         {
           "nombre": "antidiabética",
           "descripcion": "trata o previene la diabetes (una enfermedad que afecta la forma en que el cuerpo utiliza el azúcar",
-          "lema": ["enfermedad", "forma", "afectar", "cuerpo", "prevenir", "tratar", "diabet", "azucar", "utilizar", "diabetes"]
+          "lema": [ "forma", "afectar", "cuerpo", "prevenir", "tratar", "diabet", "azucar", "utilizar", "diabetes"]
         },
         {
           "nombre": "antiviral",
@@ -621,7 +620,7 @@
           "lema": ["dolor", "alivia", "inflamacion"]
         },
         {
-          "nombre": "Narcótica",
+          "nombre": "narcótica",
           "descripcion": "alivia el dolor intenso y puede causar somnolencia o adicción",
           "lema": ["poder", "dolor", "alivia", "intenso", "somnolencia", "adiccion", "causar"]
         },
@@ -685,5 +684,4 @@
           "descripcion": "combaten la astenia, un estado de debilidad y fatiga generalizada",
           "lema": ["astenia", "debilidad", "fatiga", "generalizado", "combatir"]
         }
-  ]
-}
+]

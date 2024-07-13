@@ -5,7 +5,7 @@ from json import load as load_this_json
 from spacy import load as load_spacy
 
 def split_sentence(sentence: str) -> List[str]:
-    return findall(r'\b\w+\b', sentence.lower())
+    return list(set(findall(r'\b\w+\b', sentence.lower())))
 
 def remove_stopwords(list_to_remove: List[str]) -> Set[str]:
     stops = set(stopwords.words('spanish'))

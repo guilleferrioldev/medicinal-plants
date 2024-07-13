@@ -1,0 +1,107 @@
+[
+    {
+        "nombre": "cardiovasculares",
+        "descripcion": "trastornos o problemas que afectan al corazón y los vasos sanguíneos, incluyendo la enfermedad coronaria, la hipertensión, los accidentes cerebrovasculares, las arritmias cardíacas y la insuficiencia cardíaca",
+        "lema": [ "afectar", "incluir", "cardiaca", "corazon", "cerebrovascular", "coronario", "arritmia", "problema", "insuficiencia", "cardiacar", "vaso", "sanguineo", "trastorno", "accidente", "hipertension"]
+    },
+    {
+        "nombre": "cáncer",
+        "descripcion": "cáncer",
+        "lema": ["cancer"]
+    },
+    {
+        "nombre": "alergias",
+        "descripcion": "reacción exagerada del sistema inmunológico a sustancias inofensivas en el entorno, alergia",
+        "lema": ["alergia", "inmunologico", "reaccion", "sistema", "inofensivo", "sustancia", "exagerado", "entorno"]
+    },
+    {
+        "nombre": "estrés",
+        "descripcion": "sentimiento de tensión física o emocional, estrés",
+        "lema": ["estres", "tension", "sentimiento", "emocional", "fisico", "estresado", "estresada"]
+    },
+    {
+        "nombre": "hemorroides",
+        "descripcion": "venas hinchadas en el área del ano y el recto que pueden causar molestias y sangrado, hemorroide",
+        "lema": ["hemorroide", "vena", "area", "hinchada", "poder", "ano", "sangrado", "molestia", "recto", "causar"]
+    },
+    {
+        "nombre": "insomnio",
+        "descripcion": "dificultad para conciliar el sueño o permanecer dormido durante la noche, insonmio",
+        "lema":  ["insominio", "dificultad", "dormido", "sueño", "permanecer", "conciliar", "noche", "insimniir"]
+    },
+    {
+        "nombre": "digestivas",
+        "descripcion": "problemas relacionados con el sistema digestivo, como acidez estomacal, indigestión o gastritis, digestión",
+        "lema": ["digestivo", "sistema", "gastritis", "relacionado", "problema", "acidez", "estomacal", "indigestion", "colico"]
+    },
+    {
+        "nombre": "musculares",
+        "descripcion": "problemas que afectan a los músculos, como calambres, distensiones musculares o mialgias",
+        "lema":  ["afectar", "musculo", "mialgia", "distension", "muscular", "problema", "calambre"]
+    },
+    {
+        "nombre": "respiratorias",
+        "descripcion": "enfermedades que afectan el sistema respiratorio, los pulmones, como el asma, bronquitis, neumonía, tos, catarro",
+        "lema": ["catarro", "asmo",  "bronquiti", "to", "afectar", "pulmon", "neumonir", "sistema", "respiratorio"]
+    },
+    {
+        "nombre": "oculares",
+        "descripcion": "problemas relacionados con los ojos, como la miopía, la catarata o la conjuntivitis",
+        "lema": ["conjuntiviti", "ojo", "miopia", "relacionado", "problema", "catarato"]
+    },
+    {
+        "nombre": "hepáticas",
+        "descripcion": "enfermedades que afectan al hígado, como la hepatitis, la cirrosis o el hígado graso", 
+        "lema": ["afectar",  "cirrosis", "higado", "hepatitis", "graso"]
+    },
+    {
+        "nombre": "infecciosas",
+        "descripcion": "enfermedades causadas por microorganismos patógenos, como bacterias, virus u hongos",
+        "lema": ["microorganismo",  "virus", "causado", "hongo", "patogeno", "bacteria"]
+    },
+    {
+        "nombre": "virales",
+        "descripcion": "enfermedades causadas por virus, como la gripe, el herpes o el VIH",
+        "lema": ["herp",  "gripe", "virus", "causado", "vih"]
+    },
+    {
+        "nombre": "dolor de muelas",
+        "descripcion": "dolor en uno o varios dientes causado por caries, infecciones o problemas dentales",
+        "lema": ["dental", "infeccion", "diente", "problema", "cari", "causado", "carie"]
+    },
+    {
+        "nombre": "fiebre",
+        "descripcion": "elevación anormal de la temperatura corporal como respuesta a una infección u otra causa, fiebre",
+        "lema": ["elevacion", "causa", "corporal", "respuesta", "infeccion", "temperatura", "anormal", "fiebre"]
+    },
+    {
+        "nombre": "ansiedad",
+        "descripcion": "sentimiento de preocupación, miedo o nerviosismo excesivo ante situaciones cotidianas, ansiedad",
+        "lema": ["miedo", "excesivo", "cotidiana", "sentimiento", "nerviosismo", "preocupacion", "situacion", "ansiedad"]
+    },
+    {
+        "nombre": "nerviosas",
+        "descripcion": "trastornos del sistema nervioso que afectan la función cerebral, la médula espinal o los nervios periféricos",
+        "lema": ["sistema", "nervio", "afectar", "medulo", "cerebral", "espinal", "periferico", "trastorno", "nervioso", "funcion"]
+    },
+    {
+        "nombre": "cefaleas",
+        "descripcion": "dolor de cabeza que puede ser leve, moderado o intenso y estar asociado a diversas causas",
+        "lema":  ["leve", "poder", "causa", "moderado", "asociado", "cabeza", "intenso", "ser", "diverso"]
+    },
+    {
+        "nombre": "articulaciones",
+        "descripcion": "problemas que afectan a las articulaciones, como la artritis, la artrosis o las lesiones articulares",
+        "lema":  ["afectar", "artrosis", "artritis", "articular", "problema", "articulacion", "lesion"]
+    },
+    {
+        "nombre": "renales",
+        "descripcion": "enfermedades que afectan a los riñones, como la insuficiencia renal, la nefritis o los cálculos renales",
+        "lema": ["afectar",  "riñon", "nefriti", "calculo", "renal", "insuficiencia"]
+    },
+    {
+        "nombre": "dermatológicas",
+        "descripcion": "enfermedades de la piel que incluyen eczema, psoriasis, acné y otras afecciones cutáneas",
+        "lema": ["incluir", "eczemo",  "psoriasi", "acne", "cutanea", "piel", "afeccion"]
+    } 
+]

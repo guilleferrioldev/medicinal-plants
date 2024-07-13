@@ -18,6 +18,8 @@ def tfidf(word: str, sentence: List[str], documents: List[str]):
   """
   return tf(word, sentence) * idf(word, documents)
 
-def extract_tfidf(list_of_words: List[str], properties: Dict[str, List[str]]):
+def extract_tfidf(list_of_words: List[str], properties: Dict[str, List[str]], name: str = ""):
   result = {prop: sum({word: tfidf(word, lemma, properties) for word in list_of_words}.values()) for prop, lemma in properties.items()}
-  return {prop : value for prop, value in result.items() if value != 0.0}
+  if name == "diseases":
+    return dict(sorted({prop : value + 3  for prop, value in result.items() if value != 0.0}.items(), key=lambda item: item[1], reverse=True))
+  return dict(sorted({prop : value for prop, value in result.items() if value != 0.0}.items(), key=lambda item: item[1], reverse=True))

@@ -1,5 +1,4 @@
-{
-    "plantas" : [
+[
     {
         "nombre": "Aguacate",
         "nombre_cientifico" : "Persea americana",
@@ -30,7 +29,7 @@
         },
         "advertencias": "El extracto acuoso de las hojas y los frutos, por vía oral, en ratón muestra una DL50 > 112,5 g/Kg de masa corporal y la toxicidad aguda intraperitoneal es igual a 8,8 g/Kg. No utilizar en embarazadas. Se reportan casos de alergia por contacto con crías que contienen la pulpa",
         "posologia": null,
-        "enfermedades": ["cardiovasculares", "colesterol alto", "inflamación", "problemas digestivos"]
+        "enfermedades": ["cardiovasculares",  "dermatológicas", "digestivas"]
     },
     
     {
@@ -53,7 +52,7 @@
             "Decocción": "Hervir por 5 minutos 5-10 g de frutos frescos y maduros en 0,5 litro de agua. Aplicar localmente sobre la zona afectada 2-3 veces al día", 
             "Tintura": "Aplicar localmente sobre la zona afectada 2-3 veces al día. Es posible utilizar la tintura asociada a ultrasonido terapéutico"
         },
-        "enfermedades": ["dolor", "inflamación", "problemas digestivos", "artosis"]
+        "enfermedades": ["dermatológicas", "digestivas", "articulaciones"]
     },
 
     {
@@ -78,7 +77,7 @@
         "posologia" : {
             "Decocción": "Hervir durante 5 minutos de 5 a 10 g de frutos frescos y maduros en más de un litro de agua. Aplicar de 2 a 3 veces al día sobre la zona afectada"
         },
-        "enfermedades": ["dolor", "inflamación", "artritis", "psoriasis", "cáncer", "problemas digestivos", "enfermedades cardiovasculares"]
+        "enfermedades": ["dermatológicas", "articulaciones", "cáncer", "digestivas", "cardiovasculares"]
     },
 
     {
@@ -97,11 +96,11 @@
               "minerales": ["manganeso", "selenio", "hierro", "sílice"]
             }
           },
-        "advertencias": "No administrar a niños, embarazadas o mujeres que amamantan. Puede causar dermatitis por contacto. La ingestión continuada puede acarrear trastornos digestivos y renales", 
+        "advertencias": "No administrar a niños, embarazadas o mujeres que amamantan. Puede causar dermatitis por contacto. La ingestión continuada puede acarrear digestivas y renales", 
         "posologia": {
             "Tintura" : "Macerar durante 7 días, al abrigo de la luz y en refrigeración, 25 g de dientes frescos en 60 ml de ron o solución, hidroalcohólica (40 %). Conservar en frío. Para uso interno tomar 20 gotas en un poco de agua, 3 veces al día. Para uso tópico aplicar directamente la tintura en la zona afectada 2 veces al día"
         },
-        "enfermedades": ["enfermedades cardiovasculares", "cáncer", "infecciones bacterianas y virales", "problemas digestivos", "inflamación", "artritis", "enfermedad de Alzheimer", "diabetes"]
+        "enfermedades": ["cardiovasculares", "cáncer", "virales", "digestivas", "dermatológicas", "articulaciones"]
     },
 
     {
@@ -124,7 +123,7 @@
         "posologia": {
             "Infusión": "Verter 15-20 g del follaje fresco sobre un litro de agua hirviendo. Reposar por 10-15 minutos antes de filtrar. Ingerir 300-500 ml al día repartidos en 2-3 tomas"
         },
-        "enfermedades": ["problemas digestivos", "ansiedad", "estrés", "insomnio", "dolores de cabeza", "infecciones de la piel", "inflamación", "cáncer"]
+        "enfermedades": ["digestivas", "ansiedad", "estrés", "insomnio", "cefaleas", "dermatológicas", "dermatológicas", "cáncer"]
     }, 
 
     {
@@ -145,7 +144,7 @@
           },
         "advertencias": "Consumir bajo control médico. Puede disminuir la tensión arterial. Se reporta efecto antiespermatogénico del extracto bencénico en ratas",
         "posologia": null,
-        "enfermedades": ["resfriado común", "gripe", "dolor de garganta", "problemas digestivos", "ansiedad", "estrés", "dolor de cabeza", "infecciones de la piel", "inflamación", "cáncer"]
+        "enfermedades": ["respiratorias", "digestivas", "ansiedad", "estrés", "cefaleas", "dermatológicas", "dermatológicas", "cáncer"]
     },
 
     {
@@ -172,7 +171,7 @@
         "posologia": {
             "Decocción": "Hervir por no más de 3 minutos 60-80 g de hojas frescas por litro de agua. Aplicar localmente 2-3 veces al día"
         },
-        "enfermedades": ["congestión nasal", "tos", "resfriado", "dolor muscular"]
+        "enfermedades": ["respiratorias", "musculares"]
     },
 
     {
@@ -196,9 +195,9 @@
               "otros": ["esteroides", "polifenoles", "cumarina"]
             }
           },
-        "advertencias": "Puede causar trastornos digestivos y atrofia muscular en el ganado",
+        "advertencias": "Puede causar digestivas y atrofia muscular en el ganado",
         "posologia": null,
-        "enfermedades": ["infecciones urinarias", "infecciones respiratorias", "heridas", "dolor de muelas"]
+        "enfermedades": ["renales", "respiratorias", "dermatológicas", "dolor de muelas"]
     }, 
 
     {
@@ -221,7 +220,7 @@
             "Decocción": "5 g del fruto (3 estrellas) en 200 ml (1 vaso) de agua; tomar de 3 a 4 veces al día",
             "Repercolación": "Con un disolvente hidroalcohólico (75 %). Tomar de 10 a 15 gotas disueltas en 100 ml de agua, 3 o 4 veces al día"
         },
-        "enfermedades": ["indigestión", "flatulencias", "náuseas", "vómitos"]
+        "enfermedades": ["digestivas"]
     }, 
 
     {
@@ -248,7 +247,7 @@
         "posologia": {
             "Decocción": "No más de 5 g al día. Repetir el tratamiento durante 3 días"
         },
-        "enfermedades": ["parásitos intestinales", "indigestión", "flatulencias", "cólicos"]
+        "enfermedades": ["digestivas"]
     }, 
 
     {
@@ -281,7 +280,7 @@
         "posologia": {
             "Decocción": "Hervir por no menos de 5 minutos, 20 g de la corteza de raíz triturada o en virutas, en 1 litro de agua. Aplicar localmente 2-3 veces al día"
         },
-        "enfermedades": ["diarrea", "disentería", "infecciones"]
+        "enfermedades": ["digestivas", "infecciosas"]
     }, 
 
     {
@@ -308,7 +307,7 @@
         "posologia": {
             "Decocción": " Hervir por 20 minutos, 100 g de granos en 1 litro de agua. Filtrar y dejar refrescar. Aplicar localmente sobre la zona afectada 3 veces al día"
         },
-        "enfermedades": ["colesterol alto", "diabetes", "enfermedades cardiovasculares"]
+        "enfermedades": ["cardiovasculares"]
     },
 
     {
@@ -331,7 +330,7 @@
         },
         "advertencias": "Se cita que el uso continuado por vía oral puede degradar la inteligencia del epiléptico. Se desconoce la toxicidad por vía tópica", 
         "posologia": null,
-        "enfermedades": ["infecciones", "heridas", "inflamaciones"]
+        "enfermedades": ["infecciosas", "dermatológicas"]
     },
 
     {
@@ -355,7 +354,7 @@
         },
         "advertencias": "La DL50 (ratón por vía intraperitoneal) es de 700 mg/Kg de masa corporal. Produce pancreatotoxicidad, hepatotoxicidad, hiperglicemia y aparente aumento del nivel de insulina en los perros. Popularmente se refiere que afecta el corazón", 
         "posologia": null,
-        "enfermedades": ["inflamaciones", "heridas", "problemas_de_piel", "diarrea", "fiebre"]
+        "enfermedades": ["dermatológicas", "dermatológicas", "digestivas", "fiebre"]
     },
 
     {
@@ -382,7 +381,7 @@
         "posologia": {
             "Infusión": "Se elabora de forma similar a como es tradicional en el país"
         },
-        "enfermedades": ["enfermedades cardiovasculares", "diabetes", "cáncer"]
+        "enfermedades": ["cardiovasculares", "cáncer"]
     },
     
     {
@@ -406,7 +405,7 @@
           },
         "advertencias": "La toxicidad aguda en DL50 es igual a 1 947,09 mg/Kg de masa corporal (ratas por vía intraperitoneal-extracto acuoso)", 
         "posologia": null,
-        "enfermedades": ["indigestión", "flatulencias", "cólicos"]
+        "enfermedades": ["digestivas"]
     }, 
 
     {
@@ -435,7 +434,7 @@
         "posologia": {
             "Mezcla": "Mezclar 100-200 g de semillas mondadas (sin testa) con miel o almíbar (hasta 100 ml). Tomar este producto poco a poco en el transcurso de 1 hora, y 3 horas después tomar un purgante"
         },
-        "enfermedades": ["estreñimiento", "hipertensión", "infecciones urinarias"]
+        "enfermedades": ["digestivas", "cardiovasculares", "renales"]
     },
     
     {
@@ -459,7 +458,7 @@
             "Tintura": "Para uso tópico mezclar 5 ml en 200 ml de agua, aplicar 2 a 5 veces al día; por vía oral de 10 a 20 gotas mezcladas en 100 mL de agua 2 o 3 veces al día",
             "Extracto fluido": "Para uso tópico mezclar 10 gotas en 200 mL de agua, aplicar 3 a 5 veces al día, vía oral 1 a 2 gotas en 100 mL de agua y 2 a 3 veces al día"
         },
-        "enfermedades": ["heridas", "quemaduras", "eccema"]
+        "enfermedades": ["dermatológicas"]
     },
 
     {
@@ -481,7 +480,7 @@
         "posologia": {
             "Infusión": "Verter agua hirviente sobre 4 o 5 hojas"
         },
-        "enfermedades": ["resfriado común", "gripe", "dolor muscular"]
+        "enfermedades": ["respiratorias"]
     },
 
     {
@@ -509,7 +508,7 @@
         "posologia": {
             "Mezcla": "Disolver en agua o leche 10-20 g de pulpa de frutos frescos y maduros. Endulzar si se desea e ingerir en una o varias dosis al día"
         },
-        "enfermedades": ["estreñimiento", "fiebre", "infecciones"]
+        "enfermedades": ["digestivas", "fiebre", "infecciosas"]
     },
 
     {
@@ -531,7 +530,7 @@
         "posologia": {
             "Infusión": "Verter 10-20 g de hojas frescas y desmenuzadas en un litro de agua hirviendo. Reposar por 10-15 minutos. Para consumo interno filtrar utilizando un paño o lienzo fino. Por vía oral tomar 500-700 ml al día en 2-3 dosis. Tópicamente aplicar la infusión directamente sobre la zona afectada 2-3 veces al día"
         },
-        "enfermedades": ["digestivas", "respiratorias", "nerviosas", "antiinflamatorias", "antioxidantes"]
+        "enfermedades": ["digestivas", "respiratorias", "nerviosas", "dermatológicas"]
     },
 
     {
@@ -559,7 +558,7 @@
           },
         "advertencias": null, 
         "posologia": null,
-        "enfermedades": ["digestivas", "respiratorias", "de la piel"]
+        "enfermedades": ["digestivas", "respiratorias", "dermatológicas"]
     },
 
     {
@@ -588,7 +587,7 @@
         "posologia": {
             "Natural": "Ingerir de 200-300 g de bulbos frescos al día, durante las comidas"
         },
-        "enfermedades": ["resfriados", "gripe", "infecciones", "problemas cardiovasculares", "problemas digestivos"]
+        "enfermedades": ["respiratorias", "infecciosas", "cardiovasculares", "digestivas"]
     },
 
     {
@@ -615,7 +614,7 @@
           },
         "advertencias": null, 
         "posologia": null,
-        "enfermedades": ["resfriados", "gripe", "diarrea", "problemas de piel", "infecciones respiratorias", "problemas digestivos", "fiebre", "dolor de garganta"]
+        "enfermedades": ["respiratorias", "digestivas", "dermatológicas", "fiebre"]
     },
 
     {
@@ -641,7 +640,7 @@
         },
         "advertencias": null, 
         "posologia": null,
-        "enfermedades": ["infecciones respiratorias", "problemas digestivos", "fiebre", "ansiedad"]
+        "enfermedades": ["respiratorias", "digestivas", "fiebre", "ansiedad"]
     },
 
     {
@@ -664,7 +663,7 @@
         },
         "advertencias": "Se le atribuyen efectos estrogénicos. Citada como causante de efectos teratogénicos en animales domésticos", 
         "posologia": null,
-        "enfermedades": ["infecciones respiratorias", "congestión nasal", "asma", "artritis"]
+        "enfermedades": ["respiratorias", "articulaciones"]
     },
 
     {
@@ -683,7 +682,7 @@
         },
         "advertencias": "Para adultos, por vía oral, la dosis aproximada de 3 g resulta tóxica. Para niños la dosis máxima admisible es de 0,5 g. El contacto regular y repetido con la droga puede provocar dermatitis", 
         "posologia": null,
-        "enfermedades": ["dolor de muelas", "infecciones bacterianas", "indigestión", "nauseas"]
+        "enfermedades": ["dolor de muelas", "infecciosas", "digestivas"]
     },
 
     {
@@ -713,7 +712,7 @@
         "posologia": {
             "Natural": "Consumir al día 500 ml del agua o jugo en una o dos dosis"
         },
-        "enfermedades": ["enfermedades cardiovasculares", "colesterol alto", "enfermedades renales", "deshidratación"]
+        "enfermedades": ["cardiovasculares", "renales"]
     },
 
     {
@@ -740,7 +739,7 @@
           },
         "advertencias": "Se han detectado algunos efectos tóxicos en animales de experimentación. El jugo de las hojas frescas puede causar enrojecimiento e irritación cutánea. Tiene efecto simpaticomimético (tipo dopaminérgico) cardiovascular, respiratorio y digestivo", 
         "posologia": null,
-        "enfermedades": ["respiratorias", "digestivas", "piel"]
+        "enfermedades": ["respiratorias", "digestivas", "dermatológicas"]
     },
 
     {
@@ -762,7 +761,7 @@
           },
         "advertencias": "Se refiere que es un abortivo fuerte", 
         "posologia": null,
-        "enfermedades": ["digestivas", "hepáticas", "renales", "respiratorias", "urinarias"]
+        "enfermedades": ["digestivas", "hepáticas", "renales", "respiratorias"]
     },
 
     {
@@ -783,7 +782,7 @@
           },
         "advertencias": "El polvo de los rizomas puede producir alergia por contacto en piel. La evaluación toxicológica es incompleta", 
         "posologia": null,
-        "enfermedades": ["digestivas", "hepáticas", "inflamatorias", "cáncer"]
+        "enfermedades": ["digestivas", "hepáticas", "dermatológicas", "cáncer"]
     },
 
     {
@@ -848,7 +847,7 @@
         },
         "advertencias": "Algunas personas refieren que la decocción de la planta es abortiva. Se ha demostrado que el polen puede provocar alergias y ocasionar la llamada fiebre de Santa María y rinitis. También puede producir dermatitis por contacto. Algunos autores plantean que presenta marcada toxicidad in vitro", 
         "posologia": null,
-        "enfermedades": ["alergias", "asma", "dermatitis"]
+        "enfermedades": ["alergias", "respiratorias", "dermatológicas"]
     },
 
     {
@@ -870,7 +869,7 @@
         "posologia": {
             "Infusión": "Verter de 10-20 g de hojas desmenuzadas sobre 1 litro de agua. Las inhalaciones deben repetirse 2-3 veces al día. Para uso tópico la infusión se aplica localmente en la zona afectada 2-3 veces al día"
         },
-        "enfermedades": ["respiratorias", "cutáneas", "dolorosas"]
+        "enfermedades": ["respiratorias", "dermatológicas"]
     },
 
     {
@@ -891,7 +890,7 @@
         "posologia": {
             "Infusión": "Verter sobre 1 l de agua hirviente, de 10 a 20 g de hojas desmenuzadas, 10 a 20 ml de extracto fluido o 50 ml de tintura. Repetir las inhalaciones 2 o 3 veces. Para uso tópico aplicar directamente la tintura 2 o 3 veces al día o usar en forma de baños, 20 ml del extracto fluido por cada 10 l de agua"
         },
-        "enfermedades": ["respiratorias", "infecciones", "piel", "articulaciones", "estrés y ansiedad"]
+        "enfermedades": ["respiratorias", "infecciosas", "dermatológicas", "estrés", "ansiedad"]
     },
 
     {
@@ -923,7 +922,7 @@
         "posologia": {
             "Natural": "Aplicar localmente el fruto majado o su jugo 2 o 3 veces al día. Suspender si aparece irritación local"
         },
-        "enfermedades": ["digestivas", "inflamatorias", "cardiovasculares"]
+        "enfermedades": ["digestivas", "dermatológicas", "cardiovasculares"]
     },
     
     {
@@ -951,7 +950,7 @@
         "posologia": {
             "Infusión": "De un manojo de hojas en una botella de agua hirviente. Aplicar localmente en las partes afectadas 2 o 3 veces al día"
         },
-        "enfermedades": ["malaria", "cáncer", "infecciones virales"]
+        "enfermedades": ["cáncer", "virales"]
     },
 
     {
@@ -970,7 +969,7 @@
         },
         "advertencias": null, 
         "posologia": null,
-        "enfermedades": ["estrés", "ansiedad", "problemas de la piel"]
+        "enfermedades": ["estrés", "ansiedad", "dermatológicas"]
     },
 
     {
@@ -996,7 +995,7 @@
         "posologia": {
             "Decocción": "Hacer hervir una taza de corteza desmenuzada en 5 tazas de agua. Para adultos 4 cucharadas cada 2 horas (no más de 4 veces al día). El tratamiento debe ser precedido y seguido por la administración de purgante"
         },
-        "enfermedades": ["anemia", "problemas digestivos", "enfermedades del corazón"]
+        "enfermedades": ["digestivas", "cardiovasculares"]
     },
 
     {
@@ -1019,7 +1018,7 @@
         },
         "advertencias": "La ingestión de grandes cantidades de diferentes partes de la planta pueden provocar náuseas, vómitos y diarreas", 
         "posologia": null,
-        "enfermedades": ["resfriados", "gripe", "problemas digestivos", "quemaduras por el guao"]
+        "enfermedades": ["respiratorias", "digestivas", "dermatológicas"]
     },
 
     {
@@ -1041,7 +1040,7 @@
             "Tintura": "Mezclar 30 gotas en 45 ml de miel o almíbar. Ingerir en el transcurso del día repartidos en 3 dosis",
             "Jarabe": "Tomar 30 ml al día repartidos en 2 dosis"
         },
-        "enfermedades": ["heridas", "quemaduras", "infecciones de la piel"]
+        "enfermedades": ["dermatológicas"]
     },
 
     {
@@ -1069,7 +1068,7 @@
         "posologia": {
             "Decocción": "Hervir por 3 minutos 10-20 g de hojas frescas en un litro de agua. Ingerir 120 ml, 6 veces al día. La preparación de la decocción debe ser diaria"
         },
-        "enfermedades": ["diarrea", "disentería", "resfriados"]
+        "enfermedades": ["digestivas", "respiratorias"]
     },
 
     {
@@ -1091,7 +1090,7 @@
         "posologia": {
             "Infusión": "Verter 20-30 g de hojas frescas en 1 litro de agua hirviendo. Ingerir 500-700 ml diarios repartidos en 2-3 dosis. Esta misma infusión puede utilizarse para inhalaciones y para aplicar localmente, en este último caso, utilizar 2-3 veces al día directamente sobre la zona afectada"
         },
-        "enfermedades": ["problemas digestivos", "náuseas", "resfriados"]
+        "enfermedades": ["digestivas", "respiratorias"]
     },
 
     {
@@ -1117,7 +1116,7 @@
         },
         "advertencias": "Según la dosis, se considera tóxica para el ganado y el hombre. Citada como planta acumuladora de nitritos y nitratos", 
         "posologia": null,
-        "enfermedades": ["intoxicaciones", "problemas digestivos", "alergias"]
+        "enfermedades": ["digestivas", "alergias"]
     },
 
     {
@@ -1146,7 +1145,7 @@
         "posologia": {
             "Natural": "El aceite de ricino se emplea como catártico en dosis usual de 15 ml para adultos"
         },
-        "enfermedades": ["estreñimiento", "enfermedades de la piel", "cáncer"]
+        "enfermedades": ["digestivas", "dermatológicas", "cáncer"]
     },
 
     {
@@ -1172,7 +1171,7 @@
             "Infusión": "Agregar 3 g de frutos maduros a 1 litro de agua hirviendo. Reposar por 10-15 minutos antes de filtrar. Ingerir hasta 1 litro al día repartido en 3-4 dosis",
             "Tintura": "Mezclar 15 ml en 1 litro de agua tibia. Beber en el transcurso del día repartido en 3-4 dosis"
         },
-        "enfermedades": ["problemas digestivos", "cólicos infantiles", "náuseas", "vómitos"]
+        "enfermedades": ["digestivas"]
     },
 
     {
@@ -1193,7 +1192,7 @@
         "posologia": {
             "Infusión": "Niños, 2 g/l y adultos, 10 g/l. Reposar de 10 a 15 minutos antes de filtrar. En todos los casos tomar de 300 a 400 ml al día, en 3 dosis cada 8 horas"
         },
-        "enfermedades": ["problemas digestivos", "parásitos intestinales", "anemia", "fatiga"]
+        "enfermedades": ["digestivas"]
     },
 
     {
@@ -1218,7 +1217,7 @@
         "posologia": {
             "Jarabe" : "70 g de raíz en polvo, 100 ml de glicerina y jarabe csp 1 000 ml. El extracto fluido se prepara con una concentración de 1:1 de la droga en relación con el disolvente hidroalcohólico (80%), por percolación. Como expectorante: 1 o 2 gotas en una cucharada de agua. Como emético: 20 gotas (adultos), 15 gotas (niños) y 5 gotas (menores de 5 años) en 1/2 vaso de agua. El jarabe, como emético: 15 ml (adultos), 10 ml (niños) y 5 ml (menores de 5 años)"
         },
-        "enfermedades": ["náuseas", "vómitos", "disentería", "amebiasis"]
+        "enfermedades": ["digestivas"]
     },
 
     {
@@ -1247,7 +1246,7 @@
             "Decocción": "Hervir por 5 minutos 0,25-1 g de rizomas secos en un litro de agua. Ingerir 500 ml al día repartidos en 2-3 dosis",
             "Tintura": "Mezclar 0,5-1 ml en medio litro de agua tibia. Ingerir durante el día repartido en 2-3 dosis"
         },
-        "enfermedades": ["náuseas", "vómitos", "mareos por movimiento", "artritis", "dolor muscular"]
+        "enfermedades": ["articulaciones", "digestivas"]
     },
 
     {
@@ -1274,7 +1273,7 @@
         "posologia": {
             "Decocción": "Hervir por 5 minutos 5-12 g de hojas frescas o corteza de frutos. Ingerir 300-500 ml al día repartidos en 2-3 dosis. La misma decocción se aplica localmente a las partes afectadas 2-3 veces al día"
         },
-        "enfermedades": ["escorbuto", "resfriado común", "problemas digestivos"]
+        "enfermedades": ["respiratorias", "digestivas"]
     },
 
     {
@@ -1298,7 +1297,7 @@
         "posologia": {
             "Decocción": "Hervir por 5 minutos 50 g de hojas frescas en 1 litro de agua. Tópicamente aplicar sobre la zona afectada 2-3 veces al dia. Para afecciones oculares utilizar a modo de compresas"
         },
-        "enfermedades": ["digestivas", "respiratorias", "dermatológicas", "urinarias", "heridas"]
+        "enfermedades": ["digestivas", "respiratorias", "dermatológicas", "renales"]
     },
 
     {
@@ -1343,7 +1342,7 @@
         "posologia": {
             "Decocción": "Hervir durante 3 minutos 15-20 g de estilos frescos en 1 litro de agua. Ingerir 500-700 ml al día repartidos en 3 dosis"
         },
-        "enfermedades": ["pelagra", "ceguera nocturna", "estreñimiento"]
+        "enfermedades": ["digestivas"]
     },
 
     {
@@ -1372,7 +1371,7 @@
         "posologia": {
             "Jarabe": "Según las dosis establecidas"
         },
-        "enfermedades": ["respiratorias", "digestivas", "inflamación", "fiebre", "hemorroides"]
+        "enfermedades": ["respiratorias", "digestivas", "dermatológicas", "fiebre", "hemorroides"]
     },
 
     {
@@ -1397,7 +1396,7 @@
         },
         "advertencias": null, 
         "posologia": null,
-        "enfermedades": ["digestivas", "cáncer", "enfermedades cardiovasculares", "inflamación", "tos", "asma", "bronquitis", "diabetes", "hipertensión", "paludismo", "escorbuto", "afecciones hepáticas", "piorrea", "enfermedades bucales"]
+        "enfermedades": ["digestivas", "cáncer", "cardiovasculares", "dermatológicas", "respiratorias", "hepáticas"]
     },
 
     {
@@ -1420,7 +1419,7 @@
             "Infusión": "Verter 5-12 g de flores frescas en 1 litro de agua hirviendo. Reposar 10-15 minutos antes de filtrar. Ingerir 500-700 ml al día repartidos en 3-4 dosis",
             "Extracto fluido": "Mezclar 20 gotas en medio vaso de agua tibia. Ingerir 3 veces al día. Para uso tópico utilizar la infusión descrita, la tintura o el extracto fluido, aplicados localmente sobre la zona afectada 2-3 veces al día"
         },
-        "enfermedades": ["digestivas", "ansiedad", "insomnio", "inflamación"]
+        "enfermedades": ["digestivas", "ansiedad", "insomnio", "dermatológicas"]
     },
 
     {
@@ -1447,7 +1446,7 @@
         "posologia": {
             "Decocción": "Hervir por no más de 1 min. el equivalente a una cucharadita de la raíz desmenuzada por cada taza de agua. Dejar reposar 15 min. antes de beber. Ingerir una taza por las noches"
         },
-        "enfermedades": ["problemas de piel", "dolor de garganta", "fiebre", "hemorroides", "diarrea", "herpes", "digestivas"]
+        "enfermedades": ["dermatológicas", "respiratorias", "fiebre", "hemorroides", "digestivas", "digestivas"]
     },
 
     {
@@ -1476,7 +1475,7 @@
         "posologia": {
             "Decocción": "Hervir por 10 minutos, de 10 a 20 g de la planta por litro de agua. Tomar de 500 a 600 ml en 2 o 3 dosis"
         },
-        "enfermedades": ["respiratorias", "digestivas", "urinarias"]
+        "enfermedades": ["respiratorias", "digestivas", "renales"]
     },
 
     {
@@ -1528,7 +1527,7 @@
         "posologia": {
             "Natural": "Tópicamente, aplicar fresca, la decocción de 200 g de follaje por litro de agua"
         },
-        "enfermedades": ["digestivas", "respiratorias", "piel", "menstruales"]
+        "enfermedades": ["digestivas", "respiratorias", "dermatológicas", "cardiovasculares"]
     },
 
     { 
@@ -1559,7 +1558,7 @@
         },
         "advertencias": "La resina del tronco es algo caústica. El jugo de las hojas es un poco irritante. La absorción del fruto en gran cantidad puede ser tóxica. Las semillas contienen compuestos mutagénicos. El aceite no se debe consumir por vía oral; su actividad puede afectarse por la luz o forma de extracción", 
         "posologia": null,
-        "enfermedades": ["anemia", "diabetes", "hipertensión", "colesterol alto", "problemas digestivos", "inflamación", "enfermedades de la piel", "cáncer"]
+        "enfermedades": ["cardiovasculares", "digestivas", "dermatológicas", "cáncer"]
     },
     
     {
@@ -1587,7 +1586,7 @@
         "posologia": {
             "Mezcla" : "Mezclar 30 g de polvo de semillas con 90 g de harina de trigo, maicena o polvo inerte y 100 ml de cualquier tipo de aceite. Extender la pasta resultante sobre la zona afectada y mantenerla 5-10 min. Si se desea, cubrir con paños calientes o bolsa de agua tibia. Transcurrido el tiempo indicado, lavar bien la zona con agua tibia"
         },
-        "enfermedades": ["respiratorias", "digestivas", "piel", "menstruales"]
+        "enfermedades": ["respiratorias", "digestivas", "dermatológicas", "cardiovasculares"]
     },
 
     {
@@ -1621,7 +1620,7 @@
         "posologia": {
             "Decocción": "Hervir por 5 minutos 5-12 g de hojas frescas o corteza de frutos. Ingerir 300-500 ml al día repartidos en 2-3 dosis. La misma decocción se aplica localmente a las partes afectadas 2-3 veces al día"
         },
-        "enfermedades": ["resfriado", "gripe", "indigestión", "ansiedad"]
+        "enfermedades": ["respiratorias", "digestivas", "ansiedad"]
     },
 
     {
@@ -1653,7 +1652,7 @@
         "posologia": {
             "Decocción": "Hervir por 5 minutos 5-12 g de hojas frescas o corteza de frutos. Ingerir 300-500 ml al día repartidos en 2-3 dosis. La misma decocción se aplica localmente a las partes afectadas 2-3 veces al día"
         },
-        "enfermedades": ["resfriado común", "gripe", "escorbuto"]
+        "enfermedades": ["respiratorias"]
     },
 
     {
@@ -1678,7 +1677,7 @@
         "posologia": {
             "Natural": "Se refieren dosis de 300 a 600 mg de polvo de semillas secas"
         },
-        "enfermedades": ["insomnio", "ansiedad", "dolor de muelas", "afecciones intestinales"]
+        "enfermedades": ["insomnio", "ansiedad", "dolor de muelas", "digestivas"]
     },
 
     {
@@ -1708,7 +1707,7 @@
         "posologia": {
             "Infusión": "Verter 15-20 de follaje fresco en 1 litro de agua hirviendo. Reposar 10-15 minutos antes de filtrar. Ingerir 300-500 ml al día repartidos en 2-3 dosis"
         },
-        "enfermedades": ["digestivas", "respiratorias", "dermatológicas", "ansiedad", "dolor de cabeza", "fiebre"]
+        "enfermedades": ["digestivas", "respiratorias", "dermatológicas", "ansiedad", "cefaleas", "fiebre"]
     },
 
     {
@@ -1732,7 +1731,7 @@
         },
         "advertencias": null, 
         "posologia": null,
-        "enfermedades": ["respiratorias", "digestivas", "inflamatorias"]
+        "enfermedades": ["respiratorias", "digestivas", "dermatológicas"]
     },
 
     {
@@ -1753,7 +1752,7 @@
           },
         "advertencias": null, 
         "posologia": null,
-        "enfermedades": ["insuficiencia venosa", "úlceras venosas", "hemorroides", "celulitis", "estrías", "lepra"]
+        "enfermedades": ["digestivas", "hemorroides", "dermatológicas"]
     },
 
     {
@@ -1774,7 +1773,7 @@
         "posologia": {
             "Decocción": "Hervir por no menos de 5 minutos 20 g de virutas de los tallos en 1 litro de agua. Ingerir 120 ml 6 veces al día. Tópicamente aplicar sobre la zona afectada 2-3 veces al día"
         },
-        "enfermedades": ["diarrea", "disentería", "hemorragias", "úlceras", "heridas", "anemia", "amenorrea"]
+        "enfermedades": ["digestivas", "cardiovasculares", "dermatológicas"]
     },
 
     {
@@ -1797,7 +1796,7 @@
         "posologia": {
             "Decocción": "Hervir por 10 minutos 100 g de tubérculos rayados o picados en pequeños pedazos en 1 litro de agua. Filtrar y dejar refrescar antes de aplicar sobre la zona afectada. Repetir la aplicación 2-3 veces al día"
         },
-        "enfermedades": ["anemia", "enfermedades cardiovasculares", "cáncer", "problemas digestivos", "enfermedades de la piel"]
+        "enfermedades": ["cardiovasculares", "cáncer", "digestivas", "dermatológicas"]
     },
 
     {
@@ -1825,7 +1824,7 @@
         },
         "advertencias": "Se reporta que los frutos son venenosos", 
         "posologia": null,
-        "enfermedades": ["diabetes", "hipertensión", "malaria", "cáncer"]
+        "enfermedades": ["cardiovasculares", "cáncer"]
     },
 
     {
@@ -1851,7 +1850,7 @@
             "Decocción": "Hervir por 3 minutos 5 g del follaje fresco en 250 ml de agua. Ingerir esta cantidad en el transcurso del día repartida en 2-3 dosis" ,
             "Extracto fluido": "Disolver 5 ml en 250 ml de agua tibia. Ingerir en el transcurso del día repartido en 2-3 dosis"
         },
-        "enfermedades": ["ansiedad", "insomnio", "dolor", "calambres menstruales", "síndrome del intestino irritable"]
+        "enfermedades": ["ansiedad", "insomnio"]
     },
 
     {
@@ -1875,7 +1874,7 @@
         "posologia": {
             "Decocción": "Hervir por 5 minutos 100 g de hojas frescas en 1 litro de agua. Reposar por no menos de 15 minutos. Aplicar localmente en la zona afectada 2-3 veces al día"
         },
-        "enfermedades": ["respiratorias", "digestivas", "asma", "bronquitis", "sinusitis", "infecciones urinarias", "problemas de la piel"]
+        "enfermedades": ["respiratorias", "digestivas", "renales", "dermatológicas"]
     },
 
     {
@@ -1900,7 +1899,7 @@
           },
         "advertencias": null, 
         "posologia": null,
-        "enfermedades": ["respiratorias", "digestivas", "cutáneas", "impotencia", "infecciones vaginales", "cistitis"]
+        "enfermedades": ["respiratorias", "digestivas", "dermatológicas", "cardiovasculares"]
     },
 
     {
@@ -1926,7 +1925,7 @@
         },
         "advertencias": null, 
         "posologia": null,
-        "enfermedades": ["estreñimiento", "diarrea", "úlceras"]
+        "enfermedades": ["digestivas"]
     },
 
     {
@@ -1959,7 +1958,7 @@
           },
         "advertencias": "Los pelos del fruto pueden causar irritación cutánea. Se ha demostrado que provocan dermatitis alérgica por contacto en las personas que habitualmente cultivan la planta", 
         "posologia": null,
-        "enfermedades": ["diabetes", "colesterol alto", "estreñimiento", "inflamación"]
+        "enfermedades": ["digestivas", "dermatológicas"]
     },
 
     {
@@ -1983,7 +1982,7 @@
         "posologia": {
             "Decocción" : "Preparar una decocción con una cucharadita de la droga seca y desmenuzada, por vaso de agua; hervir por no menos de 10 min"
         },
-        "enfermedades": ["diarrea", "disentería", "hemorroides", "infecciones urinarias", "problemas hepáticos", "úlceras estomacales", "mordeduras de serpientes"]
+        "enfermedades": ["digestivas", "hemorroides", "renales", "hepáticas", "dermatológicas"]
     },
 
     {
@@ -2010,7 +2009,7 @@
           },
         "advertencias": null, 
         "posologia": null,
-        "enfermedades": ["anemia", "hipertensión", "estreñimiento", "infecciones urinarias", "enfermedades hepáticas", "problemas digestivos", "inflamación"]
+        "enfermedades": ["cardiovasculares", "digestivas", "renales", "hepáticas", "digestivas", "dermatológicas"]
     },
 
     {
@@ -2041,7 +2040,7 @@
         "posologia": {
             "Infusión" : "En casos de dolencias agudas consumir una taza cada 4 horas. Filtrar a través de un paño o lienzo"
         },
-        "enfermedades": ["respiratorias", "digestivas", "piel"]
+        "enfermedades": ["respiratorias", "digestivas", "dermatológicas"]
     },
 
     {
@@ -2064,7 +2063,7 @@
         "posologia": {
             "Infusión": "Verter 57 g de follaje fresco en 250 ml de agua hirviendo. Reposar por 10-15 minutos. Beber en el día en 1-2 dosis, nunca antes de acostarse"
         },
-        "enfermedades": ["digestivas", "respiratorias", "circulatorias", "nerviosas"]
+        "enfermedades": ["digestivas", "respiratorias", "cardiovasculares", "nerviosas"]
     },
 
     {
@@ -2088,7 +2087,7 @@
         },
         "advertencias": "Tiene efectos abortivo y mutagénico comprobados. El aceite esencial es extremadamente irritante para la piel y mucosas. Se considera venenosa en dosis mayores de 2 g del polvo seco por día", 
         "posologia": null,
-        "enfermedades": ["digestivas", "menstruales", "nerviosas", "piel", "circulatorias", "cardiovasculares"]
+        "enfermedades": ["digestivas", "nerviosas", "dermatológicas", "cardiovasculares"]
     },
 
     {
@@ -2110,7 +2109,7 @@
         "posologia": {
             "Natural": "Para uso tópico, se acostumbra aplicar localmente el mesófilo (cristal de la hoja) directamente sobre la zona afectada, 2-3 veces al día. Por vía oral, adicionar 50 g del mesófilo a 1 litro de agua. Tomar como agua común 300-500 ml al día repartido en 2-3 dosis. Para su uso como laxante, preparar de igual forma pero sin pelar la hoja y quitándole las espinas de los bordes"
         },
-        "enfermedades": ["quemaduras", "heridas", "acné", "psoriasis", "artritis"]
+        "enfermedades": ["dermatológicas", "articulaciones"]
     },
 
     {
@@ -2138,7 +2137,7 @@
         "posologia": {
             "Decocción": "Hervir por 10 minutos 20-30 g de rizomas frescos en 1 litro de agua. Tomar 120 ml, 6 veces al día"
         },
-        "enfermedades": ["diarrea", "disentería", "heridas", "digestivas", "gangrena"]
+        "enfermedades": ["digestivas", "dermatológicas"]
     },
 
     {
@@ -2184,7 +2183,7 @@
         "posologia": {
             "Infusión": "Verter 20-30 g de hojas frescas sobre 1 litro de agua. Reposar por 10-15 minutos. Ingerir 300-500 ml al día repartidos en 2-3 dosis. Para uso tópico, aplicar la infusión descrita directamente sobre la zona afectada, 2-3 veces al día"
         },
-        "enfermedades": ["digestivas", "respiratorias", "cutáneas", "nerviosas"]
+        "enfermedades": ["digestivas", "respiratorias", "dermatológicas", "nerviosas"]
     },
 
     {
@@ -2205,7 +2204,7 @@
         },
         "advertencias": "La briofilina-B presente en el extracto acuoso de la hoja es citotóxica. La planta entera por vía intragástrica en las ratas, en dosis de 790 mg/Kg de masa corporal, no tiene efecto tóxico", 
         "posologia": null,
-        "enfermedades": ["quemaduras", "heridas", "eccemas", "infecciones"]
+        "enfermedades": ["dermatológicas", "infecciosas"]
     },
 
     {
@@ -2262,7 +2261,7 @@
         "posologia": {
             "Mezcla": "Mezclar 50 g de pulpa fresca en 0.5 litro de agua o leche. Endulzar al gusto. Ingerir en el transcurso del día repartido en 2- 3 dosis"
         },
-        "enfermedades": ["estreñimiento", "fiebre", "infecciones", "dermatológicas"]
+        "enfermedades": ["digestivas", "fiebre", "infecciosas", "dermatológicas"]
     },
 
     {
@@ -2284,7 +2283,7 @@
         "posologia": {
             "Decocción": "Al contenido de un vaso de agua hirviendo añadir una cucharada de follaje seco y molido (en la forma en que se expende en las farmacias), dejar reposar entre 2-3 horas antes de colar para beber. Tomar 1/2 vaso en la mañana y el resto por la tarde. Preparar diariamente"
         },
-        "enfermedades": ["infecciones del tracto urinario", "cálculos renales", "retención de líquidos"]
+        "enfermedades": ["renales"]
     },
 
     {
@@ -2312,7 +2311,7 @@
             "Decocción": "Hervir por 5 minutos 1520 g de hojas frescas en 1 litro de agua. Ingerir 240 ml al día repartidos en 2 dosis",
             "Extracto fluido": "Mezclar 5 ml en 120 ml de agua tibia. Ingerir en el transcurso del día repartidos en 2 dosis. Para uso tópico, utilizar indistintamente la decocción descrita o elextracto fluido, aplicados localmente sobre la zona afectada 2-3 veces al día"
         },
-        "enfermedades": ["resfriado", "gripe", "ansiedad", "insomnio"]
+        "enfermedades": ["respiratorias", "insomnio"]
     },
 
     {
@@ -2340,7 +2339,7 @@
         "posologia": {
             "Natural": "Friccionar o restregar las hojas o rodajas de los frutos directamente sobre las partes afectadas"
         },
-        "enfermedades": ["cáncer", "enfermedades cardiovasculares", "enfermedades oculares", "dermatológicas"]
+        "enfermedades": ["cáncer", "cardiovasculares", "oculares", "dermatológicas"]
     },
 
     {
@@ -2363,7 +2362,7 @@
         "posologia": {
             "Infusión": "Verter 20-30 g de follaje fresco en 1 litro de agua hirviendo. Reposar por 10-15 minutos. Ingerir 500-700 ml al día repartidos en 2-3 dosis"
         },
-        "enfermedades": ["estrés", "ansiedad", "insomnio", "indigestión"]
+        "enfermedades": ["estrés", "ansiedad", "insomnio", "digestivas"]
     },
 
     {
@@ -2404,7 +2403,7 @@
         },
         "advertencias": "Por vía oral la decocción agrava las lesiones de la mucosa gástrica inducídas en ratas. La DL50 = 100 mg/kg de masa corporal (en ratón por vía intraperitoneal)", 
         "posologia": null,
-        "enfermedades": ["resfriados", "gripe", "fiebre", "diarrea"]
+        "enfermedades": ["respiratorias", "fiebre", "digestivas"]
     },
 
     {
@@ -2427,7 +2426,7 @@
         "posologia": {
             "Decocción" : "Preparar una decocción con aproximadamente 25 g de raíces por 1l de agua. Hervir por no menos de 10 min"
         },
-        "enfermedades": ["estrés", "ansiedad", "insomnio", "trastornos digestivos", "fiebre", "infecciones", "heridas"]
+        "enfermedades": ["estrés", "ansiedad", "insomnio", "digestivas", "fiebre", "infecciosas", "dermatológicas"]
     },
 
     {
@@ -2452,7 +2451,7 @@
         "posologia": {
             "Decocción": "Hervir por no menos de 5 min. un puñado de flores frescas por litro de agua. Al enfriar colocar con algodones sobre los ojos"
         },
-        "enfermedades": ["oculares", "dermatológicas", "leucemia", "linfoma de Hodgkin", "enfermedad de Hodgkin", "sarcoma de Kaposi"]
+        "enfermedades": ["oculares", "dermatológicas", "cardiovasculares"]
     },
 
     {
@@ -2481,7 +2480,7 @@
         },
         "advertencias": "Se reportan casos en los que se han producido trastornos nerviosos, circulatorios y hasta la muerte por sobredosis del contenido de las raíces", 
         "posologia": null,
-        "enfermedades": ["tos", "bronquitis", "asma", "insomnio", "ansiedad", "eccemas", "heridas"]
+        "enfermedades": ["respiratorias", "insomnio", "ansiedad", "dermatológicas"]
     },
 
     {
@@ -2506,7 +2505,7 @@
         },
         "advertencias": "Los estudios toxicológicos no han demostrado que la planta posea toxicidad general de importancia. TRAMIL considera recomendable el uso antipirético (administración interna y externa) y otras indicaciones deben tener mayor sustento investigativo sobre la actividad farmacológica y su seguridad toxicológica", 
         "posologia": null,
-        "enfermedades": ["hepatitis", "malaria", "diarrea", "infecciones urinarias", "cáncer", "diabetes"]
+        "enfermedades": ["cardiovasculares", "digestivas", "renales", "cáncer"]
     },
 
     {
@@ -2535,7 +2534,7 @@
         "posologia": {
             "Natural": "El almidón de los tubérculos se aplica directamente sobre las partes afectadas"
         },
-        "enfermedades": ["digestivas", "artritis", "heridas"]
+        "enfermedades": ["digestivas", "articulaciones", "dermatológicas"]
     },
 
     {
@@ -2558,5 +2557,4 @@
         "posologia": null,
         "enfermedades": ["oculares", "digestivas", "cardiovasculares", "dermatológicas"]
     }
-  ]
-}
+]
