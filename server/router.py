@@ -3,8 +3,7 @@ from fastapi.responses import ORJSONResponse
 from utils import apply_from_split_to_lemmatization, load_json, split_sentence
 from tf_idf import extract_tfidf, tf
 from collections import defaultdict
-
-from typing import Optional
+from levenshtein_distance import levenshtein_distance
 
 router = APIRouter()
 
@@ -20,21 +19,30 @@ async def get_prediction(symptoms: str) -> ORJSONResponse:
         "TF-IDF"
         properties_tf_idf_lemma = extract_tfidf(symptoms_lemma, {prop["nombre"]: prop["lema"] for prop in properties})
         diseases_tf_idf_lemma = extract_tfidf(symptoms_lemma, {disease["nombre"]: disease["lema"] for disease in diseases}, "diseases")
+
+        "Levenshtein Distance"
+        distance = levenshtein_distance(symptoms_lemma, properties[1]["lema"])
+        print(distance, symptoms_lemma, properties[1]["lema"])
         
-        plants_tf = defaultdict(int)
+        response_plants = {}
         for plant in plants:
+            values = defaultdict(int)
+            #tf-idf
             for disease, value in diseases_tf_idf_lemma.items():
                 if disease in plant["enfermedades"]:
-                    plants_tf[plant["nombre"]] += value
+                    values["tf_idf"] += value
 
             for prop, value in properties_tf_idf_lemma.items():
                 if prop in sum(plant["propiedades"].values(), []):
-                    plants_tf[plant["nombre"]] += value
+                    values["tf_idf"] += value
+
+            if values != {}:
+                response_plants[plant["nombre"]] = values
         
         return ORJSONResponse(
             {
              "status": "success",
-             "plants": list(dict(sorted(plants_tf.items(), key=lambda item: item[1], reverse=True)))[:5]
+             "plants": response_plants
             }, 
             status_code=200)
     except Exception as err:
