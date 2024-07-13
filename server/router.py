@@ -71,7 +71,20 @@ async def get_plant(name: str) -> ORJSONResponse:
 
         return ORJSONResponse({
              "status": "success",
-             "data": [plant for plant in plants if plant["nombre"] == name][0]
+             "plant": [plant for plant in plants if plant["nombre"] == name][0]
+            }, 
+            status_code=200)
+    except Exception as err:
+        return ORJSONResponse({"status": "error", "message": err.args[0]}, status_code=400)
+
+@router.get("/property/{name}")
+async def get_property(name: str) -> ORJSONResponse:
+    try:
+        properties = load_json("propiedades.json")
+
+        return ORJSONResponse({
+             "status": "success",
+             "descripcion": [prop["descripcion"] for prop in properties if prop["nombre"] == name][0]
             }, 
             status_code=200)
     except Exception as err:
