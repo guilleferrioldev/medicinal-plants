@@ -17,7 +17,7 @@
         {
           "nombre": "antigripal",
           "descripcion": "combate los síntomas de gripe y resfriado, como fiebre, dolor de cabeza, dolor muscular y nariz tapada",
-          "lema": ["muscular", "combate", "fiebre", "resfriar", "tapado", "gripe", "nariz", "sintoma", "dolor", "cabeza"]
+          "lema": ["muscular", "combate", "fiebre", "resfriar", "tapado", "gripe", "nariz", "sintoma", "to"]
         },
         {
           "nombre": "diurética",
@@ -57,7 +57,7 @@
         {
           "nombre": "antianginosa",
           "descripcion": "previene y trata el dolor torácico causado por problemas de circulación sanguínea al corazón",
-          "lema": ["corazon", "causado", "sanguínear", "problema", "toracico", "prevenir", "tratar", "circulacion", "dolor"]
+          "lema": ["corazon", "causado", "sanguínear", "toracico", "prevenir", "tratar", "circulacion"]
         },
         {
           "nombre": "digestiva",
@@ -72,7 +72,7 @@
         {
           "nombre": "antihemorroidal",
           "descripcion": "reduce el dolor, picazón e hinchazón de las hemorroides",
-          "lema": ["hemorroid", "picazon", "reducir", "dolor", "hinchazon", "hemorroide"]
+          "lema": ["hemorroid", "picazon", "reducir", "hinchazon", "hemorroide"]
         },
         {
           "nombre": "antiespasmódica",
@@ -97,7 +97,7 @@
         {
           "nombre": "antiasmática",
           "descripcion": "alivia los síntomas del asma, como sibilancias, dificultad para respirar y tos",
-          "lema": ["dificultad", "to", "sibilancia", "asmo", "respirar", "sintoma", "alivia", "tos"]
+          "lema": ["to", "sibilancia", "asmo", "respirar", "sintoma", "alivia", "tos"]
         },
         {
           "nombre": "antibacteriana",
@@ -162,7 +162,7 @@
         {
           "nombre": "estimulante",
           "descripcion": "aumenta la actividad física o mental",
-          "lema": ["actividad", "fisico", "aumentar", "mental"]
+          "lema": ["actividad", "fisico", "aumentar", "mental", "activar", "activa", "estimulo", "estimlar", "estimula", "estimulante", "activar yo", "activar"]
         },
         {
           "nombre": "galactogoga",
@@ -182,7 +182,7 @@
         {
           "nombre": "sedante",
           "descripcion": "produce somnolencia o relajación",
-          "lema": ["somnolencia", "relajacion", "producir"]
+          "lema": ["somnolencia", "relajacion", "producir", "dormi", "dormir"]
         },
         {
           "nombre": "hipotensora",
@@ -222,7 +222,7 @@
         {
           "nombre": "aperitiva",
           "descripcion": "estimula el apetito",
-          "lema": ["estimula", "apetito"]
+          "lema": ["estimula", "apetito", "hambre", "hambr"]
         },
         {
           "nombre": "emenagoga",
@@ -267,7 +267,7 @@
         {
           "nombre": "antiodontálgica",
           "descripcion": "alivia el dolor de muelas",
-          "lema": ["dolor", "muela", "alivia"]
+          "lema": ["muela", "alivia"]
         },
         {
           "nombre": "refrescante",
@@ -302,7 +302,7 @@
         {
           "nombre": "otálgica",
           "descripcion": "alivian el dolor de oído",
-          "lema": ["oer", "aliviar", "dolor", "oir", "oido"]
+          "lema": ["oer", "oir", "oido"]
         },
         {
           "nombre": "antialopética",
@@ -332,12 +332,12 @@
         {
           "nombre": "antialmorránica",
           "descripcion": "alivian los síntomas de las hemorroides, como el dolor, la picazón y el sangrado",
-          "lema": ["dolor", "aliviar", "hemorroid", "sintoma", "sangrado", "picazon", "hemorroide"]
+          "lema": ["hemorroid", "sintoma", "sangrado", "picazon", "hemorroide"]
         },
         {
           "nombre": "espasmolítica",
           "descripcion": "relajan los músculos lisos, aliviando los espasmos y el dolor asociados",
-          "lema": ["liso", "espasmos", "dolor", "asociado", "musculo", "aliviar", "relajar"]
+          "lema": ["liso", "espasmos", "asociado", "musculo", "aliviar", "relajar"]
         },
         {
           "nombre": "antilitiásica",
@@ -372,7 +372,7 @@
         {
           "nombre": "hipostenizante",
           "descripcion": "debilitan o reducen la fuerza del organismo",
-          "lema": ["fuerza", "reducir", "debilitar", "organismo"]
+          "lema": ["reducir", "debilitar", "organismo"]
         },
         {
           "nombre": "entérica",
@@ -417,7 +417,7 @@
         {
           "nombre": "saciante",
           "descripcion": "proporcionan una sensación de saciedad duradera, ayudando a controlar el apetito",
-          "lema": ["apetito", "ayudar", "saciedad", "proporcionar", "sensacion", "controlar", "duradero"]
+          "lema": ["apetito", "ayudar", "saciedad", "proporcionar", "sensacion", "controlar", "duradero", "hambre", "hambre"]
         },
         {
           "nombre": "prebiótica",
@@ -522,7 +522,7 @@
         {
           "nombre": "antiescorbútica",
           "descripcion": "previene o trata el escorbuto, una enfermedad causada por la deficiencia de vitamina c",
-          "lema": ["escorbuto", "causado", "tratar", "vitamina", "deficiencia", "prevenir", "vitamina c", "c"]
+          "lema": ["escorbuto", "causado", "tratar", "deficiencia", "prevenir", "c"]
         },
         {
           "nombre": "larvicida",
@@ -537,7 +537,7 @@
         {
           "nombre": "odontálgica",
           "descripcion": "alivia el dolor de muelas u otros dolores dentales",
-          "lema": ["dolor", "alivia", "muela", "dolor", "dental"]
+          "lema": ["alivia", "muela", "dental", "diente", "dientes"]
         },
         {
           "nombre": "Vasoconstrictora",
@@ -617,12 +617,12 @@
         {
           "nombre": "calmante",
           "descripcion": "alivia el dolor y la inflamación",
-          "lema": ["dolor", "alivia", "inflamacion"]
+          "lema": ["dolor", "alivia", "inflamacion", "doler"]
         },
         {
           "nombre": "narcótica",
           "descripcion": "alivia el dolor intenso y puede causar somnolencia o adicción",
-          "lema": ["poder", "dolor", "alivia", "intenso", "somnolencia", "adiccion", "causar"]
+          "lema": ["somnolencia", "adiccion", "causar"]
         },
         {
           "nombre": "pediculicida",

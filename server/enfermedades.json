@@ -2,7 +2,7 @@
     {
         "nombre": "cardiovasculares",
         "descripcion": "trastornos o problemas que afectan al corazón y los vasos sanguíneos, incluyendo la enfermedad coronaria, la hipertensión, los accidentes cerebrovasculares, las arritmias cardíacas y la insuficiencia cardíaca",
-        "lema": [ "afectar", "incluir", "cardiaca", "corazon", "cerebrovascular", "coronario", "arritmia", "problema", "insuficiencia", "cardiacar", "vaso", "sanguineo", "trastorno", "accidente", "hipertension"]
+        "lema": [ "afectar", "incluir", "cardiaca", "corazon", "cerebrovascular", "coronario", "arritmia", "insuficiencia", "cardiacar", "vaso", "sanguineo", "trastorno", "accidente", "hipertension"]
     },
     {
         "nombre": "cáncer",
@@ -22,22 +22,22 @@
     {
         "nombre": "hemorroides",
         "descripcion": "venas hinchadas en el área del ano y el recto que pueden causar molestias y sangrado, hemorroide",
-        "lema": ["hemorroide", "vena", "area", "hinchada", "poder", "ano", "sangrado", "molestia", "recto", "causar"]
+        "lema": ["hemorroide", "vena", "area", "hinchada", "ano", "sangrado", "molestia", "recto", "causar"]
     },
     {
         "nombre": "insomnio",
         "descripcion": "dificultad para conciliar el sueño o permanecer dormido durante la noche, insonmio",
-        "lema":  ["insominio", "dificultad", "dormido", "sueño", "permanecer", "conciliar", "noche", "insimniir"]
+        "lema":  ["insominio", "dificultad", "dormido", "permanecer", "conciliar", "noche", "insimniir", "dormir", "dormi"]
     },
     {
         "nombre": "digestivas",
         "descripcion": "problemas relacionados con el sistema digestivo, como acidez estomacal, indigestión o gastritis, digestión",
-        "lema": ["digestivo", "sistema", "gastritis", "relacionado", "problema", "acidez", "estomacal", "indigestion", "colico"]
+        "lema": ["digestivo", "sistema", "gastritis", "relacionado", "acidez", "estomacal", "indigestion", "colico"]
     },
     {
         "nombre": "musculares",
         "descripcion": "problemas que afectan a los músculos, como calambres, distensiones musculares o mialgias",
-        "lema":  ["afectar", "musculo", "mialgia", "distension", "muscular", "problema", "calambre"]
+        "lema":  ["afectar", "musculo", "mialgia", "distension", "muscular", "calambre"]
     },
     {
         "nombre": "respiratorias",
@@ -47,7 +47,7 @@
     {
         "nombre": "oculares",
         "descripcion": "problemas relacionados con los ojos, como la miopía, la catarata o la conjuntivitis",
-        "lema": ["conjuntiviti", "ojo", "miopia", "relacionado", "problema", "catarato"]
+        "lema": ["conjuntiviti", "ojo", "miopia", "relacionado", "catarato"]
     },
     {
         "nombre": "hepáticas",
@@ -67,17 +67,17 @@
     {
         "nombre": "dolor de muelas",
         "descripcion": "dolor en uno o varios dientes causado por caries, infecciones o problemas dentales",
-        "lema": ["dental", "infeccion", "diente", "problema", "cari", "causado", "carie"]
+        "lema": ["dental", "infeccion", "diente", "cari", "causado", "carie"]
     },
     {
         "nombre": "fiebre",
         "descripcion": "elevación anormal de la temperatura corporal como respuesta a una infección u otra causa, fiebre",
-        "lema": ["elevacion", "causa", "corporal", "respuesta", "infeccion", "temperatura", "anormal", "fiebre"]
+        "lema": ["elevacion", "corporal", "respuesta", "infeccion", "temperatura", "anormal", "fiebre"]
     },
     {
         "nombre": "ansiedad",
         "descripcion": "sentimiento de preocupación, miedo o nerviosismo excesivo ante situaciones cotidianas, ansiedad",
-        "lema": ["miedo", "excesivo", "cotidiana", "sentimiento", "nerviosismo", "preocupacion", "situacion", "ansiedad"]
+        "lema": ["miedo", "excesivo", "cotidiana", "sentimiento", "nerviosismo", "situacion", "ansiedad"]
     },
     {
         "nombre": "nerviosas",
@@ -87,12 +87,12 @@
     {
         "nombre": "cefaleas",
         "descripcion": "dolor de cabeza que puede ser leve, moderado o intenso y estar asociado a diversas causas",
-        "lema":  ["leve", "poder", "causa", "moderado", "asociado", "cabeza", "intenso", "ser", "diverso"]
+        "lema":  ["moderado", "asociado", "cabeza", "intenso", "ser", "diverso"]
     },
     {
         "nombre": "articulaciones",
         "descripcion": "problemas que afectan a las articulaciones, como la artritis, la artrosis o las lesiones articulares",
-        "lema":  ["afectar", "artrosis", "artritis", "articular", "problema", "articulacion", "lesion"]
+        "lema":  ["afectar", "artrosis", "artritis", "articular", "articulacion", "lesion"]
     },
     {
         "nombre": "renales",

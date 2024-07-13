@@ -7,7 +7,7 @@ from collections import defaultdict
 router = APIRouter()
 
 @router.get("/plants")
-async def get_prediction(symptoms: str) -> ORJSONResponse:
+async def get_prediction(symptoms: str, page: int) -> ORJSONResponse:
     try:
         properties = load_json("propiedades.json")
         diseases = load_json("enfermedades.json")
@@ -47,14 +47,17 @@ async def get_prediction(symptoms: str) -> ORJSONResponse:
                     values["jaccard"] += value
 
             if values != {}:
-                values["tf_idf"] *= 0.5
-                values["jaccard"] *= 0.3
+                values["tf_idf"] *= 0.3
+                values["jaccard"] *= 0.1
                 response_plants[plant["nombre"]] = sum(values.values())
+            
+        start = (page - 1) * 5
+        end = start + 5
         
         return ORJSONResponse(
             {
              "status": "success",
-             "plants": list(dict(sorted(response_plants.items(), key=lambda item: item[1], reverse=True)))[:5]
+             "plants": list(dict(sorted(response_plants.items(), key=lambda item: item[1], reverse=True)))[start:end]
             }, 
             status_code=200)
     except Exception as err:

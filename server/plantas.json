@@ -206,7 +206,7 @@
         "familia": "Magnoliaceae",
         "descripcion": "Árbol de hasta 20 m de altura. Hojas enteras, lanceoladas y agudas. Flores blancas, rosadas o moradas y globosas. Fruto compuesto por 4 folículos de hasta 17 mm de longitud, unido por la base a un eje central e irradiado horizontalmente con la sutura ventral hacia la parte superior y cada uno contiene una semilla de superficie lisa y brillante; pedúnculos de unos 5 cm", 
         "propiedades" : {
-            "Fruto": ["tónica", "antiespasmódica", "carminativa", "expectorante", "galactogoga", "aperitiva", "cardiotónica"]
+            "Fruto": ["tónica", "antiespasmódica", "carminativa", "expectorante", "galactogoga", "cardiotónica"]
         },
         "componentes": {
             "Frutos": {
@@ -316,7 +316,7 @@
         "familia" : "Poaceae", 
         "descripcion": "Arbusto de 1 a 1,5 m de altura generalmente muy ramificado; ramas delgadas con pubescencia blanquecina. Hojas compuestas por 9 a 17 foliolos pinnados, de unos 3 cm de longitud, verde claros y pubescentes, al menos en la cara inferior. Flores en racimos estrechos de hasta 5 cm de longitud; cáliz campanulado y corola amarillenta. Legumbre lineal, tabicada entre las semillas, de 8 a 15 mm de largo por 2 mm de ancho; posee de 3 a 8 semillas",
         "propiedades" : {
-           "Fruto": ["antiepiléptica", "insecticida", "antiulcerosa", "febrífuga", "antipalúdica", "antiherpética", "antiséptica", "purgante", "sedante", "diurética", "antiespasmódica", "antiodontálgica", "antiparasitaria", "dermatológica"]
+           "Fruto": ["antiepiléptica", "insecticida", "antiulcerosa", "febrífuga", "antipalúdica", "antiherpética", "antiséptica", "purgante", "diurética", "antiespasmódica", "antiodontálgica", "antiparasitaria", "dermatológica"]
         },
         "componentes": {
             "Hojas": {
@@ -443,7 +443,7 @@
         "familia" : "Asteraceae", 
         "descripcion": "Hierba anual, más o menos pelosa. Hojas inicialmente en una roseta basal, sentadas, simples, mayormente oblongas, para la floración emite tallos erectos, algo ramificados en la parte superior, de 30 a 60 cm de altura. Cabezuelas florales terminales, solitarias, vistosas, de 3,5 a 5 cm de diámetro; los radios planos, extendidos, desde amarillo pálido a naranja brillante",
         "propiedades" : {
-           "Flores": ["antiinflamatoria", "antibacteriana", "colerética", "antiulcerosa", "inmunoestimulante", "citostatica", "antiespasmódica", "antiséptica", "vulneraria", "emenagoga", "purgante", "antidismenorreica", "sedante", "analgésica", "resolutiva", "hemostática", "dermatológica"]
+           "Flores": ["antiinflamatoria", "antibacteriana", "colerética", "antiulcerosa", "inmunoestimulante", "citostatica", "antiespasmódica", "antiséptica", "vulneraria", "emenagoga", "purgante", "antidismenorreica", "analgésica", "resolutiva", "hemostática", "dermatológica"]
         },
         "componentes": {
             "Flores": {
@@ -517,7 +517,7 @@
         "familia" : "Poaceae", 
         "descripcion": "Hierba perenne, robusta, de hasta 1 m de altura. Hojas con aroma alimonado, agrupadas cerca de la base, lineares, de hasta casi 1 m de longitud, con el borde cortante",
         "propiedades" : {
-           "Hojas": ["antihipertensiva", "antiespasmódica", "antiasmática", "antifúngica", "antibacteriana", "anticatarral", "febrífuga", "antitusiva", "estomáquica", "carminativa", "diaforética", "expectorante", "ansiolítica"]
+           "Hojas": ["antihipertensiva", "antiespasmódica", "antiasmática", "antifúngica", "antibacteriana", "febrífuga", "antitusiva", "estomáquica", "carminativa", "diaforética", "expectorante", "ansiolítica"]
         },
         "componentes": {
             "Hojas": {
@@ -614,7 +614,7 @@
           },
         "advertencias": null, 
         "posologia": null,
-        "enfermedades": ["respiratorias", "digestivas", "dermatológicas", "fiebre"]
+        "enfermedades": ["respiratorias", "digestivas", "dermatológicas"]
     },
 
     {
@@ -623,7 +623,7 @@
         "familia" : "Rutaceae", 
         "descripcion": "Árbol espinoso. Hojas de 5 a 7,5 cm de largo, elípticas o aovadas y crenadas; peciolo estrechamente alado. Flores blancas. Fruto globoso, amarillo al madurar de 5 a 7 cm de diámetro, con el jugo bastante insípido",
         "propiedades" : {
-           "Fruto": ["antifúngica", "antibacteriana", "antiescorbútica", "hipotensora", "febrífuga", "antilitiásica", "tónica", "estimulante","carminativa", "aperitiva"],
+           "Fruto": ["antifúngica", "antibacteriana", "antiescorbútica", "hipotensora", "febrífuga", "antilitiásica", "tónica", "estimulante","carminativa"],
            "Semillas": ["antihelmíntica"]
         },
         "componentes": {
@@ -1154,7 +1154,7 @@
         "familia" : "Apiaceae", 
         "descripcion": "Hierba de tallos y peciolos algo carnosos, toda con fuerte olor a anís, alcanzando hasta más de 1 m de altura. Hojas alternas, pinnado-compuestas, terminando en divisiones filiformes. Flores muy pequeñas, amarillas, situadas en inflorescencias en forma de sombrilla (umbela compuesta), en el extremo de los tallos. Frutos pequeños, secos, acostillados",
         "propiedades" : {
-            "Fruto": ["antiespasmódica", "carminativa", "emenagoga", "expectorante", "aperitiva"]
+            "Fruto": ["antiespasmódica", "carminativa", "emenagoga", "expectorante", "aperitiva", "saciante"]
         },
         "componentes": {
             "Frutos": {
@@ -1180,7 +1180,7 @@
         "familia" : "Asteraceae", 
         "descripcion": "Subarbusto de hasta 1 m de altura, muy ramificado. Hojas alternas, bi o tripinnado-partidas, las superiores solo pinnado-partidas, con los segmentos lineales y grisáceo por el abundante vello que las cubre por ambas caras",
         "propiedades" : {
-            "Hojas" : ["antiparasitaria", "aperitiva", "tónica", "vermífuga", "estomáquica", "abortiva", "febrífuga", "tenuífuga", "sudorífica", "emenagoga", "analgésica", "antidiarreica", "antirreumática"]
+            "Hojas" : ["antiparasitaria", "tónica", "vermífuga", "estomáquica", "abortiva", "febrífuga", "tenuífuga", "sudorífica", "emenagoga", "analgésica", "antidiarreica", "antirreumática"]
         },
         "componentes": {
             "Hojas": {
@@ -1201,7 +1201,7 @@
         "familia" : "Rubiaceae", 
         "descripcion": "Arbusto de raíces cilíndricas, pardo-rojizas a oscuras, con superficie lisa o anillada, a veces con fisuras transversales, de hasta 5 mm de diámetro. Hojas opuestas y pecioladas. Flores muy pequeñas, blancas y en racimos. Fruto abayado de color púrpura al madurar con 2 semillas",
         "propiedades" : {
-            "Raíz": ["expectorante", "emética", "diaforética", "antidisentérica", "colagoga", "antiasmática", "anticatarral", "hemostática", "hipotensora", "antiamebiana", "hepatoprotectora"]
+            "Raíz": ["expectorante", "emética", "diaforética", "antidisentérica", "colagoga", "antiasmática", "hemostática", "hipotensora", "antiamebiana", "hepatoprotectora"]
         },
         "componentes": {
             "Raíz": {
@@ -1255,7 +1255,7 @@
         "familia" : "Rutaceae", 
         "descripcion": "Arbolito con espinas cortas y agudas en las ramas. Hojas alternas, relativamente pequeñas en comparación con otros cítricos (5-7 cm de longitud) y con peciolos estrechamente alados, aromáticas. Flores en grupos de 2-7 en la axila de las hojas, muy aromáticas, blancas. Frutos pequeños ocasionalmente con una papila apical, corteza fina y lisa; jugo del endocarpio ácido",
         "propiedades" : {
-            "Fruto": ["vasoconstrictora", "antiespasmódica", "diurética", "antifúngica", "antibacteriana", "antiherpética", "anticatarral"]
+            "Fruto": ["vasoconstrictora", "antiespasmódica", "diurética", "antifúngica", "antibacteriana", "antiherpética", "anticatarral", "antigripal", "antitusiva"]
         },
         "componentes": {
             "Fruto": {
@@ -1273,7 +1273,7 @@
         "posologia": {
             "Decocción": "Hervir por 5 minutos 5-12 g de hojas frescas o corteza de frutos. Ingerir 300-500 ml al día repartidos en 2-3 dosis. La misma decocción se aplica localmente a las partes afectadas 2-3 veces al día"
         },
-        "enfermedades": ["respiratorias", "digestivas"]
+        "enfermedades": ["respiratorias", "digestivas", "fiebre"]
     },
 
     {
@@ -1371,7 +1371,7 @@
         "posologia": {
             "Jarabe": "Según las dosis establecidas"
         },
-        "enfermedades": ["respiratorias", "digestivas", "dermatológicas", "fiebre", "hemorroides"]
+        "enfermedades": ["respiratorias", "digestivas", "dermatológicas", "hemorroides"]
     },
 
     {
@@ -1419,7 +1419,7 @@
             "Infusión": "Verter 5-12 g de flores frescas en 1 litro de agua hirviendo. Reposar 10-15 minutos antes de filtrar. Ingerir 500-700 ml al día repartidos en 3-4 dosis",
             "Extracto fluido": "Mezclar 20 gotas en medio vaso de agua tibia. Ingerir 3 veces al día. Para uso tópico utilizar la infusión descrita, la tintura o el extracto fluido, aplicados localmente sobre la zona afectada 2-3 veces al día"
         },
-        "enfermedades": ["digestivas", "ansiedad", "insomnio", "dermatológicas"]
+        "enfermedades": ["digestivas", "ansiedad", "insomnio", "dermatológicas", "estrés"]
     },
 
     {
@@ -1446,7 +1446,7 @@
         "posologia": {
             "Decocción": "Hervir por no más de 1 min. el equivalente a una cucharadita de la raíz desmenuzada por cada taza de agua. Dejar reposar 15 min. antes de beber. Ingerir una taza por las noches"
         },
-        "enfermedades": ["dermatológicas", "respiratorias", "fiebre", "hemorroides", "digestivas", "digestivas"]
+        "enfermedades": ["dermatológicas", "respiratorias", "hemorroides", "digestivas", "digestivas"]
     },
 
     {
@@ -1499,7 +1499,7 @@
         "posologia": {
             "Decocción": "De 30 a 50 g del follaje fresco por cada litro de agua. Aplicar en las zonas afectadas 2 o 3 veces al día"
         },
-        "enfermedades": ["digestivas", "respiratorias", "nerviosas", "musculares"]
+        "enfermedades": ["digestivas", "respiratorias", "nerviosas", "musculares", "insomnio", "ansiedad"]
     },
 
     {
@@ -1508,7 +1508,7 @@
         "familia" : "Asteraceae", 
         "descripcion": "Hierba estolonífera, de 30 a 90 cm de altura. Hojas sesiles pinnado-partidas en segmentos lineales dentados, las hojas basales son mayores que las caulinares. Capítulos agrupados en inflorescencias densas dispuestas en planos horizontales en el extremo de las ramas; cada capítulo compuesto por 4 o 6 flores radiales blancas, y numerosas tubulares blanco amarillentas",
         "propiedades" : {
-            "Hojas": ["hemostática", "antiespasmódica", "colagoga", "aperitiva", "carminativa", "laxante", "hipotensora", "antihemorroidal", "antiséptica", "febrífuga", "antiinflamatoria", "diurética", "emenagoga", "eupeptica"]
+            "Hojas": ["hemostática", "antiespasmódica", "colagoga", "carminativa", "laxante", "hipotensora", "antihemorroidal", "antiséptica", "febrífuga", "antiinflamatoria", "diurética", "emenagoga", "eupeptica"]
         },
         "componentes": {
             "Flores": {
@@ -1596,8 +1596,8 @@
         "descripcion": "Árbol de mediano tamaño, muy ramificado y espinoso. Hojas alternas, unifolioladas, anchamente elípticas, con el peciolo alado y estrechado hacia la base. Flores grandes, aromáticas, blancas, solitarias o en pequeños grupos. Fruto en hesperidio, generalmente de entre 7-9 cm de diámetro, jugoso",
         "propiedades" : {
             "Flores" : ["hipnótica"],
-            "Fruto" : ["tónica", "carminativa", "aperitiva", "analgésica", "antipirética", "anticatarral"],
-            "Hojas" : ["vasoconstrictora", "antiespasmódica", "diurética", "antibacteriana", "anticatarral"]
+            "Fruto" : ["tónica", "carminativa", "analgésica", "antipirética", "anticatarral", "antigripal", "antitusiva"],
+            "Hojas" : ["vasoconstrictora", "antiespasmódica", "diurética", "antibacteriana", "anticatarral", "antigripal", "antitusiva"]
         },
         "componentes": {
             "Fruta": {
@@ -1620,7 +1620,7 @@
         "posologia": {
             "Decocción": "Hervir por 5 minutos 5-12 g de hojas frescas o corteza de frutos. Ingerir 300-500 ml al día repartidos en 2-3 dosis. La misma decocción se aplica localmente a las partes afectadas 2-3 veces al día"
         },
-        "enfermedades": ["respiratorias", "digestivas", "ansiedad"]
+        "enfermedades": ["respiratorias", "digestivas", "ansiedad", "fiebre"]
     },
 
     {
@@ -1630,7 +1630,7 @@
         "descripcion": "Arbolito con espinas en las axilas de las hojas, estas alternas, rígidas y aromáticas; peciolo estrechamente alado. Flores axilares, solitarias o en pequeños grupos, blancas, perfumadas. Fruto en hesperidio, con la corteza delgada y fina, el endocarpio membranoso provisto de numerosos tricomas jugosos. Semillas de color claro en cantidades variablesArbolito con espinas en las axilas de las hojas, estas alternas, rígidas y aromáticas; peciolo estrechamente alado. Flores axilares, solitarias o en pequeños grupos, blancas, perfumadas. Fruto en hesperidio, con la corteza delgada y fina, el endocarpio membranoso provisto de numerosos tricomas jugosos. Semillas de color claro en cantidades variables",
         "propiedades" : {
             "Flores" : ["antiespasmódica"],
-            "Fruto" : ["tónica", "carminativa", "aperitiva", "analgésica", "antipirética"],
+            "Fruto" : ["tónica", "carminativa", "aperitiva", "analgésica", "antipirética", "saciante"],
             "Hojas" : ["vasoconstrictora", "antiespasmódica", "diurética", "antibacteriana"]
         },
         "componentes": {
@@ -1661,7 +1661,7 @@
         "familia" : "Myristicaceae", 
         "descripcion": "Árbol con las hojas blanquecinas en la cara inferior y con nervadura secundaria que confluye cerca del margen y la nervadura terciaria reticulada y aromática. Flores pediceladas, agrupadas en inflorescencias mayormente axilares; pétalos ausentes; filamentos connados formando una columna. Fruto carnoso y monospermo. Semillas ariladas",
         "propiedades" : {
-            "Semillas" : ["carminativa", "estimulante", "antifúngica", "antitusiva"]
+            "Semillas" : ["carminativa", "estimulante", "antifúngica"]
         },
         "componentes": {
             "Semilla": {
@@ -1908,7 +1908,7 @@
         "familia" : "Musaceae", 
         "descripcion": "Hierba robusta de hasta 10 m de altura e izomatosa. Hojas fuertes y bien desarrolladas, peciolos envainadores que conforman el falso tallo aéreo, limbo de 1 a 2 m de largo y 35 a 60 cm de ancho, rasgándose en tiras perpendiculares al eje central. Flores unisexuales, dispuestas en semiverticilos sobre un robusto eje pendular de hasta 1 m de altura; las flores inferiores son femeninas y las superiores, masculinas. Fruto carnoso",
         "propiedades" : {
-            "Fruto": ["antiasmática", "antiulcerosa", "antituberculosa", "anticancerosa", "hemostática", "cicatrizante"]
+            "Fruto": ["antiasmática", "antiulcerosa", "antituberculosa", "anticancerosa", "hemostática", "cicatrizante", "saciante", "aperitiva"]
         },
         "componentes": {
             "Fruto": {
@@ -2096,7 +2096,7 @@
         "familia" : "Liliaceae", 
         "descripcion": "Hierba perenne, sin tallo aparente. Hojas carnosas, lanceoladas, agrupadas formando una roseta. Flores tubulares, amarillas, dispuestas en una espiga que se sitúa en el extremo de un tallo erguido (escapo) que sobresale marcadamente por sobre las hojas",
         "propiedades" : {
-            "Hojas": ["laxante", "antiulcerosa", "Protector del tejido hepático", "antiasmática", "anticatarral", "antialopética", "antialérgica", "antiartrítica", "antiparasitaria", "colagoga", "expectorante", "vulneraria", "antihemorroidal"]
+            "Hojas": ["laxante", "antiulcerosa", "Protector del tejido hepático", "antiasmática", "antialopética", "antialérgica", "antiartrítica", "antiparasitaria", "colagoga", "expectorante", "vulneraria", "antihemorroidal"]
         },
         "componentes": {
             "Hojas": {
@@ -2311,7 +2311,7 @@
             "Decocción": "Hervir por 5 minutos 1520 g de hojas frescas en 1 litro de agua. Ingerir 240 ml al día repartidos en 2 dosis",
             "Extracto fluido": "Mezclar 5 ml en 120 ml de agua tibia. Ingerir en el transcurso del día repartidos en 2 dosis. Para uso tópico, utilizar indistintamente la decocción descrita o elextracto fluido, aplicados localmente sobre la zona afectada 2-3 veces al día"
         },
-        "enfermedades": ["respiratorias", "insomnio"]
+        "enfermedades": ["respiratorias", "insomnio", "ansiedad", "estrés"]
     },
 
     {
@@ -2385,7 +2385,7 @@
         "posologia": {
             "Infusión": "Verter una taza de agua hirviendo sobre una cucharadita de hojas desmenuzadas. Reposar de 10-15 min. Beber 2-3 tazas al día"
         },
-        "enfermedades": ["digestivas", "nerviosas", "respiratorias"]
+        "enfermedades": ["digestivas", "nerviosas", "respiratorias", "fiebre"]
     },
 
     {
@@ -2514,7 +2514,7 @@
         "familia" : "Euphorbiaceae", 
         "descripcion": "Arbusto de entre 2-3 m. de altura, provisto de raíces tuberosas alargadas. Hojas alternas largamente pecioladas, limbo 3-5 partido, segmentos de entre 8-15 cm. de longitud. Flores en racimos ramificados, las femeninas en la base, pocas con el cáliz más corto que en las masculinas. Fruto en cápsula de alrededor de 1,5 cm. de diámetro estrechamente alado",
         "propiedades" : {
-            "Raíz": ["antipruriginosa", "analéptica", "drástica", "absorbente", "antidisentérica", "hipostenizante", "entérica", "detersiva", "madurativa", "energética", "saciante", "antioxidante", "prebiótica"],
+            "Raíz": ["antipruriginosa", "analéptica", "drástica", "absorbente", "antidisentérica", "hipostenizante", "entérica", "detersiva", "madurativa", "energética", "saciante", "antioxidante", "prebiótica", "aperitiva", "saciante"],
             "Hojas": ["antirreumática", "antiinflamatoria", "cicatrizante"]
         },
         "componentes": {
@@ -2543,7 +2543,7 @@
         "familia" : "Apiaceae", 
         "descripcion": "Hortaliza que consiste en una raíz comestible engrosada de color naranja, con un diámetro que oscila entre los 2 y los 10 cm. Las hojas son de color verde oscuro y están muy divididas, con folíolos estrechos y puntiagudos. Las flores son pequeñas y blancas, y se agrupan en umbelas. Las semillas son pequeñas y de color marrón oscuro",
         "propiedades" : {
-            "Raíz": ["anticancerígena", "antioxidante", "diurética", "remineralizante"]
+            "Raíz": ["anticancerígena", "antioxidante", "diurética", "remineralizante", "aperitiva", "saciante"]
         },
         "componentes": {
             "Raíz" : {
