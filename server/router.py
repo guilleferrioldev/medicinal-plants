@@ -1,9 +1,8 @@
 from fastapi import APIRouter
 from fastapi.responses import ORJSONResponse
-from utils import apply_from_split_to_lemmatization, load_json, split_sentence
-from tf_idf import extract_tfidf, tf
+from utils import apply_from_split_to_lemmatization, load_json, split_sentence, remove_stopwords
+from calculus import extract_tf_idf, extract_jaccard_similarity
 from collections import defaultdict
-from levenshtein_distance import levenshtein_distance
 
 router = APIRouter()
 
@@ -17,32 +16,45 @@ async def get_prediction(symptoms: str) -> ORJSONResponse:
         symptoms_lemma = apply_from_split_to_lemmatization(symptoms)
 
         "TF-IDF"
-        properties_tf_idf_lemma = extract_tfidf(symptoms_lemma, {prop["nombre"]: prop["lema"] for prop in properties})
-        diseases_tf_idf_lemma = extract_tfidf(symptoms_lemma, {disease["nombre"]: disease["lema"] for disease in diseases}, "diseases")
+        properties_tf_idf = extract_tf_idf(symptoms_lemma, {prop["nombre"]: prop["lema"] for prop in properties})
+        diseases_tf_idf = extract_tf_idf(symptoms_lemma, {disease["nombre"]: disease["lema"] for disease in diseases}, "diseases")
 
-        "Levenshtein Distance"
-        distance = levenshtein_distance(symptoms_lemma, properties[1]["lema"])
-        print(distance, symptoms_lemma, properties[1]["lema"])
+        "Jaccard Similarity"
+        properties_jaccard = extract_jaccard_similarity(symptoms_lemma, {prop["nombre"]: prop["lema"] for prop in properties})
+        diseases_jaccard = extract_jaccard_similarity(symptoms_lemma, {disease["nombre"]: disease["lema"] for disease in diseases}, "diseases")
         
         response_plants = {}
         for plant in plants:
             values = defaultdict(int)
+            properties_of_this_plant = sum(plant["propiedades"].values(), [])
+            diseases_of_this_plant = plant["enfermedades"]
             #tf-idf
-            for disease, value in diseases_tf_idf_lemma.items():
-                if disease in plant["enfermedades"]:
+            for prop, value in properties_tf_idf.items():
+                if prop in properties_of_this_plant:
                     values["tf_idf"] += value
 
-            for prop, value in properties_tf_idf_lemma.items():
-                if prop in sum(plant["propiedades"].values(), []):
+            for disease, value in diseases_tf_idf.items():
+                if disease in diseases_of_this_plant:
                     values["tf_idf"] += value
+
+            #Jaccard Similarity
+            for prop, value in properties_jaccard.items():
+                if prop in properties_of_this_plant:
+                    values["jaccard"] += value
+
+            for disease, value in diseases_jaccard.items():
+                if disease in diseases_of_this_plant:
+                    values["jaccard"] += value
 
             if values != {}:
-                response_plants[plant["nombre"]] = values
+                values["tf_idf"] *= 0.5
+                values["jaccard"] *= 0.3
+                response_plants[plant["nombre"]] = sum(values.values())
         
         return ORJSONResponse(
             {
              "status": "success",
-             "plants": response_plants
+             "plants": list(dict(sorted(response_plants.items(), key=lambda item: item[1], reverse=True)))[:5]
             }, 
             status_code=200)
     except Exception as err:
