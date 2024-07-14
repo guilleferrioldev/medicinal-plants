@@ -1,13 +1,13 @@
 import Home from "@/components/home";
-import styles from "@/components/style.module.css"
+import Plants from "@/components/plants";
 
 export default function HomePage() {
   return (
     <main>
       <Home/>
-      <section className={styles.sec} id='sec'>
-        <h2>Plantas recomendadas</h2>
-      </section>
+      <Plants>
+        
+      </Plants>
     </main>
   );
 }
