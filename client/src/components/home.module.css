@@ -17,7 +17,7 @@
     z-index: 100;
 }
 
-.navigation a {
+.navigation button {
     text-decoration: none;
     color: #359381;
     padding: 6px 15px;
@@ -25,10 +25,11 @@
     margin: 0 10px;
     font-weight: 600;
     font-size: 1.1em;
+    border: none;
+    cursor: pointer;
 }
 
-.navigation a:hover, 
-.navigation a.active{
+.navigation button:hover {
     background: #359381;
     color: #fff;
 }
