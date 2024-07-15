@@ -10,7 +10,6 @@ export default function SymtomsForm () {
     const pathname = usePathname();
     const { replace } = useRouter();
     const formRef = useRef<HTMLFormElement>(null);
-    const [symptoms, setSymptoms] = useState<string>()
     const [placeholder, setPlaceholder] = useState<string>("¿Qué síntomas tienes?")
 
     useEffect(() => {
@@ -39,13 +38,12 @@ export default function SymtomsForm () {
           setPlaceholder("¿Qué síntomas tienes?")
           params.delete('sintomas')   
         }
-
-        setSymptoms(input)
+        
         replace(`${pathname}?${params.toString()}`)
-    }, 400)
+    }, 200)
   
     const plantsAction = () => {
-        if (!symptoms) {
+        if (!searchParams.get("sintomas")) {
           setPlaceholder("Debe insertar los síntomas")
           return
         }
@@ -57,7 +55,7 @@ export default function SymtomsForm () {
         <form ref={formRef} className={styles.form} action={plantsAction}>
             <input name="symptoms" 
                    onChange={handleInputChange}
-                   defaultValue={symptoms}
+                   defaultValue={searchParams.get("sintomas") ?? ""}
                    placeholder={placeholder}/>
             <button type="submit">
               <svg width="35px" height="35px" viewBox="0 0 24 24">

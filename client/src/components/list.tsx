@@ -3,8 +3,11 @@
 import { getPlants } from "@/actions/getPlantsActions";
 import { useEffect, useRef, useState } from "react";
 import { useInView } from "react-intersection-observer";
+import CardList from "./cardList";
+import { useSearchParams } from "next/navigation";
 
 export default function ListOfPlants ({symptoms}: {symptoms: string}) {
+    const searchParams = useSearchParams();
     const { ref, inView } = useInView();
     const [plants, setPlants] = useState<string[]>([])
     const page = useRef(1)
@@ -27,13 +30,15 @@ export default function ListOfPlants ({symptoms}: {symptoms: string}) {
 
     return (
         <>
+            {!plants.length && searchParams.get("sintomas") && <h3>Los síntomas no corresponden con ninguna planta</h3>}
+
             {
             plants?.map((plant: string, index: number) => (
-                <li style={{ height: 200 }} key={index}>{plant}</li>
+                <CardList key={index} plant={plant} index={index}/>
                 ))
             }
 
-            <div ref={ref} style={{ opacity: 0 }}>
+            <div ref={ref} style={{ opacity: 0}}>
                 <span>Loading</span>
             </div>
         </>

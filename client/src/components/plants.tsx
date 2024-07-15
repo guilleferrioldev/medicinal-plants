@@ -1,9 +1,9 @@
 import styles from "@/components/home.module.css"
 
-export default function Plants ({children}: {children?: React.ReactNode}) {
+export default function Plants ({children, text}: {children?: React.ReactNode, text: string}) {
     return (
         <section className={styles.sec} id='plantas'>
-            <h2>Plantas recomendadas</h2>
+            <h2>{text}</h2>
             <div>
                 <ul>
                     {children}

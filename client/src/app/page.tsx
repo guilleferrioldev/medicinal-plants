@@ -20,7 +20,7 @@ export default async function HomePage({
           <SymtomsForm/>
         </Suspense>
       </Home>
-      <Plants>
+      <Plants text={sintomas ? "Plantas recomendada" : "Todas las plantas"}>
         <ListOfPlants symptoms={sintomas}/>
       </Plants>
     </main>

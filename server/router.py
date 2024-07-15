@@ -13,8 +13,8 @@ async def get_prediction(symptoms: str, page: int) -> ORJSONResponse:
         diseases = load_json("enfermedades.json")
         plants = load_json("plantas.json")
 
-        start = (page - 1) * 5
-        end = start + 5
+        start = (page - 1) * 10
+        end = start + 10
 
         if (symptoms == "") : 
             return ORJSONResponse(
