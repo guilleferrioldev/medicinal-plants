@@ -12,6 +12,17 @@ async def get_prediction(symptoms: str, page: int) -> ORJSONResponse:
         properties = load_json("propiedades.json")
         diseases = load_json("enfermedades.json")
         plants = load_json("plantas.json")
+
+        start = (page - 1) * 5
+        end = start + 5
+
+        if (symptoms == "") : 
+            return ORJSONResponse(
+            {
+             "status": "success",
+             "plants": [plant["nombre"] for plant in plants][start: end]
+            }, 
+            status_code=200)
     
         symptoms_lemma = apply_from_split_to_lemmatization(symptoms)
 
@@ -50,9 +61,6 @@ async def get_prediction(symptoms: str, page: int) -> ORJSONResponse:
                 values["tf_idf"] *= 0.3
                 values["jaccard"] *= 0.1
                 response_plants[plant["nombre"]] = sum(values.values())
-            
-        start = (page - 1) * 5
-        end = start + 5
         
         return ORJSONResponse(
             {

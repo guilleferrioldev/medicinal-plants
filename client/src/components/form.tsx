@@ -1,10 +1,14 @@
 "use client"
 
 import styles from "@/components/home.module.css"
+import { usePathname, useSearchParams, useRouter } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { useDebouncedCallback } from "use-debounce";
 
 export default function SymtomsForm () {
+    const searchParams = useSearchParams();
+    const pathname = usePathname();
+    const { replace } = useRouter();
     const formRef = useRef<HTMLFormElement>(null);
     const [symptoms, setSymptoms] = useState<string>()
     const [placeholder, setPlaceholder] = useState<string>("¿Qué síntomas tienes?")
@@ -26,21 +30,19 @@ export default function SymtomsForm () {
     }, []);
 
     const handleInputChange = useDebouncedCallback((event: React.ChangeEvent<HTMLInputElement>) => {
-        setSymptoms(event.target.value)
-        if (event.target.value === "") {
-          setPlaceholder("¿Qué síntomas tienes?")
-        }
-    }, 200)
-  
-    useEffect(() => {
-        const url = new URL(window.location.href);
-        if (symptoms) {
-          url.searchParams.set('sintomas', symptoms);
+        const input = event.target.value.trim()
+        const params = new URLSearchParams(searchParams)
+
+        if (input) {
+          params.set('sintomas', input)
         } else {
-          url.searchParams.delete('sintomas');
+          setPlaceholder("¿Qué síntomas tienes?")
+          params.delete('sintomas')   
         }
-        window.history.replaceState(null, '', url);
-    }, [symptoms])
+
+        setSymptoms(input)
+        replace(`${pathname}?${params.toString()}`)
+    }, 400)
   
     const plantsAction = () => {
         if (!symptoms) {

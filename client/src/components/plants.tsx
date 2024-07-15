@@ -5,7 +5,9 @@ export default function Plants ({children}: {children?: React.ReactNode}) {
         <section className={styles.sec} id='plantas'>
             <h2>Plantas recomendadas</h2>
             <div>
-                {children}
+                <ul>
+                    {children}
+                </ul>
             </div>
         </section>
     )
