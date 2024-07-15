@@ -1,4 +1,5 @@
 import styles from "@/components/home.module.css"
+import { Suspense } from "react"
 
 export default function Plants ({children, text}: {children?: React.ReactNode, text: string}) {
     return (
@@ -6,7 +7,9 @@ export default function Plants ({children, text}: {children?: React.ReactNode, t
             <h2>{text}</h2>
             <div>
                 <ul>
+                    <Suspense>
                     {children}
+                    </Suspense>
                 </ul>
             </div>
         </section>

@@ -5,7 +5,7 @@ import { MotionDiv } from "./motionDiv"
 export default function CardList ({plant, index}: {plant: string, index: number}) {
     return (
         <li>
-            <Link href="#plantas" className={styles.Link}>
+            <Link href={`/${plant}`} className={styles.Link}>
                 <MotionDiv className={styles.cardList}
                 initial="hidden"
                 animate="visible"
