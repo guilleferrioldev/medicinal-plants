@@ -18,7 +18,37 @@
     box-shadow: 0 0 10px #81b3a9;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
     padding: 1%;
+    overflow-y: scroll;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding : 10px;
+} 
+  
+.details ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+.back { 
+    position: absolute;
+    right: 20px; 
+    top: 20px
+}
+
+.back button {
+    background: #003329; 
+    border: none; 
+    border-radius: 10px;
+    cursor: pointer;
+    transition: ease 0.5s
+}
+
+.back button:hover {
+    opacity: 0.8;
+    box-shadow: 0 0 10px #003329;
 }

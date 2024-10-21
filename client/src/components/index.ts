@@ -1,3 +1,4 @@
+import { ButtonToBack, ButtonToReturn } from "./backButton";
 import CardList from "./cardList";
 import SymtomsForm from "./form";
 import Header from "./header";
@@ -13,5 +14,7 @@ export {
     ListOfPlants,
     MotionDiv,
     Plants,
-    Home
+    Home,
+    ButtonToBack,
+    ButtonToReturn,
 }

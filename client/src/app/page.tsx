@@ -1,4 +1,4 @@
-import { Header, Home, ListOfPlants, Plants, SymtomsForm } from "@/components";
+import { Header, Home, ListOfPlants, MotionDiv, Plants, SymtomsForm } from "@/components";
 import { Suspense } from "react";
 
 export default async function HomePage({
@@ -9,7 +9,10 @@ export default async function HomePage({
   const sintomas = searchParams?.sintomas ?? '';
 
   return (
-    <main>
+    <MotionDiv
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      transition={{ ease: 'easeInOut', duration: 0.50 }}>
       <Header/>
       <Home>
         <Suspense>
@@ -19,6 +22,6 @@ export default async function HomePage({
       <Plants text={sintomas ? "Plantas recomendada" : "Todas las plantas"}>
         <ListOfPlants symptoms={sintomas}/>
       </Plants>
-    </main>
+    </MotionDiv>
   );
 }
