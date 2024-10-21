@@ -1,12 +1,12 @@
 "use client"
 
-import { getPlants } from "@/actions/getPlantsActions";
+import { getPlants } from "@/actions/getPlants";
 import { useEffect, useRef, useState } from "react";
 import { useInView } from "react-intersection-observer";
-import CardList from "./cardList";
+import { CardList } from "@/components";
 import { useSearchParams } from "next/navigation";
 
-export default function ListOfPlants ({symptoms}: {symptoms: string}) {
+export default function ListOfPlants ({symptoms}: Readonly<{symptoms: string}>) {
     const searchParams = useSearchParams();
     const { ref, inView } = useInView();
     const [plants, setPlants] = useState<string[]>([])
@@ -20,9 +20,13 @@ export default function ListOfPlants ({symptoms}: {symptoms: string}) {
     useEffect(() => {
         if (inView) {
             const fetchPlants = async () => {
-                const newPlants = await getPlants(symptoms, page.current)
-                page.current += 1
-                setPlants(prevPlants => [...prevPlants, ...newPlants ?? []])
+                try {
+                    const newPlants = await getPlants(symptoms, page.current)
+                    page.current += 1
+                    setPlants(prevPlants => [...prevPlants, ...newPlants ?? []])
+                } catch {
+                    setPlants([])
+                }
             }
             fetchPlants()
         }

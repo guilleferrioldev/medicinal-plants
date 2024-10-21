@@ -1,10 +1,10 @@
 "use client"
 
-import styles from "@/components/home.module.css"
+import styles from "@/styles/home.module.css"
 import Image from 'next/image'
 import { useEffect, useRef} from "react";
 
-export default function Home({children}: {children: React.ReactNode}) {
+export default function Home({children}: Readonly<{children: React.ReactNode}>) {
     const textRef = useRef<HTMLHeadingElement>(null);
     const leafRef = useRef<HTMLImageElement>(null);
     const hill1Ref = useRef<HTMLImageElement>(null);
@@ -44,7 +44,6 @@ export default function Home({children}: {children: React.ReactNode}) {
     } as React.CSSProperties;
 
   return (
-    <>
       <section className={styles.parallax} id='buscar'>
         <Image ref={hill1Ref} src="/images/hill1.png" alt="hill1" style={imageStyle} width={500} height={500}></Image>
         <Image src="/images/hill2.png" alt="hill2" style={imageStyle} width={500} height={500}></Image>
@@ -57,6 +56,5 @@ export default function Home({children}: {children: React.ReactNode}) {
         <h2 ref={textRef} className={styles.text}>Plantas Medicinales</h2>
         {children}
       </section>
-    </>
   );
 }

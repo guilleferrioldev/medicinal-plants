@@ -1,6 +1,6 @@
 "use client"
 
-import styles from "@/components/home.module.css"
+import styles from "@/styles/home.module.css"
 import { usePathname, useSearchParams, useRouter } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { useDebouncedCallback } from "use-debounce";

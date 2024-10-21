@@ -1,8 +1,8 @@
-import styles from "@/components/home.module.css"
+import styles from "@/styles/home.module.css"
 import Link from "next/link"
-import { MotionDiv } from "./motionDiv"
+import { MotionDiv } from "@/components"
 
-export default function CardList ({plant, index}: {plant: string, index: number}) {
+export default function CardList ({plant, index}: Readonly<{plant: string, index: number}>) {
     return (
         <li>
             <Link href={`/${plant}`} className={styles.Link}>

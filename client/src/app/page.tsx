@@ -1,8 +1,4 @@
-import SymtomsForm from "@/components/form";
-import Header from "@/components/header";
-import Home from "@/components/home";
-import ListOfPlants from "@/components/list";
-import Plants from "@/components/plants";
+import { Header, Home, ListOfPlants, Plants, SymtomsForm } from "@/components";
 import { Suspense } from "react";
 
 export default async function HomePage({
@@ -10,7 +6,7 @@ export default async function HomePage({
 }: {searchParams?:{
   sintomas?: string
 }}) {
-  const sintomas = searchParams?.sintomas || '';
+  const sintomas = searchParams?.sintomas ?? '';
 
   return (
     <main>
